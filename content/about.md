@@ -16,7 +16,7 @@ sections:
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
-    title: The Core Team
+    title: The Team
     subtitle: our wizards behind the curtan
     col_number: three
     grid_items:
