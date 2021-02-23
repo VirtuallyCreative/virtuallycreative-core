@@ -23,9 +23,10 @@ sections:
       - title: Al Romano
         image: images/incredible-owl.png
         subtitle: 'Founder, Lead Developer'
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
+        content: >
+          Front-End Dev with a JAMStack Focus fell in love with Node and have no
+          regrets. Dad, Husband, Tech Blogger, Airsoft Fanatic, and I try to
+          Sous Vide everything.
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
