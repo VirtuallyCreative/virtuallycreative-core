@@ -17,7 +17,7 @@ sections:
   - type: grid_section
     section_id: team
     title: The Core
-    subtitle: An optional subtitle of the section
+    subtitle: our wizards behind the curtan
     col_number: three
     grid_items:
       - title: Al Romano
