@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      A digital agency focused on empathy based design and compassonate
-      development. We believe in an accessible web for all.
+    title: A digital agency in Toronto
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
