@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Main
 hide_title: true
 sections:
   - type: hero_section
