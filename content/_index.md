@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: >-
       A Canadian digital agency focused on advocating for compassionate design
-      and a11y development best practices.
+      and accessability development best practices.
     content: >
       > Understand that accessibility isn’t something you tack on to a good
       design—it is good design.
