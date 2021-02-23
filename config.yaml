@@ -7,7 +7,7 @@ params:
   header:
     title: Virtually(Creative)
     logo: images/Logo-Big.png
-    logo_alt: Agency logo
+    logo_alt: Virtually Creative Logo
     has_nav: true
     nav_links:
       - label: Home
