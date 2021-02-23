@@ -1,5 +1,5 @@
 ---
-title: Our Work
+title: Fancy
 subtitle: This is an optional subtitle for the portfolio page
 layout_style: mosaic
 seo:
