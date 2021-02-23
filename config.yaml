@@ -50,11 +50,6 @@ params:
         style: icon
         icon: twitter
         new_window: true
-      - label: Dribbble
-        url: 'https://dribbble.com/'
-        style: icon
-        icon: dribbble
-        new_window: true
   domain: 'https://virtuallycreative-core-421e2.netlify.app'
   favicon: images/Logo Arrows.png
 taxonomies:
