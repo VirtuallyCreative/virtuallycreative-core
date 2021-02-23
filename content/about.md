@@ -47,6 +47,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         image_alt: 'Portrait of Al Romano, Founder of Virtually Creative'
   - type: cta_section
     section_id: cta
