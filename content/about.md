@@ -49,7 +49,7 @@ sections:
             type: action
           - label: Facebook
             url: lorem-ipsum
-            style: link
+            style: icon
             icon: facebook
             new_window: false
             no_follow: false
