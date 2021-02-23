@@ -37,7 +37,7 @@ sections:
         image_alt: Logo 4
       - image: images/logo-5.svg
         image_alt: Logo 5
-    subtitle: 'started with the LAMP stack, now we''re all about that JAM Stack'
+    subtitle: started with the LAMP stack; now we're all about that JAM Stack
   - type: grid_section
     section_id: services
     title: Services
