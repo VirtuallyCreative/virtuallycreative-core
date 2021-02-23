@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      A Canadian digital agency advocating for compassionate design and
+      A Canadian digital agency advocating for inclusive design and
       accessibility development best practices.
     content: >
       > Understand that accessibility(a11y) isn’t something you tack on to a
