@@ -1,6 +1,5 @@
 ---
 title: Blog
-subtitle: a peek behind the madnesss
 hide_title: false
 col_number: three
 seo:
