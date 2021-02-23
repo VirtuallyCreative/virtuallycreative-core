@@ -36,7 +36,7 @@ sections:
           - label: LinkedIn
             url: lorem-ipsum
             style: icon
-            icon: dribbble
+            icon: linkedin
             new_window: false
             no_follow: false
             type: action
