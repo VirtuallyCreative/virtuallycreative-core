@@ -21,7 +21,7 @@ sections:
     col_number: three
     grid_items:
       - title: Al Romano
-        image: images/team-1.png
+        image: images/incredible-owl.png
         subtitle: 'Founder, Lead Developer'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
