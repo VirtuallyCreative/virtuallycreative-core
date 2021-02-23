@@ -29,4 +29,5 @@ seo:
       value: images/post-1.jpg
       relativeUrl: true
 layout: blog
+subtitle: fefe
 ---
