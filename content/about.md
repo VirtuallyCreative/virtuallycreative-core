@@ -42,8 +42,8 @@ sections:
             type: action
           - label: Github
             url: lorem-ipsum
-            style: link
-            icon: dribbble
+            style: icon
+            icon: github
             new_window: false
             no_follow: false
             type: action
