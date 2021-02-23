@@ -32,23 +32,6 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-      - title: Gordon Norman
-        image: images/team-3.png
-        subtitle: Creative Producer
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
       - title: Parsley Montana
         image: images/team-4.png
         subtitle: 'Senior Designer, Motion Graphics'
