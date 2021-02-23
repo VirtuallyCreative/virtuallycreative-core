@@ -32,6 +32,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
+        image_alt: 'Portrait of Al Romano, Founder of Virtually Creative'
   - type: cta_section
     section_id: cta
     title: Become a Team Player
