@@ -22,7 +22,7 @@ sections:
     grid_items:
       - title: Al Romano
         image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: 'Founder, Lead Developer'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
