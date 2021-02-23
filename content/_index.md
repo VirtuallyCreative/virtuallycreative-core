@@ -25,7 +25,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Tech Stack
-    subtitle: Some of the major technologies we use and believe in
+    subtitle: some open-source technologies that contribute to our stack
     col_number: three
     grid_items:
       - image: images/logo-1.svg
