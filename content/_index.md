@@ -13,7 +13,7 @@ sections:
 
       >
 
-      > [Let's talk](/contact/).
+      > [Curious? Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
