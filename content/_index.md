@@ -82,7 +82,7 @@ sections:
       Let's get to know each other a bit more and what you're looking to get out
       of working with us at Virtually(Creative).
     actions:
-      - label: Let's start
+      - label: Let's Talk.
         url: /contact
         style: button
     image: images/cta.svg
