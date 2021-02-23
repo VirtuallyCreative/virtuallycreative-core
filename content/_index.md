@@ -78,9 +78,9 @@ sections:
   - type: cta_section
     section_id: cta
     title: Want to get started?
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Let's get to know each other a bit more and what you're looking to get out
+      of working with us at Virtually(Creative).
     actions:
       - label: Let's start
         url: /contact
