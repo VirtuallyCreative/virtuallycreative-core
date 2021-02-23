@@ -1,5 +1,5 @@
 ---
-title: Fancy
+title: Fancy Stuff
 subtitle: This is an optional subtitle for the portfolio page
 layout_style: mosaic
 seo:
