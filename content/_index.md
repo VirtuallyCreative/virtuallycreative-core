@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are an Agency Based in Toronto and Focusing on Digital, Identity, and
+      We are an Agency Based in Toronto. Focusing on Digital, Identity, and
       Print Design.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
