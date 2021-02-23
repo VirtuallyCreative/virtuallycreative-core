@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      A Canadian digital agency focused on advocating for compassonate design
+      A Canadian digital agency focused on advocating for compassionate design
       and a11y, open web.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
