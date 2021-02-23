@@ -4,10 +4,10 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Full Stack Web Developer with a knack for web analytics, data
-      visualization and dashboards; firm believer of "user experience first" and
-      HTML First Prototyping approaches when applying best practice standards
-      for web development.
+      Self-taught, Full Stack Web Developer with a knack for web analytics and
+      data visualization dashboards. I am a strong advocate of inclusive design;
+      firm believer of "user experience first" and HTML First Prototyping
+      approaches when applying best practice standards for web development.
 
 
       Starting out as a PHP (LAMP) developer (you guessed it, WordPress...) I've
