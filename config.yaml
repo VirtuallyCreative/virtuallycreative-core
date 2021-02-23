@@ -48,7 +48,7 @@ params:
       - label: Github
         url: 'https://www.instagram.com/'
         style: icon
-        icon: instagram
+        icon: github
         new_window: true
       - label: Dribbble
         url: 'https://dribbble.com/'
