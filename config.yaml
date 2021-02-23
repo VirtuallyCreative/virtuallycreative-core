@@ -35,6 +35,11 @@ params:
       target="_blank" rel="noopener">now</a>
     has_social: true
     social_links:
+      - label: LinkedIn
+        url: 'https://www.linkedin.com/'
+        style: icon
+        icon: linkedin
+        new_window: true
       - label: Twitter
         url: 'https://twitter.com/'
         style: icon
@@ -49,11 +54,6 @@ params:
         url: 'https://dribbble.com/'
         style: icon
         icon: dribbble
-        new_window: true
-      - label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        style: icon
-        icon: linkedin
         new_window: true
   domain: 'https://virtuallycreative-core-421e2.netlify.app'
   favicon: images/Logo Arrows.png
