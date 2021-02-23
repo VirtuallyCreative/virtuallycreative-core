@@ -3,15 +3,22 @@ title: My Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >
+      Full Stack Web Developer with a knack for web analytics, data
+      visualization and dashboards; firm believer of "user experience first" and
+      HTML First Prototyping approaches when applying best practice standards
+      for web development.
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      Starting out as a PHP (LAMP) developer (you guessed it, WordPress...) I've
+      recently taken an interest in Information Dashboard design and data
+      visualization using JavaScript as well as becoming more proficient using
+      Node.js both for pipeline and for building applications (MExN stack).
+
+
+      I have worked for international ad agencies like Saatchi & Saatchi and
+      Upcoming Media, local bioinformatics and technology startups like Cyclica
+      and am currently helping the cause at SickKids Foundation.
     image: images/405_Front_End_Development_Doodle_Concept-med.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
