@@ -3,7 +3,7 @@ baseURL: /
 params:
   color_scheme: light
   accent_color: blue
-  base_font: fraunces
+  base_font: system-sans
   header:
     title: Agency
     logo: images/logo.svg
