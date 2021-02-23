@@ -55,6 +55,7 @@ params:
         icon: linkedin
         new_window: true
   domain: 'https://virtuallycreative-core-421e2.netlify.app'
+  favicon: images/Logo Arrows.png
 taxonomies:
   stub: stub
 disableKinds:
