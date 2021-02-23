@@ -33,7 +33,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-          - label: lorem-ipsum
+          - label: LinkedIn
             url: lorem-ipsum
             style: link
             icon: dribbble
