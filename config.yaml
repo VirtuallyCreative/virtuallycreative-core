@@ -40,15 +40,15 @@ params:
         style: icon
         icon: linkedin
         new_window: true
-      - label: Twitter
-        url: 'https://twitter.com/'
-        style: icon
-        icon: twitter
-        new_window: true
       - label: Github
         url: 'https://www.instagram.com/'
         style: icon
         icon: github
+        new_window: true
+      - label: Twitter
+        url: 'https://twitter.com/'
+        style: icon
+        icon: twitter
         new_window: true
       - label: Dribbble
         url: 'https://dribbble.com/'
