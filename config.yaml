@@ -5,7 +5,7 @@ params:
   accent_color: blue
   base_font: system-sans
   header:
-    title: Agency
+    title: Virtually(Creative)
     logo: images/logo.svg
     logo_alt: Agency logo
     has_nav: true
