@@ -2,7 +2,7 @@ title: Virtually(Creative)
 baseURL: /
 params:
   color_scheme: light
-  accent_color: green
+  accent_color: blue
   base_font: fraunces
   header:
     title: Agency
