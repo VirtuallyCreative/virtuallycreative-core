@@ -57,7 +57,7 @@ sections:
         image_alt: 'Portrait of Al Romano, Founder of Virtually Creative'
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
+    title: Play nice with others?
     content: >-
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
