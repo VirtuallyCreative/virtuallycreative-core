@@ -21,7 +21,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-    title: Maximum Effort
+    title: Case Studies
   - type: grid_section
     section_id: clients
     title: Clients
