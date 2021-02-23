@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: >-
       A digital agency focused on empathy based design and compassonate
-      development. We believe in an accessable web for all.
+      development. We believe in an accessable web for all.i
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
