@@ -21,6 +21,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
+    title: our work
   - type: grid_section
     section_id: clients
     title: Clients
