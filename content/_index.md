@@ -8,8 +8,8 @@ sections:
       A Canadian digital agency focused on advocating for compassionate design
       and accessibility development best practices.
     content: >
-      > Understand that accessibility isn’t something you tack on to a good
-      design—it is good design.
+      > Understand that accessibility(a11y) isn’t something you tack on to a
+      good design—it is good design.
 
       >
 
