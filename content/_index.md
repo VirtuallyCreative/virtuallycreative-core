@@ -7,10 +7,21 @@ sections:
     title: >-
       A Canadian digital agency focused on advocating for compassionate design
       and a11y development best practices.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      > Understand that accessibility isn’t something you tack on to a good
+      design—it is good design.
+
+      >
+
+      >
+
+      >
+
+      > [Let's talk](/contact/)
+
+      >
+
+      > .
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
