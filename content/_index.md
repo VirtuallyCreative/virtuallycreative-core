@@ -24,7 +24,7 @@ sections:
     title: Case Studies
   - type: grid_section
     section_id: clients
-    title: tech stack
+    title: Tech Stack
     subtitle: A few of the companies we're proud to call partners
     col_number: three
     grid_items:
