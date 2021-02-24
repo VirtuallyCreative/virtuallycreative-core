@@ -2,7 +2,7 @@
 title: neonbloom.band
 subtitle: Shopapreneur | WordPress
 date: '2020-04-10'
-thumb_image: images/work-book-cover-1-thumb.jpg
+thumb_image: images/Home-NeonBloom.png
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
