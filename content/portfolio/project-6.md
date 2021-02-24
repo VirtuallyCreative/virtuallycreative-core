@@ -1,5 +1,5 @@
 ---
-title: Mosaic
+title: Mosaic Hair Group
 subtitle: Shopapreneur | WordPress
 date: '2021-02-06'
 thumb_image: images/groovy-iron.png
