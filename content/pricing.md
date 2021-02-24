@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Pricing
 hide_title: true
 sections: []
 seo:
