@@ -1,6 +1,6 @@
 ---
 title: aresDOM
-subtitle: lorem-ipsum
+subtitle: A tiny micro-lib
 date: '2021-02-24'
 thumb_image_alt: lorem-ipsum
 sections: []
