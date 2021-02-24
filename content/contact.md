@@ -43,7 +43,7 @@ sections:
         default_value: Please select
         options:
           - Accessibility (AODA)
-          - WordPress & Hosting
+          - WordPress Plans
           - Digital Marketing & SEO
           - Maintenance & Upkeep
           - Other
