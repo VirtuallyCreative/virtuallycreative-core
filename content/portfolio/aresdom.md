@@ -28,4 +28,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: project
+thumb_image: images/festive-sun.png
 ---
