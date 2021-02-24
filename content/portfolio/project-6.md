@@ -2,8 +2,8 @@
 title: Mosaic
 subtitle: Shopapreneur | WordPress
 date: '2021-02-06'
-thumb_image: images/Mosaic-Hair-Group-Home-Mosaic-Hair-Group.png
-thumb_image_alt: Subtle preview
+thumb_image: images/work-photography-magazine-1-thumb.jpg
+thumb_image_alt: mosaic hair group home page screenshot
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
