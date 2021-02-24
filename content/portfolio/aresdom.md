@@ -8,6 +8,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: images/aresDOM-v0-1-aresDOM.png
 seo:
   title: ''
   description: ''
