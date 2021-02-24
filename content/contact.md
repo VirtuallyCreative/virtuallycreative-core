@@ -4,39 +4,26 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >-
-      Let’s build something great together.<br>
+    content: >+
+      Let’s build something great together.
 
-      Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
+      Complete our contact form or send me an email at
+      <alexander@virtuallycreative.ca>
 
 
       ***
 
 
-      ## Our Offices
+      ## Our Location
 
 
-      ### San Francisco
-
-      1234 Some St.<br>
-
-      San Francisco, CA 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      ### Toronto, Canada
 
 
-      ### New York
+      Virtually(Creative) is a digital agency. 
 
-      1234 Some St.<br>
+      We currently do not accept in-person appointments.
 
-      New York, NY 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
