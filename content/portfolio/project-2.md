@@ -7,7 +7,7 @@ thumb_image_alt: Allegretto CSS Open Source Framework Home Page Hero
 sections:
   - type: image_section
     image: images/snapshot.png
-    image_alt: Aimi 1
+    image_alt: Allegretto CSS micro-framework logo
     caption: This is the caption of the image
     width: wide
   - type: text_section
