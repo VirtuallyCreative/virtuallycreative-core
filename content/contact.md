@@ -45,7 +45,7 @@ sections:
           - Accessibility (AODA)
           - WordPress & Hosting
           - Digital Marketing & SEO
-          - 'Press Info '
+          - Press Info / Kit
       - input_type: textarea
         name: message
         label: Message
