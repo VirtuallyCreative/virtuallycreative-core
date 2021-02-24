@@ -46,6 +46,17 @@ sections:
           - WordPress & Hosting
           - Digital Marketing & SEO
           - Press Info / Kit
+          - '0': l
+            '1': o
+            '2': r
+            '3': e
+            '4': m
+            '5': '-'
+            '6': i
+            '7': p
+            '8': s
+            '9': u
+            '10': m
       - input_type: textarea
         name: message
         label: Message
