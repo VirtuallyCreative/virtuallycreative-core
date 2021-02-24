@@ -45,7 +45,7 @@ sections:
           - Accessibility (AODA)
           - WordPress & Hosting
           - Digital Marketing & SEO
-          - Press Info / Kit
+          - Open Source
           - Other
       - input_type: textarea
         name: message
