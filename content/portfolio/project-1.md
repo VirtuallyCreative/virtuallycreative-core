@@ -1,5 +1,5 @@
 ---
-title: Design Is One
+title: Ollie-UI
 subtitle: Print
 date: '2020-02-10'
 thumb_image: images/work-poster-1-thumb.jpg
