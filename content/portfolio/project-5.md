@@ -1,5 +1,5 @@
 ---
-title: Nature Magazine
+title: bongoandb.com
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: images/work-magazine-1-thumb.jpg
