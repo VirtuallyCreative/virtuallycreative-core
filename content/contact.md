@@ -43,7 +43,7 @@ sections:
         default_value: Please select
         options:
           - Accessibility (AODA)
-          - WordPress
+          - WordPress & Hosting
           - Digital
       - input_type: textarea
         name: message
