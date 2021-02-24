@@ -15,7 +15,7 @@ sections:
 
       > [Curious? Let's talk.](/contact/)
   - type: portfolio_section
-    section_id: agency
+    section_id: work-effort
     layout_style: tiles
     subtitle: from happy clients
     projects_number: 6
