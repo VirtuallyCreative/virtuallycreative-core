@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/snapshot.png
     image_alt: Allegretto CSS micro-framework logo
-    caption: Allegretto CSS micro-framework logo
+    caption: Allegretto CSS logo
     width: wide
   - type: text_section
     content: >-
