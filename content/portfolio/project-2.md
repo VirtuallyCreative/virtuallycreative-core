@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/snapshot.png
     image_alt: Allegretto CSS micro-framework logo
-    caption: Allegretto CSS logo that also explains Alegretto is the name of my cat.
+    caption: Allegretto CSS logo that also explains Allegretto is the name of my cat.
     width: wide
   - type: text_section
     content: >-
