@@ -16,7 +16,7 @@ sections:
       > [Curious? Let's talk.](/contact/)
   - type: portfolio_section
     section_id: work-effort
-    layout_style: tiles
+    layout_style: mosaic
     subtitle: a mix of my own projects & client work
     projects_number: 5
     view_all_label: View All
