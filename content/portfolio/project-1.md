@@ -1,6 +1,6 @@
 ---
 title: Ollie-UI
-subtitle: Print
+subtitle: open-source | starter-kit
 date: '2020-02-10'
 thumb_image: images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
