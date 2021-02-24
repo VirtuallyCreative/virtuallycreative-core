@@ -20,7 +20,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-branding-2.jpg
+    image: images/allegretto-A-fast-lively-CSS-framework (1).png
     image_alt: Aimi 2
     width: wide
   - type: text_section
