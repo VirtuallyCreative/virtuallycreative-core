@@ -1,5 +1,5 @@
 ---
-title: Lets Chat
+title: Lets Talk
 hide_title: false
 sections:
   - type: form_section
