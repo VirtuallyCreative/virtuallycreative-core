@@ -44,7 +44,7 @@ sections:
         options:
           - Accessibility (AODA)
           - WordPress & Hosting
-          - Digital Marketing
+          - Digital Marketing & SEO
       - input_type: textarea
         name: message
         label: Message
