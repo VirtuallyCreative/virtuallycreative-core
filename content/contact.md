@@ -55,6 +55,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
+    title: form title???
 seo:
   title: Contact
   description: This is the contact page
