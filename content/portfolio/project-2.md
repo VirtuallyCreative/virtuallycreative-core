@@ -6,7 +6,7 @@ thumb_image: images/allegretto-A-fast-lively-CSS-framework.png
 thumb_image_alt: Allegretto CSS Open Source Framework Home Page Hero
 sections:
   - type: image_section
-    image: images/work-branding-1.jpg
+    image: images/snapshot.png
     image_alt: Aimi 1
     caption: This is the caption of the image
     width: wide
