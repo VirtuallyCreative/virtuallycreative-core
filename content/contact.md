@@ -45,7 +45,7 @@ sections:
           - Accessibility (AODA)
           - WordPress & Hosting
           - Digital Marketing & SEO
-          - Open Source
+          - Maintenance & Upkeep
           - Other
       - input_type: textarea
         name: message
