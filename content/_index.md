@@ -31,8 +31,6 @@ sections:
         image_alt: 'HTML5, JavaScript, CSS3'
       - image: images/logo-2.svg
         image_alt: Logo 2
-      - image: images/logo-3.svg
-        image_alt: Logo 3
     subtitle: started with the LAMP stack; now about that JAM Stack
   - type: grid_section
     section_id: services
