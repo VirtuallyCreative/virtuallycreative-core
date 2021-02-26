@@ -27,7 +27,7 @@ sections:
     title: Tech Stack
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/htmlcssjs.png
         image_alt: Logo 1
       - image: images/logo-2.svg
         image_alt: Logo 2
