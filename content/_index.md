@@ -29,8 +29,7 @@ sections:
     grid_items:
       - image: images/htmlcssjs.png
         image_alt: 'HTML5, JavaScript, CSS3'
-      - subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
