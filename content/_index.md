@@ -28,7 +28,7 @@ sections:
     col_number: three
     grid_items:
       - image: images/htmlcssjs.png
-        image_alt: Logo 1
+        image_alt: 'HTML5, JavaScript, CSS3'
       - image: images/logo-2.svg
         image_alt: Logo 2
       - image: images/logo-3.svg
