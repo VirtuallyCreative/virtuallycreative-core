@@ -29,7 +29,7 @@ sections:
     grid_items:
       - image: images/htmlcssjs.png
         image_alt: 'HTML5, JavaScript, CSS3'
-      - image: images/unique-wallaby.png
+      - image: images/logo-2.svg
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
