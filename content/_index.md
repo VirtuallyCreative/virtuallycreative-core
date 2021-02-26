@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      A Canadian digital agency focused on inclusive design and accessibility
-      development best practices.
+      A Canadian digital services agency focused on inclusive design and
+      accessibility development best practices.
     content: >
       > Understand that accessibility(a11y) isn’t something you tack on to a
       good design—it is good design.
