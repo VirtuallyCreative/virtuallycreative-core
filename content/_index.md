@@ -30,7 +30,7 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/open-source-icon.png
+        image: images/enthusiastic-pluto.png
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
