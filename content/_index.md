@@ -36,6 +36,7 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
+        image: images/wordpress-logo-simplified-rgb.png
     subtitle: started with the LAMP stack; now about that JAM Stack
   - type: grid_section
     section_id: services
