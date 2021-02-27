@@ -30,13 +30,13 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/1280px-Jamstack_logo.svg.png
-      - image: images/htmlcssjs.png
-        image_alt: 'HTML5, JavaScript, CSS3'
+        image: images/open-source-icon.png
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/open-source-icon.png
+        image: images/1280px-Jamstack_logo.svg.png
+      - image: images/htmlcssjs.png
+        image_alt: 'HTML5, JavaScript, CSS3'
     subtitle: started with the LAMP stack; now about that JAM Stack
   - type: grid_section
     section_id: services
