@@ -1,7 +1,7 @@
 ---
 title: Allegretto CSS
 subtitle: open-source | micro-framework
-date: '2020-03-10'
+date: '2020-04-10'
 thumb_image: images/allegretto-A-fast-lively-CSS-framework.png
 thumb_image_alt: Allegretto CSS Open Source Framework Home Page Hero
 sections:
