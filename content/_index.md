@@ -30,13 +30,13 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/MailChimp_Logo_Light-Background-300x100.png
-      - image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
         image: images/1280px-Jamstack_logo.svg.png
       - image: images/htmlcssjs.png
         image_alt: 'HTML5, JavaScript, CSS3'
+      - image_alt: lorem-ipsum
+        actions: []
+        type: grid_item
+        image: images/MailChimp_Logo_Light-Background-300x100.png
     subtitle: started with the LAMP stack; now about that JAM Stack
   - type: grid_section
     section_id: services
