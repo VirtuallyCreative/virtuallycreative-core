@@ -1,7 +1,7 @@
 ---
 title: direwolves.ca
 subtitle: Ghost CMS | Bespokepreneur
-date: '2020-05-10'
+date: '2020-05-15'
 thumb_image: images/Bacon_Stairs_PeekaBoo-5.jpg
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
