@@ -34,17 +34,6 @@ sections:
       - image: images/htmlcssjs.png
         image_alt: 'HTML5, JavaScript, CSS3'
       - image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
     subtitle: started with the LAMP stack; now about that JAM Stack
