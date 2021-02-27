@@ -18,7 +18,7 @@ sections:
     section_id: work-effort
     layout_style: tiles
     subtitle: a mix of my own projects & client work
-    projects_number: 5
+    projects_number: 3
     view_all_label: View All
     view_all_url: portfolio
     title: Noteworthy Projects
