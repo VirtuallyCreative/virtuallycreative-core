@@ -1,7 +1,7 @@
 ---
 title: Ollie-UI
 subtitle: open-source | starter-kit
-date: '2020-05-12'
+date: '2020-05-08'
 thumb_image: images/Home-Ollie-UI-Starter-Kit-Documentation.png
 thumb_image_alt: Design Is One preview
 sections:
