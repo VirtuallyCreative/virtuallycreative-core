@@ -33,8 +33,7 @@ sections:
         image: images/1280px-Jamstack_logo.svg.png
       - image: images/htmlcssjs.png
         image_alt: 'HTML5, JavaScript, CSS3'
-      - subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
