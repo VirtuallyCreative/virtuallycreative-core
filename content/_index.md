@@ -30,7 +30,7 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/enthusiastic-pluto.png
+        image: images/MailChimp_Logo_Light-Background-300x100.png
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
