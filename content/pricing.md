@@ -31,7 +31,7 @@ sections:
       Businesses. Get a website that scales to your needs.
     type: content_section
     image: images/soloprenure.png
-  - section_id: lorem-ipsum
+  - section_id: entrepreneur
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
