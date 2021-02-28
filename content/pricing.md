@@ -71,13 +71,11 @@ sections:
     type: grid_section
   - section_id: subscription-cta
     title: Select a Subscription
-    content: >
-      Once you select a subscription below it starts the setup process for your
-      new website.
-
+    content: |
+      Select a subscription to start the setup process for your new website. 
+      Details are generated and sent to your email.
 
       *   Subscriptions are 12 months in duration
-
       *   They are billed each month from the day you start
     actions:
       - label: Solopreneur
