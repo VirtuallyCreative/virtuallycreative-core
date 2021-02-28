@@ -203,7 +203,7 @@ sections:
         no_follow: false
         type: action
     image_alt: lorem-ipsum
-    bg_color: none
+    bg_color: light
     type: cta_section
 seo:
   title: ''
