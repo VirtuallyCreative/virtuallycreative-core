@@ -62,14 +62,12 @@ sections:
             type: action
       - title: Digital Marketing
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Inbound Marketing Strategy
+          *   Brand identity
+          *   ROI & Funnel systems
+          *   Brand implementation and management
+          *   Business Automation & Logic
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
