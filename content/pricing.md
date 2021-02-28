@@ -69,7 +69,7 @@ sections:
         type: grid_item
         image: images/pink-lime.png
       - title: Entrepreneur
-        subtitle: Standard 5 page website
+        subtitle: Standard multi-page website
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
