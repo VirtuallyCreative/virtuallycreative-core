@@ -66,8 +66,8 @@ sections:
           *   Inbound Marketing Strategy
           *   Brand identity
           *   ROI & Funnel systems
-          *   Brand implementation and management
-          *   Business Automation & Logic
+          *   Website SEO & Analytics
+          *   Business Automation
         actions:
           - label: Curious? Let's Talk.
             url: /contact/
