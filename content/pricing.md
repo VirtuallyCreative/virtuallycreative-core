@@ -35,7 +35,7 @@ sections:
     col_number: three
     grid_items:
       - title: Solopreneur
-        subtitle: lorem-ipsum
+        subtitle: straightforward one-pager website
         image_alt: lorem-ipsum
         content: >
           ## $30/mo
