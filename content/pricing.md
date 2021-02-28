@@ -65,7 +65,7 @@ sections:
         actions: []
         type: grid_item
         image: images/pink-lime.png
-      - title: En
+      - title: Entrepreneur
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
