@@ -64,7 +64,7 @@ sections:
       - title: Shopapreneur
         subtitle: sell your products & services
         image_alt: lorem-ipsum
-        content: "## $90/mo\n\nShopapreneur Websites are for businesses that want to sell products or services online. All eCommerce websites are built using WooCommerce allowing for a large selection of plugins and store customizations.\n\nAll Stores are integrated with PayPal or Stripe as standard gateways. With an added charge we can integrate your\_store with\_[*almost any other payment gateway*](https://woocommerce.com/product-category/woocommerce-extensions/payment-gateways/)\_you require.\n\n*   eCommerce Website\n*   Domain Setup & Hosting\n*   Email Address Setup\n*   Integrated /w Paypal or Stripe\n*   Import 500 SKU's\n*   Ongoing WooCommerce Core updates\n*   Site Security & Backup Protection\n*   Hack/Infected Protection & Recovery\n"
+        content: "## $90/mo\n\nShopapreneur Websites are for businesses that want to sell products or services online built using WooCommerce.\n\nAll Stores are integrated with PayPal or Stripe as standard gateways. With an added charge we can integrate your\_store with\_[*almost any other payment gateway*](https://woocommerce.com/product-category/woocommerce-extensions/payment-gateways/)\_you require.\n\n*   eCommerce Website\n*   Domain Setup & Hosting\n*   Email Address Setup\n*   Integrated /w Paypal or Stripe\n*   Import 500 SKU's\n*   Ongoing WooCommerce Core updates\n*   Site Security & Backup Protection\n*   Hack/Infected Protection & Recovery\n"
         actions: []
         type: grid_item
         image: images/panoramic-onion.png
