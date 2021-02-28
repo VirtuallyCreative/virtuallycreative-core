@@ -69,6 +69,45 @@ sections:
         type: grid_item
         image: images/panoramic-onion.png
     type: grid_section
+  - section_id: subscription-cta
+    title: Want to get started?
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
+    image_alt: lorem-ipsum
+    bg_color: light
+    type: cta_section
+    image: images/Logo Arrows.png
   - section_id: bespokpreneur
     title: Bespokpreneur
     subtitle: 'whatever, however'
@@ -167,45 +206,6 @@ sections:
         type: grid_item
         image: images/bespokpreneur.png
     type: grid_section
-  - section_id: subscription-cta
-    title: Want to get started?
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    image_alt: lorem-ipsum
-    bg_color: light
-    type: cta_section
-    image: images/Logo Arrows.png
 seo:
   title: ''
   description: ''
