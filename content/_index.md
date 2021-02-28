@@ -69,7 +69,7 @@ sections:
           *   Brand implementation and management
           *   Business Automation & Logic
         actions:
-          - label: lorem-ipsum
+          - label: Curious? Let's Talk.
             url: lorem-ipsum
             style: link
             icon: dribbble
