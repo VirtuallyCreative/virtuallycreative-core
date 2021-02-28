@@ -80,7 +80,7 @@ sections:
 
       *   They are billed each month on the day you started
     actions:
-      - label: lorem-ipsum
+      - label: Solopreneur
         url: lorem-ipsum
         style: link
         icon: dribbble
