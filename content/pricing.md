@@ -80,14 +80,14 @@ sections:
     actions:
       - label: Solopreneur
         url: lorem-ipsum
-        style: button
+        style: link
         icon: dribbble
         new_window: false
         no_follow: false
         type: action
       - label: Entrepreneur
         url: lorem-ipsum
-        style: button
+        style: link
         icon: dribbble
         new_window: false
         no_follow: false
