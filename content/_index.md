@@ -70,14 +70,7 @@ sections:
           *   Contact Funnel
           *   Social Media Integration
           *   [See All Features & Pricing...](/pricing/)
-        actions:
-          - label: Want Bespoke? Let's Talk.
-            url: lorem-ipsum
-            style: link
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
   - type: cta_section
     section_id: cta
     title: Want to get started?
