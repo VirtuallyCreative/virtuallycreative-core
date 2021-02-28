@@ -52,14 +52,7 @@ sections:
           *   Design Consulting
           *   Digital experience strategy
           *   Marketing experience strategy
-        actions:
-          - label: Interested? Let's Talk.
-            url: /contact/
-            style: link
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
       - title: Digital Marketing
         image: images/service-2.svg
         content: |
