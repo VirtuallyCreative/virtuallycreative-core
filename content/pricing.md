@@ -88,7 +88,7 @@ sections:
     col_number: three
     grid_items:
       - title: Solopreneur
-        subtitle: straightforward one/multi-page website
+        subtitle: straightforward one pager website
         image_alt: lorem-ipsum
         content: >
           ## $550
