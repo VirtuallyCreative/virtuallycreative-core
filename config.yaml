@@ -25,6 +25,13 @@ params:
       - label: Contact
         url: /contact/
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   footer:
     content: >-
       &copy; Virtually(Creative). All rights reserved. This Jamstack site was
