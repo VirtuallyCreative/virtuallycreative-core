@@ -32,7 +32,7 @@ sections:
     type: content_section
     image: images/soloprenure.png
   - section_id: entrepreneur
-    title: lorem-ipsum
+    title: Entrepreneur
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
