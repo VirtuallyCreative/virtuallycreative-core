@@ -90,17 +90,17 @@ sections:
       - title: Solopreneur
         subtitle: straightforward one/multi-page website
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## $550
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         type: grid_item
       - title: lorem-ipsum
