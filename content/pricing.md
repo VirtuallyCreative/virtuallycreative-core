@@ -35,17 +35,7 @@ sections:
     title: Entrepreneur
     subtitle: Standard ~5 page website
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Entrepreneur ~five-page websites are perfect for small to medium-sized businesses and freelancers, that want to provide standard services to their\_customers.\n\nIdeal for anyone in the Art & Beauty, Design, Construction and Legal industries.\n"
     type: content_section
     image: images/entrepreneur.png
   - section_id: lorem-ipsum
