@@ -38,7 +38,7 @@ sections:
     content: "Entrepreneur ~five-page websites are perfect for small to medium-sized businesses and freelancers, that want to provide standard services to their\_customers.\n\nIdeal for anyone in the Art & Beauty, Design, Construction and Legal industries.\n"
     type: content_section
     image: images/entrepreneur.png
-  - section_id: lorem-ipsum
+  - section_id: shopapreneur
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
