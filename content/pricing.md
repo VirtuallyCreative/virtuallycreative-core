@@ -156,13 +156,13 @@ sections:
           ## $????
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          If you have a unique vision or want to **dream big** – this is the way
+          to go.
 
 
-          *   Lorem ipsum
+          *   **Consultation is required**
 
-          *   dolor sit amet
+          *   Fully Custom Build Website
         actions: []
         type: grid_item
         image: images/bespokpreneur.png
