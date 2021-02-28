@@ -31,18 +31,6 @@ sections:
       Businesses. Get a website that scales to your needs.
     type: content_section
     image: images/soloprenure.png
-  - section_id: subscription-pricing-grid
-    title: WordPress Subscriptions
-    subtitle: Pricing based on a 12-month subscription
-    col_number: three
-    grid_items: []
-    type: grid_section
-  - section_id: websites-one-n-done
-    title: Website One n' Done
-    subtitle: Pricing based on one payment – just like back in the day.
-    col_number: three
-    grid_items: []
-    type: grid_section
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
@@ -59,6 +47,18 @@ sections:
 
       - dolor sit amet
     type: content_section
+  - section_id: subscription-pricing-grid
+    title: WordPress Subscriptions
+    subtitle: Pricing based on a 12-month subscription
+    col_number: three
+    grid_items: []
+    type: grid_section
+  - section_id: websites-one-n-done
+    title: Website One n' Done
+    subtitle: Pricing based on one payment – just like back in the day.
+    col_number: three
+    grid_items: []
+    type: grid_section
 seo:
   title: ''
   description: ''
