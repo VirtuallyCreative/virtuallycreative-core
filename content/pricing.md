@@ -21,17 +21,14 @@ sections:
     title: Solopreneur
     subtitle: straightforward one-page website
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      A Professional one-page website made to promote any business or service.
+      Ideal for businesses or individuals that have just started out or provide
+      a straightforward service.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Solopreneur works well for Freelancers, Independents and snazzy new
+      Businesses. Get a website that scales to your needs.
     type: content_section
     image: images/soloprenure.png
   - section_id: lorem-ipsum
