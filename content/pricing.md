@@ -19,7 +19,7 @@ sections:
     type: hero_section
   - section_id: solopreneur
     title: Solopreneur
-    subtitle: lorem-ipsum
+    subtitle: straightforward one-page website
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
