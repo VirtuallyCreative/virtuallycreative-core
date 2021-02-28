@@ -123,7 +123,7 @@ sections:
         actions: []
         type: grid_item
         image: images/beige-rosemary.png
-      - title: lorem-ipsum
+      - title: Shopapreneur
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
