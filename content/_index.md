@@ -69,7 +69,7 @@ sections:
           *   Domain Setup & Hosting
           *   Contact Funnel
           *   Social Media Integration
-          *   [See All Features & Pricing.](/pricing/)..
+          *   [See All Features & Pricing...](/pricing/)
         actions:
           - label: Want Bespoke? Let's Talk.
             url: lorem-ipsum
