@@ -94,13 +94,32 @@ sections:
           ## $550
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Solopreneur works well for Freelancers, Independents and snazzy new
+          Businesses.
 
 
-          *   Lorem ipsum
+          *   One-Pager Design
 
-          *   dolor sit amet
+
+          *   Domain Setup & Hosting
+
+
+          *   Email Address Setup
+
+
+          *   Contact Funnel
+
+
+          *   Social Media Integration
+
+
+          *   Site Security & Backups
+
+
+          *   Ongoing WordPress Core updates
+
+
+          *   Hack/Infection Protection & Recovery
         actions: []
         type: grid_item
       - title: lorem-ipsum
