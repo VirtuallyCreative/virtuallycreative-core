@@ -168,7 +168,7 @@ sections:
         image: images/bespokpreneur.png
     type: grid_section
   - section_id: subscription-cta
-    title: Want to get started? Let's Talk.
+    title: Want to get started?
     content: >-
       ## Lorem ipsum
 
