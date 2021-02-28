@@ -5,13 +5,16 @@ sections:
   - section_id: pricing
     title: Pricing
     content: >
-      Subscription website plans and One n’ Done websites are **designed to fit
-      every business n’ budget**.
+      Our subscription website plans or, One n’ Done websites are **designed to
+      fit every business n’ budget**. We also offer completely custom website
+      builds for unique, highly complex project requirements.
 
 
       *   Three Subscription Plans
 
       *   One n' Done Projects
+
+      *   Bespoke Web Development
     actions: []
     type: hero_section
   - section_id: solopreneur
