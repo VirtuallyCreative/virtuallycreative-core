@@ -87,7 +87,7 @@ sections:
     subtitle: Pricing based on one payment – just like back in the day.
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Entrepreneur
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
