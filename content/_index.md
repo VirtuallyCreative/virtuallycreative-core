@@ -71,7 +71,7 @@ sections:
           *   Social Media Integration
           *   [See All Features & Pricing](/pricing/)
         actions:
-          - label: lorem-ipsum
+          - label: Want Bespoke? Let's Talk.
             url: lorem-ipsum
             style: link
             icon: dribbble
