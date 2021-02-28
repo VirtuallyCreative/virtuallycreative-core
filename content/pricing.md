@@ -3,7 +3,7 @@ title: Pricing
 hide_title: true
 sections:
   - section_id: pricing
-    title: lorem-ipsum
+    title: Pricing
     content: >-
       ## Lorem ipsum
 
