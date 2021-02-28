@@ -53,7 +53,7 @@ sections:
           *   Digital experience strategy
           *   Marketing experience strategy
         actions:
-          - label: Let's Talk
+          - label: Interested? Let's Talk.
             url: lorem-ipsum
             style: link
             icon: dribbble
