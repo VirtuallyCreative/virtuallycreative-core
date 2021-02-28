@@ -17,7 +17,7 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
-  - section_id: lorem-ipsum
+  - section_id: solopreneur
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
