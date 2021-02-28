@@ -52,6 +52,9 @@ sections:
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
+          ## $30/mo
+
+
           A Professional one-page website made to promote any business or
           service. Ideal for businesses or individuals that have just started
           out or provide a straightforward service.
