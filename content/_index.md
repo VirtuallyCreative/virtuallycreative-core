@@ -64,7 +64,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: Website Subscriptions
+      - title: Website Subscriptions & Builds
         image: images/service-3.svg
         content: |-
           - Digital product design
