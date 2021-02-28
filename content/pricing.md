@@ -32,7 +32,7 @@ sections:
     type: content_section
     image: images/soloprenure.png
   - section_id: subscription-pricing-grid
-    title: lorem-ipsum
+    title: WordPress Subscriptions
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
