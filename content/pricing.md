@@ -57,6 +57,7 @@ sections:
 
       If you have a unique vision or want to dream big – this is the way to go.
     type: content_section
+    image: images/bespokpreneur.png
   - section_id: subscription-pricing-grid
     title: WordPress Subscriptions
     subtitle: Pricing based on a 12-month subscription
