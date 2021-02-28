@@ -31,7 +31,7 @@ sections:
       Businesses. Get a website that scales to your needs.
     type: content_section
     image: images/soloprenure.png
-  - section_id: lorem-ipsum
+  - section_id: subscription-pricing-grid
     title: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
