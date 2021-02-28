@@ -70,7 +70,7 @@ sections:
         image: images/panoramic-onion.png
     type: grid_section
   - section_id: subscription-cta
-    title: Select a Subscription to Start
+    title: Select a Subscription
     content: >
       Once you select a subscription below it starts the setup process for your
       new website.
