@@ -37,7 +37,7 @@ sections:
     col_number: three
     grid_items: []
     type: grid_section
-  - section_id: websiteone-n-done
+  - section_id: websites-one-n-done
     title: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
