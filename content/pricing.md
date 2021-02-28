@@ -72,9 +72,6 @@ sections:
   - section_id: subscription-cta
     title: Want to get started?
     content: >
-      ## Select your Subscription
-
-
       Once you select a subscription below it starts the setup process for your
       new website.
 
