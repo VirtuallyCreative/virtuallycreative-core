@@ -6,8 +6,8 @@ sections:
     title: Pricing
     content: >
       Our subscription website plans or, One n’ Done websites are **designed to
-      fit every business n’ budget**. We also offer completely custom website
-      builds for unique, highly complex project requirements.
+      be flexible for various businesses n’ budgets**. We also offer completely
+      custom website builds for unique, highly complex project requirements.
 
 
       *   Three Subscription Plans
