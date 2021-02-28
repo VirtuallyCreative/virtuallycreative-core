@@ -70,6 +70,14 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - title: Website Subscriptions & Builds
         image: images/service-3.svg
         content: |-
