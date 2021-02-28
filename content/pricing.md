@@ -47,7 +47,7 @@ sections:
     image: images/shopapreneur.png
   - section_id: bespokpreneur
     title: Bespokpreneur
-    subtitle: sell your products & services
+    subtitle: 'whatever, however'
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
