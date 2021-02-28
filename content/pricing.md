@@ -12,9 +12,7 @@ sections:
 
       *   Three Subscription Plans
 
-      *   One n' Done Projects
-
-      *   Bespoke Web Development
+      *   One n' Done / Bespoke Web Projects
     actions: []
     type: hero_section
   - section_id: solopreneur
