@@ -22,9 +22,6 @@ params:
       - label: About
         url: /about/
         style: link
-      - label: Contact
-        url: /contact/
-        style: button
       - label: Pricing
         url: /pricing/
         style: link
@@ -32,6 +29,9 @@ params:
         new_window: false
         no_follow: false
         type: action
+      - label: Contact
+        url: /contact/
+        style: button
   footer:
     content: >-
       &copy; Virtually(Creative). All rights reserved. This Jamstack site was
