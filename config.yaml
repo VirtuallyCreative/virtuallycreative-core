@@ -25,7 +25,7 @@ params:
       - label: Contact
         url: /contact/
         style: button
-      - label: lorem-ipsum
+      - label: Pricing
         url: lorem-ipsum
         style: link
         icon: dribbble
