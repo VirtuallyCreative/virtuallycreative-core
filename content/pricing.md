@@ -167,7 +167,7 @@ sections:
         type: grid_item
         image: images/bespokpreneur.png
     type: grid_section
-  - section_id: lorem-ipsum
+  - section_id: subscription-cta
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
