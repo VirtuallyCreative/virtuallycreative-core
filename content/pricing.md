@@ -51,17 +51,31 @@ sections:
       - title: Solopreneur
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          A Professional one-page website made to promote any business or
+          service. Ideal for businesses or individuals that have just started
+          out or provide a straightforward service.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Solopreneur works well for Freelancers, Independents and snazzy new
+          Businesses. Get a website that scales to your needs.
 
 
-          - Lorem ipsum
+          *   One-Pager Design
 
-          - dolor sit amet
+          *   Domain Setup & Hosting
+
+          *   Email Address Setup
+
+          *   Contact Funnel
+
+          *   Social Media Integration
+
+          *   Site Security & Backups
+
+          *   Ongoing WordPress Core updates
+
+          *   Hack/Infection Protection & Recovery
         actions: []
         type: grid_item
         image: images/pink-lime.png
