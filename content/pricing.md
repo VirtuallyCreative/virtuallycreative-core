@@ -39,7 +39,7 @@ sections:
     type: grid_section
   - section_id: websites-one-n-done
     title: Website One n' Done
-    subtitle: lorem-ipsum
+    subtitle: Pricing based on one payment – just like back in the day.
     col_number: three
     grid_items: []
     type: grid_section
