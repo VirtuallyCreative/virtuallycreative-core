@@ -71,17 +71,7 @@ sections:
       - title: Entrepreneur
         subtitle: typical multi-page website
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "## $55/mo\n\nEntrepreneur ~five-page websites are perfect for small to medium-sized businesses and freelancers, that want to provide standard services to their\_customers.\n\nIdeal for anyone in the Art & Beauty, Design, Construction and Legal industries.\n\n*   Multi-Page (~5) Brochure Website\n*   Domain Setup & Hosting\n*   Email Address Setup\n*   Contact Funnel\n*   Social Media Integration\n*   Ongoing WordPress Core updates\n*   Site Security & Backups\n*   Hack/Infected Protection & Recovery\n"
         actions: []
         type: grid_item
         image: images/polite-saturn.png
