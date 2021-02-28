@@ -15,13 +15,6 @@ sections:
       *   One n' Done / Bespoke Web Projects
     actions: []
     type: hero_section
-  - section_id: entrepreneur
-    title: Entrepreneur
-    subtitle: Standard ~5 page website
-    image_alt: lorem-ipsum
-    content: "Entrepreneur ~five-page websites are perfect for small to medium-sized businesses and freelancers, that want to provide standard services to their\_customers.\n\nIdeal for anyone in the Art & Beauty, Design, Construction and Legal industries.\n"
-    type: content_section
-    image: images/entrepreneur.png
   - section_id: shopapreneur
     title: Shopapreneur
     subtitle: sell your products & services
