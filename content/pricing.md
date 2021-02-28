@@ -44,6 +44,7 @@ sections:
     image_alt: lorem-ipsum
     content: "Shopapreneur Websites are for businesses that want to sell products or services online. All eCommerce websites are built using WooCommerce allowing for a large selection of plugins and store customizations.\n\nAll Stores are integrated with PayPal or Stripe as standard gateways. With an added charge we can integrate your\_store with\_[*almost any other payment gateway*](https://woocommerce.com/product-category/woocommerce-extensions/payment-gateways/)\_you require.\n"
     type: content_section
+    image: images/shopapreneur.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
