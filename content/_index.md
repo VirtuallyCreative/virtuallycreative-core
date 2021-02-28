@@ -52,6 +52,14 @@ sections:
           *   Design Consulting
           *   Digital experience strategy
           *   Marketing experience strategy
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - title: Digital Marketing
         image: images/service-2.svg
         content: |-
