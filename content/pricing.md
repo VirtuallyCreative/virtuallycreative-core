@@ -33,7 +33,7 @@ sections:
     image: images/soloprenure.png
   - section_id: subscription-pricing-grid
     title: WordPress Subscriptions
-    subtitle: lorem-ipsum
+    subtitle: Pricing based on a 12-month subscription
     col_number: three
     grid_items: []
     type: grid_section
