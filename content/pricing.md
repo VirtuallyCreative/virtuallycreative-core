@@ -39,7 +39,7 @@ sections:
     type: content_section
     image: images/entrepreneur.png
   - section_id: shopapreneur
-    title: lorem-ipsum
+    title: Shopapreneur
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
