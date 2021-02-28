@@ -140,7 +140,7 @@ sections:
         actions: []
         type: grid_item
         image: images/shopapreneur.png
-      - title: BESPOKPRENURE
+      - title: Bespokpreneur
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
