@@ -82,7 +82,7 @@ sections:
         actions: []
         type: grid_item
         image: images/polite-saturn.png
-      - title: lorem-ipsum
+      - title: Shopapreneur
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
