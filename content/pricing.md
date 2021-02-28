@@ -71,17 +71,17 @@ sections:
     type: grid_section
   - section_id: subscription-cta
     title: Want to get started?
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Select your Subscription
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Once you select a subscription below it starts the setup process for your
+      new website.
 
 
-      - Lorem ipsum
+      *   Subscriptions are 12 months in duration
 
-      - dolor sit amet
+      *   They are billed each month on the day you started
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
