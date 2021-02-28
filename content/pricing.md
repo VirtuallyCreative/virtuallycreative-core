@@ -65,7 +65,7 @@ sections:
         actions: []
         type: grid_item
         image: images/pink-lime.png
-      - title: lorem-ipsum
+      - title: En
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
