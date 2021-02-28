@@ -4,21 +4,28 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Self-taught, Full Stack Web Developer with a knack for web analytics and
-      data visualization dashboards. I am a strong advocate of inclusive design;
-      firm believer of "user experience first" and HTML First Prototyping
-      approaches when applying best practice standards for web development.
+      Virtually(Creative).ca was registered on August 26th, 2010. With 11 years
+      in the web development space. 
 
 
-      Starting out as a PHP (LAMP) developer (you guessed it, WordPress...) I've
-      recently taken an interest in Information Dashboard design and data
-      visualization using JavaScript as well as becoming more proficient using
-      Node.js both for pipeline and for building applications (MExN stack).
+      Al Romano is a self-taught, Full Stack Web Developer with a knack for web
+      analytics and data visualization dashboards. A strong advocate of
+      inclusive design; firm believer of "user experience first" and HTML First
+      Prototyping approaches when applying best practice standards for web
+      development.
 
 
-      I have worked for international ad agencies like Saatchi & Saatchi and
-      Upcoming Media, local bioinformatics and technology startups like Cyclica
-      and am currently helping the cause at SickKids Foundation.
+      Starting out as a PHP (LAMP) developer (you guessed it, WordPress...) but
+      around 3 years ago taken an interest in Information Dashboard design and
+      data visualization using JavaScript as well as becoming more proficient
+      using Node.js both for pipeline and for building applications (MExN
+      stack).
+
+
+      Our professional portfolio includes international ad agencies like Saatchi
+      & Saatchi and Upcoming Media, local bioinformatics and technology startups
+      like Cyclica and I am currently helping the cause at SickKids Foundation
+      full-time.
     image: images/405_Front_End_Development_Doodle_Concept-med.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
