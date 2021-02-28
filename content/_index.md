@@ -64,7 +64,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: Web & Hosting
+      - title: 'WordPress & '
         image: images/service-3.svg
         content: |-
           - Digital product design
