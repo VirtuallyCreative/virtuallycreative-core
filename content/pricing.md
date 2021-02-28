@@ -33,6 +33,7 @@ sections:
 
       - dolor sit amet
     type: content_section
+    image: images/soloprenure.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
