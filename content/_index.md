@@ -70,7 +70,7 @@ sections:
           *   Business Automation & Logic
         actions:
           - label: Curious? Let's Talk.
-            url: lorem-ipsum
+            url: /contact/
             style: link
             icon: dribbble
             new_window: false
