@@ -27,7 +27,7 @@ params:
         style: button
       - label: Pricing
         url: /pricing/
-        style: icon
+        style: link
         icon: dribbble
         new_window: false
         no_follow: false
