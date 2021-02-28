@@ -45,6 +45,12 @@ sections:
     content: "Shopapreneur Websites are for businesses that want to sell products or services online. All eCommerce websites are built using WooCommerce allowing for a large selection of plugins and store customizations.\n\nAll Stores are integrated with PayPal or Stripe as standard gateways. With an added charge we can integrate your\_store with\_[*almost any other payment gateway*](https://woocommerce.com/product-category/woocommerce-extensions/payment-gateways/)\_you require.\n"
     type: content_section
     image: images/shopapreneur.png
+  - section_id: subscription-pricing-grid
+    title: WordPress Subscriptions
+    subtitle: Pricing based on a 12-month subscription
+    col_number: three
+    grid_items: []
+    type: grid_section
   - section_id: bespokpreneur
     title: Bespokpreneur
     subtitle: 'whatever, however'
@@ -58,12 +64,6 @@ sections:
       If you have a unique vision or want to dream big – this is the way to go.
     type: content_section
     image: images/bespokpreneur.png
-  - section_id: subscription-pricing-grid
-    title: WordPress Subscriptions
-    subtitle: Pricing based on a 12-month subscription
-    col_number: three
-    grid_items: []
-    type: grid_section
   - section_id: websites-one-n-done
     title: Website One n' Done
     subtitle: Pricing based on one payment – just like back in the day.
