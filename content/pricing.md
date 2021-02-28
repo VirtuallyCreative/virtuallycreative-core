@@ -33,7 +33,7 @@ sections:
     image: images/soloprenure.png
   - section_id: entrepreneur
     title: Entrepreneur
-    subtitle: Standard 5 page website
+    subtitle: Standard ~5 page website
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
