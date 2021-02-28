@@ -87,7 +87,7 @@ sections:
     subtitle: Pricing based on one payment – just like back in the day.
     col_number: three
     grid_items:
-      - title: Entrepreneur
+      - title: Solopreneur
         subtitle: straightforward one/multi-page website
         image_alt: lorem-ipsum
         content: >-
