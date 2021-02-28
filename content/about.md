@@ -30,7 +30,7 @@ sections:
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
-    title: The Team
+    title: Team Stack
     subtitle: our wizards behind the curtans
     col_number: three
     grid_items:
