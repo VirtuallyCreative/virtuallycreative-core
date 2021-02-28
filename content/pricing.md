@@ -180,7 +180,14 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: lorem-ipsum
     bg_color: none
     type: cta_section
