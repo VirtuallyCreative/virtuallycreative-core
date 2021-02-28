@@ -86,7 +86,23 @@ sections:
     title: Website One n' Done
     subtitle: Pricing based on one payment – just like back in the day.
     col_number: three
-    grid_items: []
+    grid_items:
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
     type: grid_section
 seo:
   title: ''
