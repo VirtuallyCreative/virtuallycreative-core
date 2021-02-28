@@ -81,12 +81,9 @@ sections:
         content: |
           *   One-Page, Multi-Page, Shop
           *   Domain Setup & Hosting
-          *   Email Addresses Included
           *   Contact Funnel
           *   Social Media Integration
-          *   Ongoing WordPress Core Updates
-          *   Site Security & Backups
-          *   Hack Protection & Reovery
+          *   [See All Features & Pricing](/pricing/)
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
