@@ -38,7 +38,7 @@ sections:
     grid_items: []
     type: grid_section
   - section_id: websites-one-n-done
-    title: 'Website One n'' Done '
+    title: Website One n' Done
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
