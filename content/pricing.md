@@ -88,7 +88,7 @@ sections:
     col_number: three
     grid_items:
       - title: Entrepreneur
-        subtitle: lorem-ipsum
+        subtitle: straightforward one page website
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
