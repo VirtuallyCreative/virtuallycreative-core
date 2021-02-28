@@ -47,7 +47,7 @@ sections:
 
 
           Solopreneur works well for Freelancers, Independents and snazzy new
-          Businesses. Get a website that scales to your needs.
+          Businesses.
 
 
           *   One-Pager Design
