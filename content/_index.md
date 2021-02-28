@@ -78,15 +78,15 @@ sections:
             type: action
       - title: Website Subscriptions & Builds
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |
+          *   One-Page, Multi-Page, Shop
+          *   Domain Setup & Hosting
+          *   Email Addresses Included
+          *   Contact Funnel
+          *   Social Media Integration
+          *   Ongoing WordPress Core Updates
+          *   Site Security & Backups
+          *   Hack Protection & Reovery
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
