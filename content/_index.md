@@ -68,14 +68,7 @@ sections:
           *   ROI & Funnel systems
           *   Website SEO & Analytics
           *   Business Automation
-        actions:
-          - label: Curious? Let's Talk.
-            url: /contact/
-            style: link
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
       - title: Website Subscriptions & Builds
         image: images/service-3.svg
         content: |
