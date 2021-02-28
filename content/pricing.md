@@ -49,17 +49,13 @@ sections:
     title: Bespokpreneur
     subtitle: 'whatever, however'
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Our Custom (bespoke) Websites are completely designed and developed based
+      on your requirements. We work with you every step of the way to get that
+      unique professional website that stands out from the crowd.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      If you have a unique vision or want to dream big – this is the way to go.
     type: content_section
   - section_id: subscription-pricing-grid
     title: WordPress Subscriptions
