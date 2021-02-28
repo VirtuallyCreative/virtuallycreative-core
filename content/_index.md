@@ -87,6 +87,14 @@ sections:
           - Communication design
           - Social media
           - Product design
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
   - type: cta_section
     section_id: cta
     title: Want to get started?
