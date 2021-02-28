@@ -141,7 +141,7 @@ sections:
         type: grid_item
         image: images/shopapreneur.png
       - title: Bespokpreneur
-        subtitle: lorem-ipsum
+        subtitle: 'whatever, however'
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
