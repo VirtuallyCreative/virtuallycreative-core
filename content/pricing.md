@@ -126,17 +126,26 @@ sections:
       - title: Shopapreneur
         subtitle: sell your products & services
         image_alt: lorem-ipsum
-        content: >
+        content: |
           ## $2750
 
+          All eCommerce websites are built using WooCommerce.
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   eCommerce Website
 
+          *   Domain Setup & Hosting
 
-          *   Lorem ipsum
+          *   Email Address Setup
 
-          *   dolor sit amet
+          *   Integrated /w Paypal or Stripe
+
+          *   Import 500 SKU’s
+
+          *   Ongoing WooCommerce Core updates
+
+          *   Site Security & Backup Protection
+
+          *   Hack/Infected Protection & Recovery
         actions: []
         type: grid_item
         image: images/shopapreneur.png
