@@ -4,17 +4,14 @@ hide_title: true
 sections:
   - section_id: pricing
     title: Pricing
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Subscription website plans and One n’ Done websites are **designed to fit
+      every business n’ budget**.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Three Subscription Plans
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   One n' Done Projects
     actions: []
     type: hero_section
   - section_id: solopreneur
