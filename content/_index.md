@@ -44,7 +44,7 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Accessibility
+      - title: Accessibility (a11y)
         image: images/service-1.svg
         content: |-
           - Research and insight
