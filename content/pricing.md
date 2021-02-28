@@ -124,7 +124,7 @@ sections:
         type: grid_item
         image: images/beige-rosemary.png
       - title: Shopapreneur
-        subtitle: lorem-ipsum
+        subtitle: sell your products & services
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
