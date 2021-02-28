@@ -54,7 +54,7 @@ sections:
           *   Marketing experience strategy
         actions:
           - label: Interested? Let's Talk.
-            url: lorem-ipsum
+            url: contact
             style: link
             icon: dribbble
             new_window: false
