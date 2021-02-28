@@ -46,7 +46,7 @@ sections:
     type: content_section
     image: images/shopapreneur.png
   - section_id: bespokpreneur
-    title: lorem-ipsum
+    title: Bespokpreneur
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
