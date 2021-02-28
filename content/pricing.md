@@ -18,7 +18,7 @@ sections:
     actions: []
     type: hero_section
   - section_id: solopreneur
-    title: lorem-ipsum
+    title: Solopreneur
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
