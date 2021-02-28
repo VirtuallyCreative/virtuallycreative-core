@@ -144,7 +144,7 @@ sections:
         subtitle: 'whatever, however'
         image_alt: lorem-ipsum
         content: >
-          ## ????
+          ## $????
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
