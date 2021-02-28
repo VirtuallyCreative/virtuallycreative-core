@@ -16,7 +16,7 @@ params:
       - label: Work
         url: /portfolio/
         style: link
-      - label: Journal
+      - label: Blog
         url: /blog/
         style: link
       - label: About
