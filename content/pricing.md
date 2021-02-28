@@ -94,7 +94,7 @@ sections:
         type: action
       - label: Shopapreneur
         url: lorem-ipsum
-        style: button
+        style: link
         icon: dribbble
         new_window: false
         no_follow: false
