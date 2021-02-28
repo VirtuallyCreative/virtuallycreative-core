@@ -122,6 +122,7 @@ sections:
           *   Hack/Infection Protection & Recovery
         actions: []
         type: grid_item
+        image: images/beige-rosemary.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
