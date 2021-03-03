@@ -1,5 +1,5 @@
 ---
-title: Dashboard Wars: HootSuite vs Sprout Social
+title: Dashboard Wars HootSuite vs Sprout Social
 subtitle: A interesting tale about function of design
 excerpt: >-
   glean awesome insights into your online influence and all from an easy to manage, central "dashboard".
@@ -9,7 +9,7 @@ thumb_image_alt: White concrete building wall
 image: images/Sprout-vs-Hoot-mini.jpg
 image_alt: White concrete building wall
 seo:
-  title: Dashboard Wars: HootSuite vs Sprout Social
+  title: Dashboard Wars HootSuite vs Sprout Social
   description: >-
     glean awesome insights into your online influence and all from an easy to manage, central "dashboard".
   extra:
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Dashboard Wars: HootSuite vs Sprout Social
+      value: Dashboard Wars HootSuite vs Sprout Social
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Dashboard Wars: HootSuite vs Sprout Social
+      value: Dashboard Wars HootSuite vs Sprout Social
     - name: 'twitter:description'
       value: >-
        glean awesome insights into your online influence and all from an easy to manage, central "dashboard".
