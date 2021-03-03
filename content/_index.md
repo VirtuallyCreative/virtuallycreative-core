@@ -53,7 +53,7 @@ sections:
           *   Digital experience strategy
           *   Marketing experience strategy
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: link
             icon: dribbble
