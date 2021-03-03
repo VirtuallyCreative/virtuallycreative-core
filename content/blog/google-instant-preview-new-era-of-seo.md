@@ -1,5 +1,5 @@
 ---
-title: Google Instant Preview: New Era of SEO?
+title: Google Instant Preview New Era of SEO?
 subtitle: A interesting tale about function of design
 excerpt: >-
   It seemed for at least 10 years the internet and all it's visual power was still being trumped by words.
@@ -9,7 +9,7 @@ thumb_image_alt: White concrete building wall
 image: images/chrome.png
 image_alt: White concrete building wall
 seo:
-  title: Google Instant Preview: New Era of SEO?
+  title: Google Instant Preview New Era of SEO?
   description: >-
     It seemed for at least 10 years the internet and all it's visual power was still being trumped by words.
   extra:
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Google Instant Preview: New Era of SEO?
+      value: Google Instant Preview New Era of SEO?
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Google Instant Preview: New Era of SEO?
+      value: Google Instant Preview New Era of SEO?
     - name: 'twitter:description'
       value: >-
         It seemed for at least 10 years the internet and all it's visual power was still being trumped by words.
