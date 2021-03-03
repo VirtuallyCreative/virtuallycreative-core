@@ -60,17 +60,17 @@ sections:
     type: content_section
   - section_id: a11y-cta
     title: Check your Accessibility
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Get a website assessment!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Many businesses don't know that they're required to be "AA" compliant as
+      of January 1st, 2021. 
 
 
-      - Lorem ipsum
+      *   Get an assessment for AODA violations
 
-      - dolor sit amet
+      *   Get an action plan to become AODA compliant
     actions: []
     image_alt: lorem-ipsum
     bg_color: light
