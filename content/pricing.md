@@ -214,7 +214,7 @@ sections:
       *   Got a custom idea? Bespokepreneur is for you!
     actions:
       - label: Solopreneur
-        url: lorem-ipsum
+        url: /contact/
         style: link
         icon: dribbble
         new_window: false
