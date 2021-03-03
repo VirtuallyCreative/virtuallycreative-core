@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Analytics Battle Royale: Google Analytics, Zoom Analytics or Piwik
+      value: Analytics Battle Royale - Google Analytics, Zoom Analytics or Piwik
       keyName: property
     - name: 'og:description'
       value: >-
