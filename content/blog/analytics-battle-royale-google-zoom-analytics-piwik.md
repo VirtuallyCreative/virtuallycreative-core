@@ -9,7 +9,7 @@ thumb_image_alt: White concrete building wall
 image: images/analytics-wars-featured-image.png
 image_alt: White concrete building wall
 seo:
-  title: Analytics Battle Royale: Google Analytics, Zoom Analytics or Piwik
+  title: Analytics Battle Royale - Google Analytics, Zoom Analytics or Piwik
   description: >-
       We have picked our top 3 favourite platforms used regularly either on our own in-house websites or deployed for our clients and will go through a blow-by-blow comparison.
   extra:
