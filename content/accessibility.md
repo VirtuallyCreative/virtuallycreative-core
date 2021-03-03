@@ -22,7 +22,7 @@ sections:
     type: testimonials_section
   - section_id: lorem-ipsum
     title: Do you need to comply?
-    subtitle: 'if you''re in Ontario, probably'
+    subtitle: 'if you''re in Ontario, most likely'
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
