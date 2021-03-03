@@ -59,7 +59,7 @@ sections:
     content: "What some companies don’t know is that they already need to be compliant! Don’t get caught with a beautiful website, but it’s not accessible to a majority of Ontarians.\n\n*   **Beginning January 1, 2014**: new public websites, significantly refreshed websites and any web content posted after January 1, 2012, must\_*meet\_Web Content Accessibility Guidelines (WCAG)\_2.0 Level A\n    *\n\n*   **Beginning January 1, 2021:**\_all public websites and web content posted after January 1, 2012, must\_*meet\_WCAG\_2.0 Level AA*\_other than criteria 1.2.4 (live captions) and 1.2.5 (pre-recorded audio descriptions)\n\n\\* “Accessibility rules for businesses and non-profits” (Source:\_<https://www.ontario.ca/page/accessibility-rules-businesses-and-non-profits>)\n"
     type: content_section
   - section_id: a11y-cta
-    title: Get a website assessment!
+    title: Accessibility is important.
     content: >
       Many businesses don't know that they're required to be "AA" compliant as
       of January 1st, 2021.
