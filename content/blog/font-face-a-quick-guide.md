@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: @Font-Face A Quick Guide
+      value: Font-Face A Quick Guide
     - name: 'twitter:description'
       value: >-
         @font-face is a CSS rule which allows you to show fonts on a Web page
