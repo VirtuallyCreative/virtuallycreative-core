@@ -44,6 +44,22 @@ sections:
     type: content_section
     title: TL;DR
     subtitle: what does Ontario law say?
+  - section_id: inclusive-design
+    title: What is Inclusive Design?
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
+    subtitle: design focused around user experience
   - section_id: a11y-cta
     title: Accessibility is important.
     content: >
@@ -69,22 +85,6 @@ sections:
     bg_color: light
     type: cta_section
     image: images/Logo Arrows.png
-  - section_id: inclusive-design
-    title: What is Inclusive Design?
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
-    subtitle: design focused around user experience
 seo:
   title: ''
   description: ''
