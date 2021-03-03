@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Digital Marketing
 hide_title: true
 sections: []
 seo:
