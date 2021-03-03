@@ -84,7 +84,7 @@ sections:
 
       - dolor sit amet
     type: content_section
-    subtitle: web design that's focused around
+    subtitle: web design that's focused around user experience
 seo:
   title: ''
   description: ''
