@@ -27,5 +27,6 @@ sections:
 
       - dolor sit amet
     type: content_section
+    image: images/peter_thanks.png
 layout: advanced
 ---
