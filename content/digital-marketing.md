@@ -9,7 +9,7 @@ sections:
     type: hero_section
   - section_id: tune-up-packages
     title: SEO Tune-Up
-    subtitle: lorem-ipsum
+    subtitle: starer packages for smaller businesses
     col_number: three
     grid_items: []
     type: grid_section
