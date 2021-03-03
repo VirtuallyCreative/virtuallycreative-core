@@ -36,7 +36,12 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    testimonials: []
+    testimonials:
+      - author: lorem-ipsum
+        position: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
     type: testimonials_section
   - section_id: lorem-ipsum
     title: lorem-ipsum
