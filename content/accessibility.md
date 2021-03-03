@@ -24,17 +24,35 @@ sections:
     title: Do you need to comply?
     subtitle: 'if you''re in Ontario, most likely.'
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      The requirements and deadlines you need to follow depend on the type and
+      size of your organization. You are exempt if you are self-employed and do
+      not have employees. We can help you navigate digital compliance issues for
+      the following sectors:
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   [businesses or
+      non-profits](https://www.ontario.ca/page/accessibility-rules-businesses-and-non-profits)
 
 
-      - Lorem ipsum
+      *   [public sector
+      organizations](https://www.ontario.ca/page/accessibility-rules-public-sector-organizations)
 
-      - dolor sit amet
+
+      *  
+      [municipalities](https://www.ontario.ca/page/accessibility-rules-municipalities)
+
+
+      *   [educational institutions (e.g., boards, colleges, universities and
+      schools)](https://www.ontario.ca/page/accessibility-rules-school-libraries)
+
+
+      *   [producers of educational material (e.g.,
+      textbooks)](https://www.ontario.ca/page/accessibility-rules-publishers)
+
+
+      *   [library
+      boards](https://www.ontario.ca/page/accessibility-rules-public-libraries)
     type: content_section
   - section_id: lorem-ipsum
     title: lorem-ipsum
