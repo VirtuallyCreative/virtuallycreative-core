@@ -69,7 +69,7 @@ sections:
     bg_color: light
     type: cta_section
     image: images/Logo Arrows.png
-  - section_id: lorem-ipsum
+  - section_id: inclusive-design
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
