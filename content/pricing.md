@@ -220,7 +220,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Shopapreneur
+      - label: One n' Done Shopapreneur
         url: /contact/
         style: link
         icon: dribbble
