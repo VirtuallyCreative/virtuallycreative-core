@@ -20,7 +20,7 @@ sections:
           disabilities."
         type: testimonial
     type: testimonials_section
-  - section_id: lorem-ipsum
+  - section_id: aoda-comply
     title: Do you need to comply?
     subtitle: 'if you''re in Ontario, most likely.'
     image_alt: lorem-ipsum
