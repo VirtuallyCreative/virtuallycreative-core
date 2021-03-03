@@ -11,7 +11,7 @@ sections:
     title: What is AODA
     subtitle: does it affect me?
     testimonials:
-      - author: lorem-ipsum
+      - author: ' Government of Ontario'
         position: lorem-ipsum
         avatar_alt: lorem-ipsum
         content: >-
