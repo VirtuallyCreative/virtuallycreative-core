@@ -239,7 +239,7 @@ sections:
     type: cta_section
     image: images/Logo Arrows.png
   - section_id: additional-stuff
-    title: lorem-ipsum
+    title: Additional Stuff
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
