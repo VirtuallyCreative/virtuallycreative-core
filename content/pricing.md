@@ -227,7 +227,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Bespokepreneur
         url: lorem-ipsum
         style: link
         icon: dribbble
