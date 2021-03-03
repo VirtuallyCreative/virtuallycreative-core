@@ -87,7 +87,9 @@ sections:
 layout: advanced
 seo:
   title: Virtually(Creative) - Accessible Web Development in Toronto
-  description: ''
+  description: >-
+    A Canadian digital web services and product agency focused on inclusive
+    design and accessibility development best practices.
   robots: []
   extra: []
   type: stackbit_page_meta
