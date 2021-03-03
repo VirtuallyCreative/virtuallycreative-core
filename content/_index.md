@@ -54,7 +54,7 @@ sections:
           *   Marketing experience strategy
         actions:
           - label: Learn More
-            url: /accessibility/
+            url: '/accessibility/ '
             style: link
             icon: dribbble
             new_window: false
