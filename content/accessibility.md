@@ -69,7 +69,7 @@ sections:
 
       *   Get an action plan to become AODA compliant
     actions:
-      - label: lorem-ipsum
+      - label: Let's Talk
         url: lorem-ipsum
         style: link
         icon: dribbble
