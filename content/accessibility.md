@@ -1,5 +1,5 @@
 ---
-title: A11y (Accessibility)
+title: Accessibility (A11y)
 hide_title: true
 sections:
   - section_id: a11y-hero
