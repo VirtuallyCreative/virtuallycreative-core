@@ -91,6 +91,10 @@ seo:
     A Canadian digital web services and product agency focused on inclusive
     design and accessibility development best practices.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/marvelous-goose.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
