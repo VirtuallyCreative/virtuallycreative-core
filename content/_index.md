@@ -83,7 +83,7 @@ sections:
           *   Domain Setup & Hosting
           *   Contact Funnel
           *   Social Media Integration
-          *   [See All Features & Pricing...](/pricing/)
+          *
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
