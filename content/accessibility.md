@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: a11y-hero
     title: Accessibility (a11y)
-    content: "## Virtually(Creative) offers web accessibility\_design and development focused on using inclusive design patterns with AODA compliance.\n\nBy January 1, 2021, all public websites and web content posted after 2012 will need to be AODA “AA” compliant\\*. With hefty\_penalties for a non-compliant site,\_build a new web presence using Inclusive design principles so that compliance with AODA is resolved naturally, not simply a technical pass with tooling.\n\n*   What is \"AODA\"?\n*   Do I need to comply?\n*   What does Inclusive Design Pattern mean?\n"
+    content: "## Virtually(Creative) offers web accessibility\_design and development focused on using inclusive design patterns with AODA compliance.\n\nBy January 1, 2021, all public websites and web content posted after 2012 will need to be AODA “AA” compliant\\*. With hefty\_penalties for a non-compliant site,\_build a new web presence using Inclusive design principles so that compliance with AODA is resolved naturally, not simply a technical pass with tooling.\n\n*   What is \"AODA\"?\n*   Do I need to comply?\n*   What are Inclusive Design Patterns?\n"
     actions: []
     type: hero_section
   - section_id: lorem-ipsum
