@@ -9,17 +9,12 @@ sections:
     actions: []
     section_id: thank-you
   - image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Our server trolls are workin’ away. 
+      Keep an eye out for an email with the next steps and any login details.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Use them to access your private customer portal below.
+      Don’t worry, the link is also in the email.
     type: content_section
     image: images/peter_thanks.png
 layout: advanced
