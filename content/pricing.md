@@ -213,7 +213,7 @@ sections:
 
       *   Got a custom idea? Bespokepreneur is for you!
     actions:
-      - label: Solopreneur
+      - label: One n' Done Solopreneur
         url: /contact/
         style: link
         icon: dribbble
