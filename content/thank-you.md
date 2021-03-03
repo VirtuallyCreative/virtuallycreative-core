@@ -10,7 +10,6 @@ sections:
       - label: Back to homepage
         url: /
         style: button
-    title: Thank You!
     section_id: thank-you
 layout: advanced
 ---
