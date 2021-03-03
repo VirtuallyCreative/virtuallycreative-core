@@ -70,7 +70,7 @@ sections:
           *   Business Automation
         actions:
           - label: See Marketing Pricing
-            url: lorem-ipsum
+            url: /digital-marketing/
             style: link
             icon: dribbble
             new_window: false
