@@ -14,7 +14,10 @@ sections:
       - author: lorem-ipsum
         position: lorem-ipsum
         avatar_alt: lorem-ipsum
-        content: lorem-ipsum
+        content: >-
+          “The Accessibility for Ontarians with Disabilities Act, or AODA , aims
+          to identify, remove, and prevent barriers for people with
+          disabilities.” – Government of Ontario
         type: testimonial
     type: testimonials_section
   - section_id: lorem-ipsum
