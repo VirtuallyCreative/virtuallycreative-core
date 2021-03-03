@@ -70,7 +70,7 @@ sections:
     type: cta_section
     image: images/Logo Arrows.png
   - section_id: inclusive-design
-    title: lorem-ipsum
+    title: What is Inclusive Design?
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
