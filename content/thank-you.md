@@ -11,5 +11,6 @@ sections:
         url: /
         style: button
     title: Thank You!
+    section_id: thank-you
 layout: advanced
 ---
