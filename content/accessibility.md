@@ -71,7 +71,7 @@ sections:
     actions:
       - label: Let's Talk
         url: /contact/
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
