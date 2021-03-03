@@ -69,7 +69,7 @@ sections:
           *   Website SEO & Analytics
           *   Business Automation
         actions:
-          - label: 'See '
+          - label: See Marketing Pricing
             url: lorem-ipsum
             style: link
             icon: dribbble
