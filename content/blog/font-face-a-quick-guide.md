@@ -9,7 +9,7 @@ thumb_image_alt: White concrete building wall
 image: images/font-face-kit.png
 image_alt: White concrete building wall
 seo:
-  title: @Font-Face: A Quick Guide
+  title: @Font-Face A Quick Guide
   description: >-
     @font-face is a CSS rule which allows you to show fonts on a Web page
   extra:
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: @Font-Face: A Quick Guide
+      value: @Font-Face A Quick Guide
       keyName: property
     - name: 'og:description'
       value: >-
