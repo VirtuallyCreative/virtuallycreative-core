@@ -10,5 +10,6 @@ sections:
       - label: Back to homepage
         url: /
         style: button
+    title: Thank You!
 layout: advanced
 ---
