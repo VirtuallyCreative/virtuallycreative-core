@@ -3,7 +3,7 @@ title: A11y (Accessibility)
 hide_title: true
 sections:
   - section_id: a11y-hero
-    title: lorem-ipsum
+    title: A11y (Accessibility)
     content: >-
       ## Lorem ipsum
 
