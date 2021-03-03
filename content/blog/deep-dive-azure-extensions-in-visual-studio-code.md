@@ -1,5 +1,5 @@
 ---
-title: Deep Dive: Azure Extensions in Visual Studio Code
+title: Deep Dive Azure Extensions in Visual Studio Code
 subtitle: A interesting tale about function of design
 excerpt: >-
   hassle-free way to set up deployments using some built-in Extensions for Visual Studio Code (VSC)
@@ -9,7 +9,7 @@ thumb_image_alt: White concrete building wall
 image: images/azure1.jpg
 image_alt: White concrete building wall
 seo:
-  title: Deep Dive: Azure Extensions in Visual Studio Code
+  title: Deep Dive Azure Extensions in Visual Studio Code
   description: >-
     hassle-free way to set up deployments using some built-in Extensions for Visual Studio Code (VSC)
   extra:
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Deep Dive: Azure Extensions in Visual Studio Code
+      value: Deep Dive Azure Extensions in Visual Studio Code
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Deep Dive: Azure Extensions in Visual Studio Code
+      value: Deep Dive Azure Extensions in Visual Studio Code
     - name: 'twitter:description'
       value: >-
         hassle-free way to set up deployments using some built-in Extensions for Visual Studio Code (VSC)
