@@ -9,7 +9,7 @@ thumb_image_alt: White concrete building wall
 image: images/analytics-wars-featured-image.png
 image_alt: White concrete building wall
 seo:
-  title: Analytics Battle Royale - Google Analytics, Zoom Analytics or Piwik
+  title: Analytics Battle Royale - Google Analytics Zoom Analytics or Piwik
   description: >-
       We have picked our top 3 favourite platforms used regularly either on our own in-house websites or deployed for our clients and will go through a blow-by-blow comparison.
   extra:
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Analytics Battle Royale - Google Analytics, Zoom Analytics or Piwik
+      value: Analytics Battle Royale - Google Analytics Zoom Analytics or Piwik
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Analytics Battle Royale - Google Analytics, Zoom Analytics or Piwik
+      value: Analytics Battle Royale - Google Analytics Zoom Analytics or Piwik
     - name: 'twitter:description'
       value: >-
           We have picked our top 3 favourite platforms used regularly either on our own in-house websites or deployed for our clients and will go through a blow-by-blow comparison.
