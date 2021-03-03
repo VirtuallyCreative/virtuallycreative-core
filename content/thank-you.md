@@ -6,10 +6,7 @@ sections:
     content: >
       Virtually(Creative) is a solo freelance operation that appreciates your
       business!
-    actions:
-      - label: Back to homepage
-        url: /
-        style: button
+    actions: []
     section_id: thank-you
   - section_id: lorem-ipsum
     title: lorem-ipsum
