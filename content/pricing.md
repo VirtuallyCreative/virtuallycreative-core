@@ -78,7 +78,7 @@ sections:
       *   Subscriptions are 12 months in duration
       *   They are billed each month from the day you start
     actions:
-      - label: Solopreneur
+      - label: Solopreneur Subscription
         url: lorem-ipsum
         style: link
         icon: dribbble
