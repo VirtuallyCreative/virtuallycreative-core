@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Analytics Battle Royale: Google Analytics, Zoom Analytics or Piwik
+      value: Analytics Battle Royale - Google Analytics, Zoom Analytics or Piwik
     - name: 'twitter:description'
       value: >-
           We have picked our top 3 favourite platforms used regularly either on our own in-house websites or deployed for our clients and will go through a blow-by-blow comparison.
