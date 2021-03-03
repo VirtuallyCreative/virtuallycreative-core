@@ -1,5 +1,5 @@
 ---
-title: HTML5 Semantics Introduction
+title: HTML5 Semantics - Introduction
 subtitle: A interesting tale about function of design
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -10,7 +10,7 @@ thumb_image_alt: White concrete building wall
 image: images/slide4.jpg
 image_alt: White concrete building wall
 seo:
-  title: HTML5 Semantics Introduction
+  title: HTML5 Semantics - Introduction
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore
@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: HTML5 Semantics Introduction
+      value: HTML5 Semantics - Introduction
       keyName: property
     - name: 'og:description'
       value: >-
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: HTML5 Semantics Introduction
+      value: HTML5 Semantics - Introduction
     - name: 'twitter:description'
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
