@@ -10,6 +10,11 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
+    testimonials: []
+    type: testimonials_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
@@ -55,11 +60,6 @@ sections:
     image_alt: lorem-ipsum
     bg_color: none
     type: cta_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    testimonials: []
-    type: testimonials_section
 seo:
   title: ''
   description: ''
