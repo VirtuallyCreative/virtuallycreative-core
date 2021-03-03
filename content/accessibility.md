@@ -1,5 +1,5 @@
 ---
-title: A11y
+title: A11y (Accessibility)
 hide_title: true
 sections: []
 seo:
