@@ -71,7 +71,6 @@ sections:
     image: images/Logo Arrows.png
   - section_id: inclusive-design
     title: What is Inclusive Design?
-    subtitle: 'Coined by Heydon Pickering - a highly '
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
