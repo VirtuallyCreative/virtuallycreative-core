@@ -227,6 +227,13 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: lorem-ipsum
     bg_color: light
     type: cta_section
