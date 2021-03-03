@@ -242,17 +242,7 @@ sections:
     title: Additional Stuff
     subtitle: more pricing breakdown
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Because being transparent and upfront with our costs with no hidden surprises makes me and*\_my clients*\_happy.\n\n**Hourly Consultations ———- $300/hr**\n*Video chat or phone consultation for up to 4 people – per hour.*\n\n**On-site Training (Optional) ———-\_$1500 Half Day**\n*On-site training provided after the website launch (up to a maximum of 3 people)*\n\n**Additional Page Creation ———- $~120**\n*Creation of additional pages on your website*\n\n**Transfer of current site content into new Website (Per Page) ———- $35**\n*Moving content from an existing website to your new one*\n\n**Domain name registration & renewal (.ca per year) ———- $20 ~ $120**\n*Yearly fee to keep the domain name active, pricing depends on domain ending*\n\n**Domain name registration & renewal (non .ca per year) ———- ~$25**\n*Yearly fee to keep the domain name active*\n\n**Web Analytics monthly reports/analysis**\_**———- $225/per additional\_report**\n*Have additional custom reports made on visitors' views and statistics from\_*[*Google Analytics*](https://marketingplatform.google.com/about/analytics/)*,\_*[*HEAP*](http://heapanalytics.com/)*,\_*[*Hotjar*](https://www.hotjar.com/)*,\_*[*Matomo*](https://matomo.org/feature-overview/)*\_and more…*\n\n**White-labelled Analytics**\_powered by Matomo\_**———- $3500/one-time setup**\n*On-Prem/Self Hosted white-labelled open-source Web Analytics\_*[*powered by Matomo*](https://matomo.org/feature-overview/)*. Includes setup of a website with major goals and page events ready to go.*\n\n**Setup additional website**\_in Custom Analytics\_**———- $175/one-time setup**\n*Setup another web property with major goals and page events ready to go inside your Branded Analytics dashboard.*\n\n**Newsletter campaign integration ———- $140**\n*Integration with MailChimp, Constant Contact, etc.*\n\n**Stand-alone subscription**\_for Upkeep & Maintenance\_**———- $240/yearly**\n*Annual Upkeep & Maintenance subscription when not bundled with other services (like SEO Tune-Up)*\n\n*   *All subscriptions and fees are subject to change at any time.*\n\n*   *Fixed and agreed fees are only contractual when signed by both parties, us Virtually(Creative) and you, the Customer.*\n\n*   *While we provide a daily backup we cannot guarantee that we can restore your site to a specific point in time or to its full previous state.*\n"
     type: content_section
 seo:
   title: ''
