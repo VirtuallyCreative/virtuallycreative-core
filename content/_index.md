@@ -85,7 +85,7 @@ sections:
           *   Social Media Integration
           *
         actions:
-          - label: See Features and Pricing
+          - label: See Plans and Pricing
             url: /pricing/
             style: link
             icon: dribbble
