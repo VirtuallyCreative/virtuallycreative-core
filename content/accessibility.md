@@ -37,22 +37,6 @@ sections:
 
       *   [public sector
       organizations](https://www.ontario.ca/page/accessibility-rules-public-sector-organizations)
-
-
-      *  
-      [municipalities](https://www.ontario.ca/page/accessibility-rules-municipalities)
-
-
-      *   [educational institutions (e.g., boards, colleges, universities and
-      schools)](https://www.ontario.ca/page/accessibility-rules-school-libraries)
-
-
-      *   [producers of educational material (e.g.,
-      textbooks)](https://www.ontario.ca/page/accessibility-rules-publishers)
-
-
-      *   [library
-      boards](https://www.ontario.ca/page/accessibility-rules-public-libraries)
     type: content_section
   - section_id: aoda-rules
     image_alt: lorem-ipsum
