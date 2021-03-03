@@ -61,6 +61,9 @@ sections:
   - section_id: a11y-cta
     title: Accessibility is important.
     content: >
+      ### Let all customers reach you.
+
+
       Many businesses don't know that they're required to be "AA" compliant as
       of January 1st, 2021.
 
