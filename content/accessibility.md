@@ -8,7 +8,7 @@ sections:
     actions: []
     type: hero_section
   - section_id: lorem-ipsum
-    title: What is AODA.
+    title: What is AODA
     subtitle: does it affect me?
     testimonials: []
     type: testimonials_section
