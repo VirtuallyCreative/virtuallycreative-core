@@ -3,7 +3,7 @@ title: Digital Marketing
 hide_title: true
 sections:
   - section_id: marketing-hero
-    title: lorem-ipsum
+    title: Digital Marketing
     content: >-
       ## Lorem ipsum
 
