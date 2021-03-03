@@ -86,7 +86,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: ''
+  title: Virtually(Creative) - Accessible Web Development in Toronto
   description: ''
   robots: []
   extra: []
