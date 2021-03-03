@@ -7,7 +7,7 @@ sections:
       Virtually(Creative) is a solo freelance operation that appreciates your
       business!
     actions:
-      - label: lorem-ipsum
+      - label: Back to Main
         url: lorem-ipsum
         style: link
         icon: dribbble
