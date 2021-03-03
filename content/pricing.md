@@ -221,7 +221,7 @@ sections:
         no_follow: false
         type: action
       - label: Shopapreneur
-        url: lorem-ipsum
+        url: /contact/
         style: link
         icon: dribbble
         new_window: false
