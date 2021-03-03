@@ -61,6 +61,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/godaddy-hosting.jpg
     type: grid_section
 seo:
   title: ''
