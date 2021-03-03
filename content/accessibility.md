@@ -7,6 +7,12 @@ sections:
     content: "## Virtually(Creative) offers web accessibility\_design and development focused on using inclusive design patterns with AODA compliance.\n\nBy January 1, 2021, all public websites and web content posted after 2012 will need to be AODA “AA” compliant\\*. With hefty\_penalties for a non-compliant site,\_build a new web presence using Inclusive design principles so that compliance with AODA is resolved naturally, not simply a technical pass with tooling.\n\n*   What is \"AODA\"?\n*   Do I need to comply?\n*   What are Inclusive Design Patterns?\n"
     actions: []
     type: hero_section
+  - section_id: inclusive-design
+    title: What is Inclusive Design?
+    image_alt: lorem-ipsum
+    content: "## In a world of stairs, let's build ramps.\n\nStairs are cheaper but have limits. They work for the majority of people, but not all. Ramps take a bit more planning than stairs but can be used by everyone. \n\nPicking ramps *when stairs will* *do* is an inclusive design choice. People who use stairs don't even notice a ramp. People who use ramps will absolutely notice it's not stairs.\n\n*   Accessible design *is* good design.\n*   Good design is *rarely* noticed.\n\nThe true ROI from accessibility is to not only make your website more accessible but to\_*also\_market to people with disabilities* **using accessibility as a market differentiator.**\n"
+    type: content_section
+    subtitle: design focused around user experience
   - section_id: lorem-ipsum
     title: What is AODA?
     subtitle: Accessibility for Ontarians with Disabilities Act
@@ -44,12 +50,6 @@ sections:
     type: content_section
     title: TL;DR
     subtitle: what does Ontario law say?
-  - section_id: inclusive-design
-    title: What is Inclusive Design?
-    image_alt: lorem-ipsum
-    content: "## In a world of stairs, let's build ramps.\n\nStairs are cheaper but have limits. They work for the majority of people, but not all. Ramps take a bit more planning than stairs but can be used by everyone. \n\nPicking ramps *when stairs will* *do* is an inclusive design choice. People who use stairs don't even notice a ramp. People who use ramps will absolutely notice it's not stairs.\n\n*   Accessible design *is* good design.\n*   Good design is *rarely* noticed.\n\nThe true ROI from accessibility is to not only make your website more accessible but to\_*also\_market to people with disabilities* **using accessibility as a market differentiator.**\n"
-    type: content_section
-    subtitle: design focused around user experience
   - section_id: a11y-cta
     title: Accessibility is important.
     content: >
