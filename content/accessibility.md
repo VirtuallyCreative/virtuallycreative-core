@@ -12,7 +12,7 @@ sections:
     subtitle: does it affect me?
     testimonials:
       - author: ' Government of Ontario'
-        position: lorem-ipsum
+        position: 'https://docs.ontario.ca/documents/4845/guidelines-to-iasr-english.pdf'
         avatar_alt: lorem-ipsum
         content: >-
           “The Accessibility for Ontarians with Disabilities Act, or AODA , aims
