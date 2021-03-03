@@ -201,7 +201,7 @@ sections:
         type: grid_item
         image: images/bespokpreneur.png
     type: grid_section
-  - section_id: Select-Onea
+  - section_id: Select-One-Done
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
