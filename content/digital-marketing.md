@@ -8,7 +8,7 @@ sections:
     actions: []
     type: hero_section
   - section_id: tune-up-packages
-    title: lorem-ipsum
+    title: SEO Tune-Up
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
