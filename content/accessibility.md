@@ -8,7 +8,7 @@ sections:
     actions: []
     type: hero_section
   - section_id: lorem-ipsum
-    title: Accessibility for Ontarians with Disabilities Act
+    title: AODA
     subtitle: does it affect me?
     testimonials:
       - author: ' Government of Ontario'
