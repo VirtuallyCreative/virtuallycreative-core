@@ -8,8 +8,7 @@ sections:
       business!
     actions: []
     section_id: thank-you
-  - subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
