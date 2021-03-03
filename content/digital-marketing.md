@@ -8,7 +8,7 @@ sections:
     actions: []
     type: hero_section
   - section_id: tune-up-packages
-    title: SEO Tune-Up
+    title: SEO Site Tune-Up
     subtitle: starter packages for solo & entrepreneurs
     col_number: three
     grid_items: []
