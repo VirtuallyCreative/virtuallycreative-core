@@ -1,5 +1,5 @@
 ---
-title: Zapier: the web app you didn't know you need!
+title: Zapier the web app you didn't know you need!
 subtitle: A interesting tale about function of design
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -10,7 +10,7 @@ thumb_image_alt: White concrete building wall
 image: images/Automate-the-Web-Zapier.png
 image_alt: White concrete building wall
 seo:
-  title: Zapier: the web app you didn't know you need!
+  title: Zapier the web app you didn't know you need!
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore
@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Zapier: the web app you didn't know you need!
+      value: Zapier the web app you didn't know you need!
       keyName: property
     - name: 'og:description'
       value: >-
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Zapier: the web app you didn't know you need!
+      value: Zapier the web app you didn't know you need!
     - name: 'twitter:description'
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
