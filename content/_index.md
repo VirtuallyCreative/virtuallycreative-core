@@ -93,7 +93,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/marvelous-goose.png
+      value: /images/405_Front_End_Development_Doodle_Concept-med.jpg
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
