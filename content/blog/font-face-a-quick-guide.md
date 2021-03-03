@@ -1,5 +1,5 @@
 ---
-title: @Font-Face: A Quick Guide
+title: Font-Face - A Quick Guide
 subtitle: A interesting tale about function of design
 excerpt: >-
   @font-face is a CSS rule which allows you to show fonts on a Web page
