@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: A11y
 hide_title: true
 sections: []
 seo:
