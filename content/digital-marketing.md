@@ -12,7 +12,7 @@ sections:
     subtitle: starter packages for solo & entrepreneurs
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Basic
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
