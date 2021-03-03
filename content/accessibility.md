@@ -47,17 +47,7 @@ sections:
   - section_id: inclusive-design
     title: What is Inclusive Design?
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "## In a world of stairs, let's build ramps.\n\nStairs have limits. They work for the majority of people, but not all. Ramps take a bit more planning than stairs, but typically last longer and can be used by everyone. Picking ramps when stairs will do is an inclusive design choice; proven to yield better results. \n\n*   Accessible design is good design.\n*   Good design is rarely noticed.\n*   The true ROI from accessibility is to not only make your website more accessible but to\_*also*\_**market to people with disabilities** using accessibility as a market differentiator.\n"
     type: content_section
     subtitle: design focused around user experience
   - section_id: a11y-cta
