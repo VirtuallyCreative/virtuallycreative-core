@@ -4,17 +4,7 @@ hide_title: true
 sections:
   - section_id: a11y-hero
     title: A11y (Accessibility)
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "## Virtually(Creative) offers web accessibility\_design and development focused on using inclusive design patterns with AODA compliance.\n\nBy January 1, 2021, all public websites and web content posted after 2012 will need to be AODA “AA” compliant\\*. With hefty\_penalties for a non-compliant site,\_build your new web presence with Inclusive design and have “AA” compliance coded in!\n\n*   What is \"AODA\"?\n*   Do I need to comply?\n"
     actions: []
     type: hero_section
   - section_id: lorem-ipsum
