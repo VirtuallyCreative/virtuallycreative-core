@@ -240,7 +240,7 @@ sections:
     image: images/Logo Arrows.png
   - section_id: additional-stuff
     title: Additional Stuff
-    subtitle: lorem-ipsum
+    subtitle: more pricing awesomness
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
