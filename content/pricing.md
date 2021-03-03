@@ -202,7 +202,7 @@ sections:
         image: images/bespokpreneur.png
     type: grid_section
   - section_id: Select-One-Done
-    title: lorem-ipsum
+    title: Select A Package
     content: >-
       ## Lorem ipsum
 
