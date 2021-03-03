@@ -203,17 +203,15 @@ sections:
     type: grid_section
   - section_id: Select-One-Done
     title: Select A Package
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Select a project package to start the setup process for your new website.
+      Unlike subscriptions above, we'll need to chat first before we can move to
+      the next step.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   One n' Done is a  one-time, up-front payment.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   Got a custom idea? Bespokepreneur is for you!
     actions: []
     image_alt: lorem-ipsum
     bg_color: light
