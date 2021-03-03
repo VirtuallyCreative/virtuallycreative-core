@@ -86,7 +86,7 @@ sections:
           *
         actions:
           - label: See Features and Pricing
-            url: lorem-ipsum
+            url: /pricing/
             style: link
             icon: dribbble
             new_window: false
