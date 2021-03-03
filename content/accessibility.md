@@ -9,7 +9,7 @@ sections:
     type: hero_section
   - section_id: lorem-ipsum
     title: What is AODA?
-    subtitle: does it affect me?
+    subtitle: Accessibility for Ontarians with Disabilities Act
     testimonials:
       - author: ' Government of Ontario'
         position: 'https://www.aoda.ca/the-act/'
