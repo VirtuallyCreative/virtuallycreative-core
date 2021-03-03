@@ -85,7 +85,7 @@ sections:
           *   Social Media Integration
           *
         actions:
-          - label: See Pricing
+          - label: See Features and Pricing
             url: lorem-ipsum
             style: link
             icon: dribbble
