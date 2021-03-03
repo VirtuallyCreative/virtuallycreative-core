@@ -21,7 +21,7 @@ sections:
         type: testimonial
     type: testimonials_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Do you need to comply?
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
