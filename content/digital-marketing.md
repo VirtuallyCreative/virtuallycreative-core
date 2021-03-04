@@ -134,9 +134,6 @@ sections:
         subtitle: marketing strategic plan
         image_alt: lorem-ipsum
         content: >
-          ## Lorem ipsum
-
-
           On top of the Tune-Up Pro is the Marketing Pro plan. It’s like having
           a full-service agency handle your marketing alignment strategy across
           all digital channels leveraging your website as the central source to
@@ -150,9 +147,19 @@ sections:
           things change over time.
 
 
-          *   Lorem ipsum
+          *   Everything in Tune-Up Pro Package
 
-          *   dolor sit amet
+
+          *   Monthly Marketing Strategy Alignment
+
+
+          *   Quarterly Custom Campaigns
+
+
+          *   Social Medica Competition Deep Dive
+
+
+          *   72hrs total A-la-carte consulting included
         actions: []
         type: grid_item
         image: images/istockphoto-917291106-612x612.jpg
