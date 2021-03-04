@@ -91,6 +91,7 @@ sections:
     bg_color: light
     type: cta_section
     image: images/Logo Arrows.png
+    title: Bring that website in for a tune-up!
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
