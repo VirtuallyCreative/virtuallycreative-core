@@ -75,7 +75,6 @@ sections:
         image: images/seo_img-1.png
     type: grid_section
   - section_id: seo-tuneup-cta
-    title: Time for a Pit Stop!
     content: >-
       ## Lorem ipsum
 
