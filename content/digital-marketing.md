@@ -94,7 +94,7 @@ sections:
     title: Time for an SEO tune-up!
   - section_id: marketing-packages
     title: Enterprise Marketing
-    subtitle: full-service packages for enterprise
+    subtitle: full-service packages for enterprise organizations
     col_number: three
     grid_items: []
     type: grid_section
