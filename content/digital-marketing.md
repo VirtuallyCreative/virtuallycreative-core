@@ -74,7 +74,7 @@ sections:
         type: grid_item
         image: images/seo_img-1.png
     type: grid_section
-  - section_id: lorem-ipsum
+  - section_id: seo-tuneup-cta
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
