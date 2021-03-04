@@ -92,7 +92,7 @@ sections:
     type: cta_section
     image: images/Logo Arrows.png
     title: Time for an SEO tune-up!
-  - section_id: lorem-ipsum
+  - section_id: marketing-
     title: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
