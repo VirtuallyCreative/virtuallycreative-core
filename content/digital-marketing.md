@@ -122,7 +122,7 @@ sections:
           *   dolor sit amet
         actions: []
         type: grid_item
-        image: images/25-1P91Q43S0292-lp.jpg
+        image: images/Racing-car-on-the-road-3d-isometric-vector.webp
       - title: Professional
         subtitle: marketing strategic plan
         image_alt: lorem-ipsum
