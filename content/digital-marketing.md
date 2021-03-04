@@ -98,7 +98,7 @@ sections:
     col_number: three
     grid_items:
       - title: Standard
-        subtitle: 'marketing '
+        subtitle: marketing strategic plan
         image_alt: lorem-ipsum
         content: >
           ## Lorem ipsum
