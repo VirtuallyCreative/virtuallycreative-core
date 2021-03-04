@@ -100,17 +100,26 @@ sections:
       - title: Standard
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          On top of the Tune-Up Pro is the Marketing Standard plan. It’s like
+          having a full-service agency handle your marketing alignment strategy
+          across all digital channels leveraging your website as the central
+          source to focus around.
 
 
-          - Lorem ipsum
+          With a package like this, we include 2 hours each month to use as you
+          see fit to get the most out of this package for your business and make
+          sure we’re always aligned with your goals and expectations, so rest
+          easy knowing we understand what you need and are just a call away as
+          things change over time.
 
-          - dolor sit amet
+
+          *   Lorem ipsum
+
+          *   dolor sit amet
         actions: []
         type: grid_item
         image: images/25-1P91Q43S0292-lp.jpg
