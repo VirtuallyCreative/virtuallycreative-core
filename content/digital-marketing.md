@@ -91,7 +91,7 @@ sections:
     bg_color: light
     type: cta_section
     image: images/Logo Arrows.png
-    title: Time for a tune-up!
+    title: Time for an SEO tune-up!
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
