@@ -98,7 +98,7 @@ sections:
     col_number: three
     grid_items:
       - title: Standard
-        subtitle: lorem-ipsum
+        subtitle: 'marketing '
         image_alt: lorem-ipsum
         content: >
           ## Lorem ipsum
