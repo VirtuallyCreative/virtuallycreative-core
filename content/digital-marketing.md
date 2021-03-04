@@ -91,6 +91,7 @@ sections:
     image_alt: lorem-ipsum
     bg_color: light
     type: cta_section
+    image: images/Logo Arrows.png
 seo:
   title: ''
   description: ''
