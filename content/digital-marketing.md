@@ -49,17 +49,27 @@ sections:
       - title: Professional
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          WordPress is a fantastic publishing platform, but out of the box, it
+          doesn’t include many Search Engine Optimization (SEO) features. These
+          are added in by additional SEO plugins, which require configuration
+          and an understanding of SEO best practices.
 
 
-          - Lorem ipsum
+          Our Site Tune-Up packages help maximize your WordPress’s Search Engine
+          Optimization (SEO) effectiveness by making sure all “low-hanging
+          fruit” is quickly taken care of by making sure the best SEO plugins
+          for your WordPress website are installed and configured properly. If
+          there are missing SEO plugins we safely install them for you and
+          configure them for continuous optimal use.
 
-          - dolor sit amet
+
+          *   Lorem ipsum
+
+          *   dolor sit amet
         actions: []
         type: grid_item
         image: images/seo_img-1.png
