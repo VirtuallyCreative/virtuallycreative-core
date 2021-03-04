@@ -93,7 +93,7 @@ sections:
     image: images/Logo Arrows.png
     title: Time for an SEO tune-up!
   - section_id: marketing-packages
-    title: lorem-ipsum
+    title: Enterprise Marketing
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
