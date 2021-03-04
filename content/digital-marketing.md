@@ -89,7 +89,7 @@ sections:
       - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
-    bg_color: none
+    bg_color: light
     type: cta_section
 seo:
   title: ''
