@@ -101,6 +101,9 @@ sections:
         subtitle: marketing strategic plan
         image_alt: lorem-ipsum
         content: >
+          ## $1450/mo
+
+
           On top of the Tune-Up Pro is the Marketing Standard plan. It’s like
           having a full-service agency handle your marketing alignment strategy
           across all digital channels leveraging your website as the central
