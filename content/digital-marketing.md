@@ -69,27 +69,7 @@ sections:
       - title: Professional
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
-          ## Lorem ipsum
-
-
-          WordPress is a fantastic publishing platform, but out of the box, it
-          doesn’t include many Search Engine Optimization (SEO) features. These
-          are added in by additional SEO plugins, which require configuration
-          and an understanding of SEO best practices.
-
-
-          Our Site Tune-Up packages help maximize your WordPress’s Search Engine
-          Optimization (SEO) effectiveness by making sure all “low-hanging
-          fruit” is quickly taken care of by making sure the best SEO plugins
-          for your WordPress website are installed and configured properly. If
-          there are missing SEO plugins we safely install them for you and
-          configure them for continuous optimal use.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+        content: "## Lorem ipsum\n\nTake your WordPress SEO to another level.\n\nBuilding upon the base from the Basic & Standard Packages, the Pro Site Tune-Up package maximizes your WordPress’s Search Engine Optimization (SEO) effectiveness by installing the premium version of the specific performance, SEO, and content integrity plugins best suited for your website setup.\n\nBundled with the Pro package is\_**1yr**\_of Maintenance & Upkeep provided by Virtually(Creative); a hassle-free way to manage your WordPress website without hiring an in-house developer!\n\n*   Lorem ipsum\n*   dolor sit amet\n"
         actions: []
         type: grid_item
         image: images/seo_img-1.png
