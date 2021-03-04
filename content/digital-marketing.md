@@ -124,7 +124,7 @@ sections:
         type: grid_item
         image: images/25-1P91Q43S0292-lp.jpg
       - title: Professional
-        subtitle: lorem-ipsum
+        subtitle: marketing strategic plan
         image_alt: lorem-ipsum
         content: "## Lorem ipsum\n\nOn top of the Tune-Up Pro is the Marketing Pro plan. It’s like having a full-service agency handle your marketing alignment strategy across all digital channels leveraging your website as the central source to focus around.\n\nIf you have a website that’s under-performing this is the fastest way to super-charge it into conversion action! Streamline your digital marketing efforts into a consolidated plan of attack that has\_measurable results each and every month.\n\nWith a package like this, we include 6 hours each month to use as you see fit to get the most out of this package for your business and make sure we’re always aligned with your goals and expectations, so rest easy knowing we understand what you need and are just a call away as things change over time.\n\n*   Lorem ipsum\n*   dolor sit amet\n"
         actions: []
