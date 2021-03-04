@@ -113,6 +113,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/25-1P91Q43S0292-lp.jpg
       - title: Professional
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
