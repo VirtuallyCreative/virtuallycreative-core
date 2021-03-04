@@ -130,6 +130,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/istockphoto-917291106-612x612.jpg
     type: grid_section
 seo:
   title: ''
