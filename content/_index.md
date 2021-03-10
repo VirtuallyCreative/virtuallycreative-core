@@ -98,7 +98,7 @@ sections:
     bg_color: light
   - section_id: lorem-ipsum
     title: Latest News
-    subtitle: hot off the keys
+    subtitle: hot off the keyboard
     posts_number: 3
     col_number: three
     actions: []
