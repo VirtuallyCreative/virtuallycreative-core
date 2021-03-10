@@ -172,17 +172,15 @@ sections:
 
           *   Domain Setup & Hosting
 
-          *   Email Address Setup
-
           *   Integrated /w Paypal or Stripe
 
           *   Import 500 SKU’s
 
-          *   Ongoing WooCommerce Core updates
+          *   Checkout Funnel Optimization
 
-          *   Site Security & Backup Protection
+          *   SEO Plugin Optimization
 
-          *   Hack/Infected Protection & Recovery
+          *   Off-boarding Training for Woocommerce
         actions: []
         type: grid_item
         image: images/shopapreneur.png
