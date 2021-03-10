@@ -72,11 +72,12 @@ sections:
   - section_id: subscription-cta
     title: Select a Subscription
     content: |
-      Select a subscription to start the setup process for your new website. 
+      Select a subscription to start the setup process for your new website.
       Details are generated and sent to your email.
 
-      *   Subscriptions are 12 months in duration
-      *   They are billed each month from the day you start
+      *   Subscriptions are 12 months in duration.
+      *   Subscriptions do not include theme prices ($30 ~ $125).
+      *   Premium plugins not included unless bundled with its' theme.
     actions:
       - label: Solopreneur
         url: lorem-ipsum
