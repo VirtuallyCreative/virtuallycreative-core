@@ -35,7 +35,7 @@ params:
   footer:
     content: >-
       &copy; Virtually(Creative) - <a href="https://www.mypronouns.org/he-him"
-      target="_blank"he/him/his
+      target="_blank">he/him/his
     has_social: true
     social_links:
       - label: LinkedIn
