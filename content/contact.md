@@ -8,14 +8,14 @@ sections:
       Let’s build something great together.
 
 
-      Complete our contact form or send me an email at
+      Complete my contact form or send me an email at
       <alexander@virtuallycreative.ca>
 
 
       ***
 
 
-      ## Our Location
+      ## Our Location Specialization
 
 
       ### Toronto, Canada
