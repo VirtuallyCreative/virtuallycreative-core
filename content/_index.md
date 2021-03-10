@@ -103,7 +103,7 @@ sections:
     col_number: three
     actions:
       - label: See all News Posts
-        url: lorem-ipsum
+        url: /blog/
         style: link
         icon: dribbble
         new_window: false
