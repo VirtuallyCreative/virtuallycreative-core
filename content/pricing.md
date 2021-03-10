@@ -147,19 +147,16 @@ sections:
           *   Email Address Setup
 
 
-          *   Contact Funnel
+          *   Contact Funnel Setup
 
 
           *   Social Media Integration
 
 
-          *   Site Security & Backups
+          *   SEO Plugin Optimization
 
 
-          *   Ongoing WordPress Core updates
-
-
-          *   Hack/Infection Protection & Recovery
+          *   Off-boarding Training
         actions: []
         type: grid_item
         image: images/beige-rosemary.png
