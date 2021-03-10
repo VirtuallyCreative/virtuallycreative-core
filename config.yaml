@@ -33,7 +33,7 @@ params:
         url: /contact/
         style: button
   footer:
-    content: 'Really, you read this part? Neato!'
+    content: 'Really, you read this part? Neato! 2021 '
     has_social: true
     social_links:
       - label: LinkedIn
