@@ -33,7 +33,7 @@ sections:
         default_value: Your name
         is_required: true
       - input_type: text
-        name: Preferred Pronoun?
+        name: pronouns
         label: Preferred Pronoun?
         default_value: They/Them
         options: []
