@@ -102,7 +102,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: Read
+      - label: See all News Posts
         url: lorem-ipsum
         style: link
         icon: dribbble
