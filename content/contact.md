@@ -35,7 +35,7 @@ sections:
       - input_type: text
         name: Preferred Pronoun?
         label: Preferred Pronoun?
-        default_value: They/Them/Thy
+        default_value: They/Them
         options: []
         is_required: false
         type: form_field
