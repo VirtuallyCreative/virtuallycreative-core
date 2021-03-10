@@ -15,10 +15,10 @@ sections:
       ***
 
 
-      ## Our Location Specialization
+      ## Our Coordinates
 
 
-      ### Toronto, Canada
+      ### 43.706802, -79.398336
 
 
       Virtually(Creative) is a digital agency.
