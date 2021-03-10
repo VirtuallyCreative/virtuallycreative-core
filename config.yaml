@@ -33,7 +33,7 @@ params:
         url: /contact/
         style: button
   footer:
-    content: 'Really, you read this part? Cool. &copy; Virtually(Creative)'
+    content: 'Really, you read this part? Cool. Virtually(Creative)'
     has_social: true
     social_links:
       - label: LinkedIn
