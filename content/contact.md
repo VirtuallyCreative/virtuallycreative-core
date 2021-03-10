@@ -15,7 +15,7 @@ sections:
       ***
 
 
-      ## Our General Location
+      ## General Location
 
 
       ### 43.706802, -79.398336
