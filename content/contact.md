@@ -4,8 +4,9 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >+
+    content: >
       Let’s build something great together.
+
 
       Complete our contact form or send me an email at
       <alexander@virtuallycreative.ca>
@@ -20,10 +21,9 @@ sections:
       ### Toronto, Canada
 
 
-      Virtually(Creative) is a digital agency. 
+      Virtually(Creative) is a digital agency.
 
       We currently do not accept in-person appointments.
-
     form_id: contactForm
     form_action: /thank-you
     form_fields:
