@@ -30,7 +30,7 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: images/1280px-Jamstack_logo.svg.png
+        image: images/1000px-JAMstack_logo.svg.png
       - image: images/htmlcssjs.png
         image_alt: 'HTML5, JavaScript, CSS3'
       - image_alt: lorem-ipsum
