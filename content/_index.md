@@ -101,7 +101,14 @@ sections:
     subtitle: hot off the keyboard
     posts_number: 3
     col_number: three
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: posts_section
 layout: advanced
 seo:
