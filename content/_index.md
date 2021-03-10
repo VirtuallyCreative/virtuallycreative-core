@@ -94,17 +94,13 @@ sections:
             type: action
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      > "Everybody is a keyboard user when they are eating with their mouse
+      hand."
 
+      >
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      > \- Adrian Roselli
     type: content_section
   - type: cta_section
     section_id: cta
