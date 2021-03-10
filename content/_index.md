@@ -92,19 +92,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-  - type: cta_section
-    section_id: cta
-    title: Want to get started?
-    content: >
-      Let's see how the pieces fit and connect on what you're looking to get
-      working with Virtually(Creative).
-    actions:
-      - label: Let's Talk.
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
@@ -121,6 +108,19 @@ sections:
 
       - dolor sit amet
     type: content_section
+  - type: cta_section
+    section_id: cta
+    title: Want to get started?
+    content: >
+      Let's see how the pieces fit and connect on what you're looking to get
+      working with Virtually(Creative).
+    actions:
+      - label: Let's Talk.
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
 layout: advanced
 seo:
   title: Virtually(Creative) - Accessible Web Development in Toronto
