@@ -34,7 +34,7 @@ sections:
         is_required: true
       - input_type: text
         name: Preferred Pronoun?
-        label: lorem-ipsum
+        label: pronoun
         default_value: lorem-ipsum
         options: []
         is_required: false
