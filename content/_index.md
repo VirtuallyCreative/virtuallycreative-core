@@ -93,7 +93,6 @@ sections:
             no_follow: false
             type: action
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
