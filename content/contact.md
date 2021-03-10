@@ -15,7 +15,7 @@ sections:
       ***
 
 
-      ## Our Coordinates
+      ## Our General Location
 
 
       ### 43.706802, -79.398336
