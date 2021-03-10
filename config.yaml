@@ -33,7 +33,9 @@ params:
         url: /contact/
         style: button
   footer:
-    content: '&copy; Virtually(Creative) - he/him/his'
+    content: >-
+      &copy; Virtually(Creative) - <a
+      href="https://www.mypronouns.org/he-him"he/him/his
     has_social: true
     social_links:
       - label: LinkedIn
