@@ -23,22 +23,6 @@ sections:
     view_all_url: portfolio
     title: Noteworthy Projects
   - type: grid_section
-    section_id: clients
-    title: Tech Stack
-    col_number: three
-    grid_items:
-      - image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
-        image: images/1000px-JAMstack_logo.svg.png
-      - image: images/htmlcssjs.png
-        image_alt: 'HTML5, JavaScript, CSS3'
-      - image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
-        image: images/MailChimp_Logo_Light-Background-300x100.png
-    subtitle: started with the LAMP stack; now about that JAM Stack
-  - type: grid_section
     section_id: services
     title: Services
     subtitle: What we do
