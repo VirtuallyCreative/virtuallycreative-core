@@ -1,6 +1,6 @@
 ---
 title: Faye
-subtitle: A Ghost CMS Theme based on Casper
+subtitle: A Ghost CMS Theme based on Casper - Coming Soon
 date: '2021-03-11'
 thumb_image_alt: lorem-ipsum
 sections:
