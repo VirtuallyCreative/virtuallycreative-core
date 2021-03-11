@@ -21,7 +21,7 @@ sections:
 
       - dolor sit amet
     type: text_section
-  - image_alt: Faye - Post Listing - Mouse Hover
+  - image_alt: Mouse hovering over a single post on the theme homepage.
     caption: lorem-ipsum
     width: regular
     type: image_section
