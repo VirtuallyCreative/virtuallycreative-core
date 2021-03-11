@@ -30,12 +30,10 @@ sections:
     grid_items:
       - title: Accessibility (a11y)
         image: images/service-1.svg
-        content: |
-          *   Website Audit and Report
-          *   Development Consulting
-          *   Design Consulting
-          *   Digital experience strategy
-          *   Marketing experience strategy
+        content: >
+          *   *   Accessibility Training*   WCAG Consultation*   AODA
+          Consultation*   Assistive Technology Testing*   Mobile App
+          Accessibility
         actions:
           - label: Learn More
             url: /accessibility/
