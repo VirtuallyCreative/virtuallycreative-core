@@ -22,7 +22,7 @@ sections:
       - dolor sit amet
     type: text_section
   - image_alt: Mouse hovering over a single post on the theme homepage.
-    caption: lorem-ipsum
+    caption: Mouse hovering a post for selection.
     width: regular
     type: image_section
     image: images/faye-fullpage-image-hover.png
