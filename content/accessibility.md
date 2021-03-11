@@ -52,17 +52,9 @@ sections:
     subtitle: what does Ontario law say?
   - section_id: a11y-quote
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      > Everybody is a keyboard user when they are eating with their mouse hand.
+      > \- Adrian Roselli
     type: content_section
   - section_id: a11y-cta
     title: Accessibility is important.
