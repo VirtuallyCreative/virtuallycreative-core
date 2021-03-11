@@ -8,6 +8,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: images/faye.png
 seo:
   title: ''
   description: ''
