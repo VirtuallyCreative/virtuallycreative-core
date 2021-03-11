@@ -8,7 +8,7 @@ sections:
     caption: Faye Hero Section - No Default Image Set
     width: regular
     type: image_section
-    image: images/faye.png
+    image: images/faye-fullpage.png
   - content: >-
       ## Lorem ipsum
 
