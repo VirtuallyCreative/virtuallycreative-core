@@ -1,7 +1,7 @@
 ---
 title: aresDOM
 subtitle: A tiny JS micro-lib
-date: '2021-05-10'
+date: '2017-05-10'
 thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: ares DOM documentation hosted using GitBook
