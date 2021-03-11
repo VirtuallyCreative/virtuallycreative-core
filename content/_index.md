@@ -72,9 +72,13 @@ sections:
         image: images/service-3.svg
         content: |
           *   One-Page, Multi-Page, Shop
+
           *   Wooommerce Customization
+
           *   Powerful Cloud Hosting
+
           *   Business Automation
+
           *   Social Media Integration
         actions:
           - label: See Plans and Pricing
