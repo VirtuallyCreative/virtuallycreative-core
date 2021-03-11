@@ -5,7 +5,7 @@ date: '2021-03-11'
 thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: Faye - Ghost CMS theme
-    caption: Faye Hero Section
+    caption: Faye Hero Section - No Default Image Set
     width: regular
     type: image_section
     image: images/faye.png
