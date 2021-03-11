@@ -30,10 +30,16 @@ sections:
     grid_items:
       - title: Accessibility (a11y)
         image: images/service-1.svg
-        content: >
-          *   *   Accessibility Training*   WCAG Consultation*   AODA
-          Consultation*   Assistive Technology Testing*   Mobile App
-          Accessibility
+        content: |
+          *   Accessibility Training
+
+          *   WCAG Consultation
+
+          *   AODA Consultation
+
+          *   Assistive Technology Testing
+
+          *   Mobile App Accessibility
         actions:
           - label: Learn More
             url: /accessibility/
