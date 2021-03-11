@@ -9,17 +9,18 @@ sections:
     width: regular
     type: image_section
     image: images/faye-fullpage.png
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      ## Faye - Ghost CMS Theme
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Faye is a minimalist theme built on the default Ghost CMS theme, Casper.
+      Using sensible defaults for typography, spacing and visual accent Faye
+      means bringing focus to content.
 
 
-      - Lorem ipsum
+      *   Pairs well with sans-serif typography
 
-      - dolor sit amet
+      *   A visual focus on hover used to highlight the current item
     type: text_section
   - image_alt: Mouse hovering over a single post on the theme homepage.
     caption: Mouse hovering a post for selection.
