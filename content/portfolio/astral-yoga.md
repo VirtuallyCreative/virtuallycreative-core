@@ -1,6 +1,6 @@
 ---
 title: Faye
-subtitle: let the sounds carry you through meditation
+subtitle: A Ghost CMS Theme based on Casper
 date: '2021-03-11'
 thumb_image_alt: lorem-ipsum
 sections: []
