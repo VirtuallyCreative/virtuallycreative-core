@@ -4,7 +4,7 @@ subtitle: A Ghost CMS Theme based on Casper
 date: '2021-03-11'
 thumb_image_alt: lorem-ipsum
 sections:
-  - image_alt: lorem-ipsum
+  - image_alt: Faye - Ghost CMS theme
     caption: lorem-ipsum
     width: regular
     type: image_section
