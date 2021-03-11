@@ -52,9 +52,13 @@ sections:
         image: images/service-2.svg
         content: |
           *   Inbound Marketing Strategy
+
           *   Brand identity
+
           *   ROI & Funnel systems
+
           *   Website SEO & Analytics
+
           *   Business Automation
         actions:
           - label: See Marketing Pricing
