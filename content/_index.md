@@ -88,7 +88,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-  - section_id: lorem-ipsum
+  - section_id: a11y-quote
     image_alt: lorem-ipsum
     content: |
       > Everybody is a keyboard user when they are eating with their mouse hand.
