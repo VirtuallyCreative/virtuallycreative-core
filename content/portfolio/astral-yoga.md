@@ -21,7 +21,7 @@ sections:
 
       - dolor sit amet
     type: text_section
-  - image_alt: lorem-ipsum
+  - image_alt: Faye - Post Listing - Mouse Hover
     caption: lorem-ipsum
     width: regular
     type: image_section
