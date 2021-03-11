@@ -50,7 +50,7 @@ sections:
     type: content_section
     title: TL;DR
     subtitle: what does Ontario law say?
-  - section_id: lorem-ipsum
+  - section_id: a11y-quote
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
