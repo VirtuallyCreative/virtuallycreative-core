@@ -25,6 +25,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: images/faye-fullpage-image-hover.png
 seo:
   title: ''
   description: ''
