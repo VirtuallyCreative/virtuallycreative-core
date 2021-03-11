@@ -54,6 +54,7 @@ sections:
     image_alt: lorem-ipsum
     content: |
       > Everybody is a keyboard user when they are eating with their mouse hand.
+      >
       > \- Adrian Roselli
     type: content_section
   - section_id: a11y-cta
