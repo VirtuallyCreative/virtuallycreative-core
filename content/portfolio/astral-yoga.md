@@ -11,4 +11,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: project
+thumb_image: images/faye-logo-concept1-b.png
 ---
