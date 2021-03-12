@@ -31,6 +31,7 @@ sections:
       full-time.
     image: images/405_Front_End_Development_Doodle_Concept-med.jpg
     image_alt: Our team in the meeting room
+    section_id: my-story
   - section_id: tech-stack
     title: Tech Stack
     subtitle: tools and tech we like to use
