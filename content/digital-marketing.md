@@ -27,6 +27,12 @@ sections:
           and interact with your site on a daily basis. Reporting back the good
           stuff, we use this data to make informed decisions on goal
           optimization and user experience strategy.
+
+
+          *   Branded Data Studio Dashboard Setup
+
+
+          *   Main Contact Funnel Report /w Analysis
         actions: []
         type: grid_item
         image: images/seo-basic.svg
