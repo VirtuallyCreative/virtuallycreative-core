@@ -19,6 +19,8 @@ sections:
 
       Virtually(Creative) is a digital agency.
       We currently do not accept in-person appointments.
+
+      ![](/static/images/profile-pic.svg)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
