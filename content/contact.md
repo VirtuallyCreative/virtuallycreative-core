@@ -4,28 +4,20 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >
+    content: |
       ### "Old School"
 
-
-      Let’s build something great together.
-
-
-      Complete my contact form or send me an email at
-      <alexander@virtuallycreative.ca>
-
+      Send me an email at <alexander@virtuallycreative.ca>
 
       ***
 
+      ***
 
       ## General Location
 
-
       ### 43.706802, -79.398336
 
-
       Virtually(Creative) is a digital agency.
-
       We currently do not accept in-person appointments.
     form_id: contactForm
     form_action: /thank-you
