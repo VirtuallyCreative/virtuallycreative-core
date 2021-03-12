@@ -29,7 +29,6 @@ sections:
     col_number: three
     grid_items:
       - title: Accessibility (a11y)
-        image: images/a11y.png
         content: |
           *   Accessibility Training
 
