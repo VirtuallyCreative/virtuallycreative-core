@@ -49,7 +49,7 @@ sections:
         type: grid_item
         image: images/seo-standard.svg
       - title: Professional
-        subtitle: lorem-ipsum
+        subtitle: 9 ~ 12mo commitment
         image_alt: lorem-ipsum
         content: >+
           ## 9 ~ 12mo
