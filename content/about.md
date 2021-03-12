@@ -31,7 +31,7 @@ sections:
       full-time.
     image: images/405_Front_End_Development_Doodle_Concept-med.jpg
     image_alt: Our team in the meeting room
-  - section_id: lorem-ipsum
+  - section_id: the-vc-approach
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
