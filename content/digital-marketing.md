@@ -89,17 +89,22 @@ sections:
         image: images/seo-pro.svg
     type: grid_section
   - section_id: seo-tuneup-cta
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Bold Decisions are Data-Driven
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Reports and visualizations are a good way to consume data but it takes
+      analysis and insight to bring those facts to life and derive the value
+      needed to make data-driven decisions that create bold change. Get an edge
+      with customized insights for your business based on the data gathered by
+      connected marketing efforts.
 
 
-      - Lorem ipsum
+      *   No more marketing guesswork
 
-      - dolor sit amet
+      *   See trends ahead of the curve
+
+      *   Identify & adjust to emerging market opportunities
     actions: []
     image_alt: lorem-ipsum
     bg_color: light
