@@ -84,7 +84,7 @@ sections:
       *   Premium plugins not included unless bundled with a theme or purchased
       separately.
     actions:
-      - label: lorem-ipsum
+      - label: Let's Talk
         url: lorem-ipsum
         style: link
         icon: dribbble
