@@ -132,7 +132,6 @@ sections:
           *   31hrs total A-La-Carte Consulting Included
         actions: []
         type: grid_item
-        image: images/Racing-car-on-the-road-3d-isometric-vector.webp
       - title: Professional
         subtitle: marketing strategic plan
         image_alt: lorem-ipsum
