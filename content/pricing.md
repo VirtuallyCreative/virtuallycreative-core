@@ -109,19 +109,6 @@ sections:
     bg_color: light
     type: cta_section
     image: images/letstalk-cta2.svg
-  - section_id: bespokpreneur
-    title: Bespokpreneur
-    subtitle: 'whatever, however'
-    image_alt: lorem-ipsum
-    content: >
-      Our Custom (bespoke) Websites are completely designed and developed based
-      on your requirements. We work with you every step of the way to get that
-      unique professional website that stands out from the crowd.
-
-
-      If you have a unique vision or want to dream big – this is the way to go.
-    type: content_section
-    image: images/bespokpreneur.png
   - section_id: websites-one-n-done
     title: Website One n' Done
     subtitle: Pricing based on one payment – just like back in the day.
