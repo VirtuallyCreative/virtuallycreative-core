@@ -49,7 +49,7 @@ sections:
             no_follow: false
             type: action
       - title: Digital Marketing
-        image: images/service-2.svg
+        image: images/digi-marketing.png
         content: |
           *   Inbound Marketing Strategy
 
