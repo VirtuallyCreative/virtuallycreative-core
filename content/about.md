@@ -39,7 +39,7 @@ sections:
     grid_items:
       - image_alt: jamstack logo
         actions:
-          - label: 'Unpack the stack ... '
+          - label: Unpack the stack
             url: lorem-ipsum
             style: link
             icon: dribbble
