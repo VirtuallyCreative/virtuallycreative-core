@@ -69,7 +69,7 @@ sections:
             no_follow: false
             type: action
       - title: Website Subscriptions & Builds
-        image: images/service-3.svg
+        image: images/subscriptions.png
         content: |
           *   One-Page, Multi-Page, Shop
 
