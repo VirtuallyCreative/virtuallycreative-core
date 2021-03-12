@@ -14,7 +14,7 @@ sections:
     type: content_section
     subtitle: design focused around user experience
   - section_id: inclusive-design-callout
-    title: lorem-ipsum
+    title: What is Inclusive Design?
     content: >-
       ## Lorem ipsum
 
