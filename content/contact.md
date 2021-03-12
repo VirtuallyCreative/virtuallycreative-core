@@ -68,7 +68,7 @@ sections:
           information so I can be contacted.
       - input_type: text
         name: contact-preference
-        label: lorem-ipsum
+        label: Contact Preference?
         default_value: lorem-ipsum
         options: []
         is_required: false
