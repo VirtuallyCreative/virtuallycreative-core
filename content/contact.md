@@ -69,7 +69,7 @@ sections:
       - input_type: select
         name: contact-preference
         label: Contact Preference?
-        default_value: lorem-ipsum
+        default_value: E-mail
         options: []
         is_required: false
         type: form_field
