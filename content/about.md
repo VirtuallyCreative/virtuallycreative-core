@@ -50,6 +50,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/1000px-JAMstack_logo.svg.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
