@@ -70,18 +70,7 @@ sections:
         name: contact-preference
         label: Contact Preference?
         default_value: lorem-ipsum
-        options:
-          - '0': l
-            '1': o
-            '2': r
-            '3': e
-            '4': m
-            '5': '-'
-            '6': i
-            '7': p
-            '8': s
-            '9': u
-            '10': m
+        options: []
         is_required: false
         type: form_field
     submit_label: Send it!
