@@ -31,7 +31,7 @@ sections:
         type: grid_item
         image: images/seo-basic.svg
       - title: Standard
-        subtitle: lorem-ipsum
+        subtitle: 9 ~ 12mo commitment
         image_alt: lorem-ipsum
         content: >
           ## 6 ~ 9mo
