@@ -46,23 +46,14 @@ sections:
           ## 6 ~ 9mo
 
 
-          WordPress is a fantastic publishing platform, but out of the box, it
-          doesn’t include many Search Engine Optimization (SEO) features. These
-          are added in by additional SEO plugins, which require configuration
-          and an understanding of SEO best practices.
+          Focus your funnels and re-align goals.
 
 
-          Our Site Tune-Up packages help maximize your WordPress’s Search Engine
-          Optimization (SEO) effectiveness by making sure all “low-hanging
-          fruit” is quickly taken care of by making sure the best SEO plugins
-          for your WordPress website are installed and configured properly. If
-          there are missing SEO plugins we safely install them for you and
-          configure them for continuous optimal use.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          Building upon the base from the Basic Package, the Standard Site
+          Tune-Up package maximizes your WordPress’s Search Engine Optimization
+          (SEO) effectiveness by ensuring premium versions of any performance,
+          SEO, and content integrity plugins best suited for your website setup
+          are running together smoothly.
         actions: []
         type: grid_item
         image: images/seo-standard.svg
