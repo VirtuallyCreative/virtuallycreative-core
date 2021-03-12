@@ -66,6 +66,13 @@ sections:
         label: >-
           I understand that this form is (securely) storing my submitted
           information so I can be contacted.
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Send it!
 seo:
   title: Contact
