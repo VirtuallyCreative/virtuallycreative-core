@@ -47,10 +47,14 @@ sections:
 
 
           Building upon the base from the Basic Package, the Standard Site
-          Tune-Up package maximizes your WordPress’s Search Engine Optimization
-          (SEO) effectiveness by ensuring premium versions of any performance,
-          SEO, and content integrity plugins best suited for your website setup
-          are running together smoothly.
+          Tune-Up package expands the number of custom reports with insight
+          analysis to include additional specialty or service pages.
+
+
+          *   Data Dashboard Visualization Updates
+
+
+          *
         actions: []
         type: grid_item
         image: images/seo-standard.svg
