@@ -72,10 +72,15 @@ sections:
 
 
           Building upon the base from the Basic & Standard Packages, the Pro
-          Site Tune-Up package maximizes your WordPress’s Search Engine
-          Optimization (SEO) effectiveness by ensuring premium versions of any
-          performance, SEO, and content integrity plugins best suited for your
-          website setup are running together smoothly.
+          Site Tune-Up package expands the number of custom reports with insight
+          analysis to include all high-value, user important pages critical for
+          the websites' success.
+
+
+          *   Data Dashboard Visualization Updates
+
+
+          *   10 Custom Reports /w Insight Analysis
         actions: []
         type: grid_item
         image: images/seo-pro.svg
