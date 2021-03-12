@@ -47,6 +47,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        image: images/a11y-grid.svg
       - title: Digital Marketing
         content: |
           *   Inbound Marketing Strategy
