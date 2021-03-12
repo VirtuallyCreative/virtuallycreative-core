@@ -29,7 +29,6 @@ sections:
       & Saatchi and Upcoming Media, local bioinformatics and technology startups
       like Cyclica and I am currently helping the cause at SickKids Foundation
       full-time.
-    image: images/405_Front_End_Development_Doodle_Concept-med.jpg
     image_alt: Our team in the meeting room
     section_id: my-story
   - section_id: tech-stack
