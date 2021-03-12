@@ -5,9 +5,9 @@ sections:
   - type: form_section
     section_id: contact-form
     content: |
-      ### Old School
+      ### Old School Cool
 
-      Send me an email, alexander@virtuallycreative.ca
+      Send me an email, <alexander@virtuallycreative.ca>
 
       Complete the contact form, it goes to the email above.
 
