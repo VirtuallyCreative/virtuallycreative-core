@@ -38,7 +38,14 @@ sections:
     col_number: three
     grid_items:
       - image_alt: jamstack logo
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: images/1000px-JAMstack_logo.svg.png
     type: grid_section
