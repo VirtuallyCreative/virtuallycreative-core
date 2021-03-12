@@ -91,7 +91,7 @@ sections:
             type: action
         image_alt: 'Portrait of Al Romano, Founder of Virtually Creative'
   - section_id: the-vc-approach
-    title: Our Approach
+    title: Development Kaizen
     subtitle: how we deliver awesome
     image_alt: lorem-ipsum
     type: content_section
