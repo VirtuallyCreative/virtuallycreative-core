@@ -4,8 +4,11 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Virtually(Creative).ca was registered on August 26th, 2010. With 11 years
-      in the web development space. 
+      Virtually(Creative).ca was registered on August 26th, 2010. But the start
+      of this journey was actually back in 2008 working as a Security guard.
+      Wanting more I taught myself HTML, CSS2 and Javascript and the rest, is
+      history. It's been 11 years in the web development space and I enjoy every
+      minute of it.
 
 
       Al Romano is a self-taught, Full Stack Web Developer with a knack for web
@@ -18,8 +21,8 @@ sections:
       Starting out as a PHP (LAMP) developer (you guessed it, WordPress...) but
       around 3 years ago taken an interest in Information Dashboard design and
       data visualization using JavaScript as well as becoming more proficient
-      using Node.js both for pipeline and for building applications (MExN
-      stack).
+      using Node.js both for pipeline and for building applications (MExN & JAM
+      stacks).
 
 
       Our professional portfolio includes international ad agencies like Saatchi
