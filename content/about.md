@@ -36,7 +36,7 @@ sections:
     subtitle: tools and tech we like to use
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: JAMSTACK
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
