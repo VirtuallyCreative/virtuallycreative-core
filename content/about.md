@@ -39,7 +39,7 @@ sections:
     grid_items:
       - image_alt: jamstack logo
         actions:
-          - label: lorem-ipsum
+          - label: See the full stack
             url: lorem-ipsum
             style: link
             icon: dribbble
