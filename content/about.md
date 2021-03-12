@@ -43,7 +43,7 @@ sections:
             url: 'https://stackshare.io/companies/virtually-creative'
             style: link
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
         type: grid_item
