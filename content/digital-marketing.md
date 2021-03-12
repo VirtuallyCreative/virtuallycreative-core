@@ -43,7 +43,7 @@ sections:
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
-          ## Lorem ipsum
+          ## 6 ~ 9mo
 
 
           WordPress is a fantastic publishing platform, but out of the box, it
