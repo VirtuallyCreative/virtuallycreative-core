@@ -35,7 +35,7 @@ sections:
   - section_id: tech-stack
     title: Tech Stack
     subtitle: tools and tech we like to use
-    col_number: three
+    col_number: two
     grid_items:
       - image_alt: jamstack logo
         actions:
