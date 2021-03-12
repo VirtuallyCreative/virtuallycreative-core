@@ -66,7 +66,7 @@ sections:
         label: >-
           I understand that this form is (securely) storing my submitted
           information so I can be contacted.
-    submit_label: Sent it!
+    submit_label: Send it!
 seo:
   title: Contact
   description: This is the contact page
