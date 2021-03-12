@@ -63,11 +63,6 @@ sections:
           regrets. Dad, Husband, Tech Blogger, Airsoft Fanatic, and I try to
           Sous Vide everything.
         actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
           - label: LinkedIn
             url: lorem-ipsum
             style: icon
@@ -75,6 +70,11 @@ sections:
             new_window: false
             no_follow: false
             type: action
+          - label: Twitter
+            url: 'https://twitter.com/'
+            style: icon
+            icon: twitter
+            new_window: true
           - label: Github
             url: lorem-ipsum
             style: icon
