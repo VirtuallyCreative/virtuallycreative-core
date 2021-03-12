@@ -68,7 +68,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Website Development Packages
+      - title: WordPress Development Packages
         image: images/subscriptions.png
         content: |
           *   One-Page, Multi-Page, Shop
