@@ -47,6 +47,7 @@ sections:
 
       - dolor sit amet
     type: content_section
+    image: images/process-diagram-sm.png
   - type: grid_section
     section_id: team
     title: Team Stack
