@@ -60,7 +60,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
       - input_type: tel
-        name: Telephone Number
+        name: Contact Number
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
