@@ -192,13 +192,6 @@ sections:
 
       *   Got a custom idea? Bespokepreneur is for you!
     actions:
-      - label: One n' Done Shopapreneur
-        url: /contact/
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
       - label: Bespokepreneur
         url: /contact/
         style: link
