@@ -19,7 +19,7 @@ sections:
           ## 3 ~ 6mo
 
 
-          Set baselines, gather metrics, form the plan.
+          **Set baselines, gather metrics, form the plan.**
 
 
           Building a solid base, the Basic Package sets your WordPress site up
