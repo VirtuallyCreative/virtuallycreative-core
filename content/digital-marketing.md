@@ -13,7 +13,7 @@ sections:
     col_number: three
     grid_items:
       - title: Basic
-        subtitle: lorem-ipsum
+        subtitle: 9 ~ 12mo commitment
         image_alt: lorem-ipsum
         content: >
           ## 3 ~ 6mo
