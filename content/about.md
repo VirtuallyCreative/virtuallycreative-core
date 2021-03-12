@@ -31,12 +31,6 @@ sections:
       full-time.
     image: images/405_Front_End_Development_Doodle_Concept-med.jpg
     image_alt: Our team in the meeting room
-  - section_id: the-vc-approach
-    title: Our Approach
-    subtitle: how we deliver awesome
-    image_alt: lorem-ipsum
-    type: content_section
-    image: images/process-diagram-sm.png
   - type: grid_section
     section_id: team
     title: Team Stack
@@ -78,6 +72,12 @@ sections:
             no_follow: false
             type: action
         image_alt: 'Portrait of Al Romano, Founder of Virtually Creative'
+  - section_id: the-vc-approach
+    title: Our Approach
+    subtitle: how we deliver awesome
+    image_alt: lorem-ipsum
+    type: content_section
+    image: images/process-diagram-sm.png
   - type: cta_section
     section_id: cta
     title: Play nice with others?
