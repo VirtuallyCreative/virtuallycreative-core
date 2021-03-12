@@ -55,7 +55,7 @@ sections:
           ## $950/mo
 
 
-          Take your WordPress SEO to another level.
+          **Take your WordPress SEO to another level.**
 
 
           Building upon the base from the Basic & Standard Packages, the Pro
