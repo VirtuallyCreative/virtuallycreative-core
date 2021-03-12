@@ -60,7 +60,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
       - input_type: tel
-        name: Contact Number
+        name: phone-number
         label: Contact Number
         default_value: 647-000-0000
         options: []
