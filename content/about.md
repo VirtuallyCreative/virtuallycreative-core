@@ -33,7 +33,7 @@ sections:
     image_alt: Our team in the meeting room
   - section_id: tech-stack
     title: Tech Stack
-    subtitle: lorem-ipsum
+    subtitle: tools and tech we like to use
     col_number: three
     grid_items: []
     type: grid_section
