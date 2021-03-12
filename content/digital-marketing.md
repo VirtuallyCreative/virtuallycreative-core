@@ -132,6 +132,7 @@ sections:
           *   31hrs total A-La-Carte Consulting Included
         actions: []
         type: grid_item
+        image: images/seo-mrkt-strategic-standard.svg
       - title: Professional
         subtitle: marketing strategic plan
         image_alt: lorem-ipsum
