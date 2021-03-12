@@ -85,7 +85,6 @@ sections:
     image_alt: lorem-ipsum
     bg_color: light
     type: cta_section
-    image: images/web-hero-man.svg
 seo:
   title: ''
   description: ''
