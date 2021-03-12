@@ -87,6 +87,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        image: images/wordpress-grid.svg
   - section_id: a11y-quote
     image_alt: lorem-ipsum
     content: |
