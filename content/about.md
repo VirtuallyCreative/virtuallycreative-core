@@ -122,12 +122,6 @@ sections:
             no_follow: false
             type: action
         image_alt: 'Portrait of Al Romano, Founder of Virtually Creative'
-  - section_id: the-vc-approach
-    title: Development Kaizen
-    subtitle: how we deliver awesome
-    image_alt: lorem-ipsum
-    type: content_section
-    image: images/process-diagram-sm.png
   - type: cta_section
     section_id: cta
     title: Play nice with others?
