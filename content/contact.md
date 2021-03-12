@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: |
+    content: |+
       ### Old School Cool
 
       Send me an email, <alexander@virtuallycreative.ca>
@@ -20,7 +20,6 @@ sections:
       Virtually(Creative) is a digital agency.
       We currently do not accept in-person appointments.
 
-      ![](/static/images/profile-pic.svg)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
