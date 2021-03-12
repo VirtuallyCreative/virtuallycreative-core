@@ -69,7 +69,19 @@ sections:
       - title: Professional
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: "## Lorem ipsum\n\nTake your WordPress SEO to another level.\n\nBuilding upon the base from the Basic & Standard Packages, the Pro Site Tune-Up package maximizes your WordPress’s Search Engine Optimization (SEO) effectiveness by installing the premium version of the specific performance, SEO, and content integrity plugins best suited for your website setup.\n\nBundled with the Pro package is\_**1yr**\_of Maintenance & Upkeep provided by Virtually(Creative); a hassle-free way to manage your WordPress website without hiring an in-house developer!\n\n*   Lorem ipsum\n*   dolor sit amet\n"
+        content: >+
+          ## 9 ~ 12mo
+
+
+          Take your WordPress SEO to another level.
+
+
+          Building upon the base from the Basic & Standard Packages, the Pro
+          Site Tune-Up package maximizes your WordPress’s Search Engine
+          Optimization (SEO) effectiveness by ensuring premium versions of any
+          performance, SEO, and content integrity plugins best suited for your
+          website setup are running together smoothly. 
+
         actions: []
         type: grid_item
         image: images/seo-pro.svg
