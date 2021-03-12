@@ -56,6 +56,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/htmlcssjs.png
     type: grid_section
   - type: grid_section
     section_id: team
