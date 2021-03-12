@@ -40,6 +40,13 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
+      - input_type: tel
+        name: phone-number
+        label: Contact Number
+        default_value: 647-000-0000
+        options: []
+        is_required: false
+        type: form_field
       - input_type: select
         name: subject
         label: What services are you looking for?
@@ -59,13 +66,6 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-      - input_type: tel
-        name: phone-number
-        label: Contact Number
-        default_value: 647-000-0000
-        options: []
-        is_required: false
-        type: form_field
     submit_label: Sent it!
 seo:
   title: Contact
