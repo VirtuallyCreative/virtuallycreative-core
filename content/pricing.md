@@ -192,7 +192,7 @@ sections:
 
       *   Got a custom idea? Bespokepreneur is for you!
     actions:
-      - label: lorem-ipsum
+      - label: Let's Talk
         url: lorem-ipsum
         style: link
         icon: dribbble
