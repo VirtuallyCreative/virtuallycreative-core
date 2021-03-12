@@ -20,6 +20,7 @@ sections:
     image_alt: lorem-ipsum
     bg_color: none
     type: cta_section
+    image: images/inclusive-design-choices.svg
   - section_id: lorem-ipsum
     title: What is AODA?
     subtitle: Accessibility for Ontarians with Disabilities Act
