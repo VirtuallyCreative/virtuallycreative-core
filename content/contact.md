@@ -61,7 +61,7 @@ sections:
           can be contacted.
       - input_type: tel
         name: Contact Number
-        label: phone-number
+        label: Contact Number
         default_value: 647-000-0000
         options: []
         is_required: false
