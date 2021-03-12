@@ -16,7 +16,7 @@ sections:
         subtitle: 3 ~ 6mo commitment
         image_alt: lorem-ipsum
         content: >
-          ## 3 ~ 6mo
+          ## $325/mo
 
 
           **Set baselines, gather metrics, form the plan.**
