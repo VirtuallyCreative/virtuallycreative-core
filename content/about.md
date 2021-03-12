@@ -31,6 +31,12 @@ sections:
       full-time.
     image: images/405_Front_End_Development_Doodle_Concept-med.jpg
     image_alt: Our team in the meeting room
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: grid_section
   - type: grid_section
     section_id: team
     title: Team Stack
@@ -91,12 +97,6 @@ sections:
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    grid_items: []
-    type: grid_section
 seo:
   title: About Us
   description: This is the about us page
