@@ -106,7 +106,7 @@ sections:
       If you are interested in working for Virtually(Creative), please send an
       email to <alexander@virtuallycreative.ca> with your CV, Github (or
       relevant code example) profile, and which position you are interested in.
-    image: images/cta-about.svg
+    image: images/web-hero-man.png
     image_alt: Illustration
     bg_color: light
 seo:
