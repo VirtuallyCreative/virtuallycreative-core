@@ -191,14 +191,7 @@ sections:
       *   One n' Done is a  one-time, up-front payment.
 
       *   Got a custom idea? Bespokepreneur is for you!
-    actions:
-      - label: Bespokepreneur
-        url: /contact/
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     image_alt: lorem-ipsum
     bg_color: light
     type: cta_section
