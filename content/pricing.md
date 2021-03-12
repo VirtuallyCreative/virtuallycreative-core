@@ -238,6 +238,7 @@ sections:
     image_alt: lorem-ipsum
     bg_color: light
     type: cta_section
+    image: images/letstalk-cta3.svg
   - section_id: additional-stuff
     title: Additional Stuff
     subtitle: more pricing breakdown
