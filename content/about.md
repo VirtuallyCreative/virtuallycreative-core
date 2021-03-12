@@ -31,6 +31,7 @@ sections:
       full-time.
     image_alt: Our team in the meeting room
     section_id: my-story
+    image: images/profile-pic-multi-arms.svg
   - section_id: tech-stack
     title: Tech Stack
     subtitle: tools and tech we like to use
