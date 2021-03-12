@@ -41,10 +41,6 @@ sections:
         actions: []
         type: grid_item
         image: images/1000px-JAMstack_logo.svg.png
-      - image_alt: 'html5, css3, modern javascript'
-        actions: []
-        type: grid_item
-        image: images/enthusiastic-pluto.png
     type: grid_section
   - type: grid_section
     section_id: team
