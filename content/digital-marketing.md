@@ -16,26 +16,17 @@ sections:
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
-          ## Lorem ipsum
+          ## 3 ~ 6mo
 
 
-          WordPress is a fantastic publishing platform, but out of the box, it
-          doesn’t include many Search Engine Optimization (SEO) features. These
-          are added in by additional SEO plugins, which require configuration
-          and an understanding of SEO best practices.
+          Set baselines, gather metrics, form the plan.
 
 
-          Our Site Tune-Up packages help maximize your WordPress’s Search Engine
-          Optimization (SEO) effectiveness by making sure all “low-hanging
-          fruit” is quickly taken care of by making sure the best SEO plugins
-          for your WordPress website are installed and configured properly. If
-          there are missing SEO plugins we safely install them for you and
-          configure them for continuous optimal use.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          Building a solid base, the Basic Package sets your WordPress site up
+          for success by allowing it to begin learning about the users that use
+          and interact with your site on a daily basis. Reporting back the good
+          stuff, we use this data to make informed decisions on goal
+          optimization and user experience strategy.
         actions: []
         type: grid_item
         image: images/seo-basic.svg
