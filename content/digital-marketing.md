@@ -48,13 +48,16 @@ sections:
 
           Building upon the base from the Basic Package, the Standard Site
           Tune-Up package expands the number of custom reports with insight
-          analysis to include additional specialty or service pages.
+          analysis to include additional specialty or product check-out flows.
 
 
           *   Data Dashboard Visualization Updates
 
 
-          *
+          *   Main Contact Funnel Report /w Analysis
+
+
+          *   Woocommerce checkout flow Reports /w Analysis
         actions: []
         type: grid_item
         image: images/seo-standard.svg
