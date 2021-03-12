@@ -107,7 +107,7 @@ sections:
         style: button
     image_alt: Illustration
     bg_color: light
-    image: images/letstalk1.png
+    image: images/pink-sloth.png
   - section_id: lorem-ipsum
     title: Latest News
     subtitle: hot off the keyboard
