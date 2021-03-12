@@ -168,6 +168,7 @@ sections:
           *   72hrs total A-la-carte consulting included
         actions: []
         type: grid_item
+        image: images/seo-mrkt-strategic-pro.svg
     type: grid_section
 seo:
   title: ''
