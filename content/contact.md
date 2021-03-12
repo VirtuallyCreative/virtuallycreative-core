@@ -62,7 +62,7 @@ sections:
       - input_type: tel
         name: Contact Number
         label: phone-number
-        default_value: lorem-ipsum
+        default_value: 416-
         options: []
         is_required: false
         type: form_field
