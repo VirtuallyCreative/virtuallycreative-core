@@ -99,8 +99,8 @@ sections:
     section_id: cta
     title: Want to get started?
     content: >
-      Let's see how the pieces fit and connect on what you're looking to get
-      working with Virtually(Creative).
+      Let's see how the pieces fit. Our first meeting is a non-techy chat on
+      what you're looking to get going with Virtually(Creative).
     actions:
       - label: Let's Talk.
         url: /contact
