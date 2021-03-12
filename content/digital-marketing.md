@@ -65,6 +65,7 @@ sections:
           *   dolor sit amet
         actions: []
         type: grid_item
+        image: images/seo-standard.svg
       - title: Professional
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
