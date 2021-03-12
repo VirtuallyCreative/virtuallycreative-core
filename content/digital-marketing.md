@@ -34,10 +34,10 @@ sections:
         subtitle: 6 ~ 9mo commitment
         image_alt: lorem-ipsum
         content: >
-          ## 6 ~ 9mo
+          ## $640/mo
 
 
-          Focus your funnels and re-align goals.
+          **Focus your funnels and re-align goals.**
 
 
           Building upon the base from the Basic Package, the Standard Site
