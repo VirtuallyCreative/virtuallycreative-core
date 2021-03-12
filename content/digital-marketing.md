@@ -106,7 +106,7 @@ sections:
     image_alt: lorem-ipsum
     bg_color: light
     type: cta_section
-    title: Fine Tune Data Driven Decisions
+    title: Bold Decisions are Data-Driven
     image: images/seo-cta.svg
   - section_id: marketing-packages
     title: Enterprise Marketing
