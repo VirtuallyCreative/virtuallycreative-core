@@ -32,7 +32,7 @@ sections:
     image: images/405_Front_End_Development_Doodle_Concept-med.jpg
     image_alt: Our team in the meeting room
   - section_id: tech-stack
-    title: lorem-ipsum
+    title: Tech Stack
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
