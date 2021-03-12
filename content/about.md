@@ -40,7 +40,7 @@ sections:
       - image_alt: jamstack logo
         actions:
           - label: Unpack the stack
-            url: lorem-ipsum
+            url: 'https://stackshare.io/companies/virtually-creative'
             style: link
             icon: dribbble
             new_window: false
