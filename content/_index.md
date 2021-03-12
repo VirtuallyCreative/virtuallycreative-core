@@ -68,7 +68,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Website Subscriptions & Builds
+      - title: Website Development Packages
         image: images/subscriptions.png
         content: |
           *   One-Page, Multi-Page, Shop
