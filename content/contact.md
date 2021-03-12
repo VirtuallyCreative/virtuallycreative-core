@@ -61,7 +61,7 @@ sections:
           can be contacted.
       - input_type: tel
         name: Contact Number
-        label: lorem-ipsum
+        label: phone-number
         default_value: lorem-ipsum
         options: []
         is_required: false
