@@ -37,17 +37,6 @@ sections:
     col_number: three
     grid_items:
       - image_alt: jamstack logo
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
         image: images/1000px-JAMstack_logo.svg.png
