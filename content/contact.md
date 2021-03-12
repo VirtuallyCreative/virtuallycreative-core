@@ -67,7 +67,7 @@ sections:
           I understand that this form is (securely) storing my submitted
           information so I can be contacted.
       - input_type: text
-        name: lorem-ipsum
+        name: contact-preference
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
