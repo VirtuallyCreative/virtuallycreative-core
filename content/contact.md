@@ -62,7 +62,7 @@ sections:
       - input_type: tel
         name: Contact Number
         label: phone-number
-        default_value: 647-
+        default_value: 647-000-0000
         options: []
         is_required: false
         type: form_field
