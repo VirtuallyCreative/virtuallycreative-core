@@ -168,7 +168,6 @@ sections:
           *   72hrs total A-la-carte consulting included
         actions: []
         type: grid_item
-        image: images/istockphoto-917291106-612x612.jpg
     type: grid_section
 seo:
   title: ''
