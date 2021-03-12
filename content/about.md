@@ -48,22 +48,6 @@ sections:
             type: action
         type: grid_item
         image: images/1000px-JAMstack_logo.svg.png
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
     type: grid_section
   - type: grid_section
     section_id: team
