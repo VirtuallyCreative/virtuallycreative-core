@@ -13,7 +13,6 @@ sections:
     content: "## In a world of stairs, let's build ramps.\n\nStairs are cheaper but have limits. They work for the majority of people, but not all. Ramps take a bit more planning than stairs but can be used by everyone.\n\nPicking ramps *when stairs will* *do* is an inclusive design choice. People who use stairs don't even notice a ramp. People who use ramps will absolutely notice it's not stairs.\n\n*   Accessible design *is* good design.\n*   Good design is *rarely* noticed.\n\nThe true ROI from accessibility is to not only make your website more accessible but to\_*also\_market to people with disabilities* **using accessibility as a market differentiator.**\n"
     type: content_section
     subtitle: design focused around user experience
-    image: images/inclusive-design-choices.svg
   - section_id: lorem-ipsum
     title: What is AODA?
     subtitle: Accessibility for Ontarians with Disabilities Act
