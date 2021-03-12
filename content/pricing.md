@@ -84,13 +84,6 @@ sections:
       *   Premium plugins not included unless bundled with a theme or purchased
       separately.
     actions:
-      - label: Solopreneur
-        url: lorem-ipsum
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
       - label: Entrepreneur
         url: lorem-ipsum
         style: link
