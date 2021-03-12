@@ -90,9 +90,6 @@ sections:
     type: grid_section
   - section_id: seo-tuneup-cta
     content: >
-      ## Bold Decisions are Data-Driven
-
-
       Reports and visualizations are a good way to consume data but it takes
       analysis and insight to bring those facts to life and derive the value
       needed to make data-driven decisions that create bold change. Get an edge
