@@ -40,7 +40,7 @@ sections:
         actions: []
         type: grid_item
         image: images/1000px-JAMstack_logo.svg.png
-      - image_alt: lorem-ipsum
+      - image_alt: html5 css3 javascript
         actions: []
         type: grid_item
         image: images/htmlcssjs.png
