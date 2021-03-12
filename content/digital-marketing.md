@@ -91,10 +91,10 @@ sections:
   - section_id: seo-tuneup-cta
     content: >
       Reports and visualizations are a good way to consume data but it takes
-      analysis and insight to bring those facts to life and derive the value
-      needed to make data-driven decisions that create bold change. Get an edge
-      with customized insights for your business based on the data gathered by
-      connected marketing efforts.
+      fine-tuned analysis and insight to bring those facts to life and derive
+      the value needed to make data-driven decisions that create bold change.
+      Get an edge with customized insights for your business based on the data
+      gathered by connected marketing efforts.
 
 
       *   No more marketing guesswork
