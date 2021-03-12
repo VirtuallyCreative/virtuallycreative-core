@@ -162,7 +162,7 @@ sections:
           *   Quarterly Custom Campaigns
 
 
-          *   Social Medica Competition Deep Dive
+          *   Social Media Competition Deep Dive
 
 
           *   72hrs total A-la-carte consulting included
