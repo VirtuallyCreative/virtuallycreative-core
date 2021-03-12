@@ -91,6 +91,7 @@ sections:
     bg_color: light
     type: cta_section
     title: Time for an SEO tune-up!
+    image: images/seo-cta.svg
   - section_id: marketing-packages
     title: Enterprise Marketing
     subtitle: full-service packages for enterprise organizations
