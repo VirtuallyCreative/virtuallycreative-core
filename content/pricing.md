@@ -83,14 +83,7 @@ sections:
 
       *   Premium plugins not included unless bundled with a theme or purchased
       separately.
-    actions:
-      - label: Entrepreneur
-        url: lorem-ipsum
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     image_alt: lorem-ipsum
     bg_color: light
     type: cta_section
