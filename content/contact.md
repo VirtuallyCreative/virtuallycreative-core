@@ -66,7 +66,7 @@ sections:
         label: >-
           I understand that this form is (securely) storing my submitted
           information so I can be contacted.
-      - input_type: select
+      - input_type: checkbox
         name: contact-preference
         label: Contact Preference?
         default_value: lorem-ipsum
