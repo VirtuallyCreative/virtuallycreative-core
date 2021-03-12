@@ -35,7 +35,23 @@ sections:
     title: Tech Stack
     subtitle: tools and tech we like to use
     col_number: three
-    grid_items: []
+    grid_items:
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
     type: grid_section
   - type: grid_section
     section_id: team
