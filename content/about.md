@@ -33,7 +33,7 @@ sections:
     image_alt: Our team in the meeting room
   - section_id: the-vc-approach
     title: Our Approach
-    subtitle: lorem-ipsum
+    subtitle: lorem-ipsuma
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
