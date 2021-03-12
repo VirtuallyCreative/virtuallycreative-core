@@ -44,7 +44,7 @@ sections:
       - image_alt: 'html5, css3, modern javascript'
         actions: []
         type: grid_item
-        image: images/desarrollowp.png
+        image: images/enthusiastic-pluto.png
     type: grid_section
   - type: grid_section
     section_id: team
