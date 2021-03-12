@@ -105,7 +105,7 @@ sections:
       - label: Let's Talk.
         url: /contact
         style: button
-    image: images/cta.svg
+    image: images/letstalk2.png
     image_alt: Illustration
     bg_color: light
   - section_id: lorem-ipsum
