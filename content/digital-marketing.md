@@ -51,8 +51,8 @@ sections:
       - title: Professional
         subtitle: 9 ~ 12mo commitment
         image_alt: lorem-ipsum
-        content: >+
-          ## 9 ~ 12mo
+        content: >
+          ## $950/mo
 
 
           Take your WordPress SEO to another level.
@@ -62,8 +62,7 @@ sections:
           Site Tune-Up package maximizes your WordPress’s Search Engine
           Optimization (SEO) effectiveness by ensuring premium versions of any
           performance, SEO, and content integrity plugins best suited for your
-          website setup are running together smoothly. 
-
+          website setup are running together smoothly.
         actions: []
         type: grid_item
         image: images/seo-pro.svg
