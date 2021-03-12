@@ -81,6 +81,9 @@ sections:
 
 
           *   10 Custom Reports /w Insight Analysis
+
+
+          *   Premium Plugin Configuration Optimization
         actions: []
         type: grid_item
         image: images/seo-pro.svg
