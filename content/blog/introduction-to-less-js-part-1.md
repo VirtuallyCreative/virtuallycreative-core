@@ -100,7 +100,9 @@ To acheive what we did with that _#header_ and _h2_ property above, a couple
 
 ```HTML
 <meta charset="UTF-8">
-<title>LESS.js Tutorial</title> <!-- LESS Stylesheet --> <link rel="stylesheet/less" type="text/css" href="css/style.less">
+<title>LESS.js Tutorial</title> 
+
+<!-- LESS Stylesheet --> <link rel="stylesheet/less" type="text/css" href="css/style.less">
 
 <!-- LESS Javascript --> <script src="http://lesscss.googlecode.com/files/less-1.0.41.min.js"></script> <div id="header"> <h2>A Headline</h2> This is some text with an <a href="#">anchor</a> present.
 
