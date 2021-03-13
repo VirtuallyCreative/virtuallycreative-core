@@ -145,4 +145,4 @@ Here we made a new variable @color: and it's value set to #FFFFFF. To use this n
 
 This means it works! You just sucessfully made your first CSS variable using LESS.js! Cool stuff huh! So back to Example 1, it's the same concept just with more than one use. That's the beauty of variables! You can use them over and over and it can save you lots of time when you have different specific colours for specific links, nav elements, box shadows etc... but note that variables are actually ‘constants’ in that they can only be defined once. I'll let you play around with the idea and when you're comfortable with creating multiple variables and calling them in various properties we can move on.
 
-Check out [Introduction To LESS.js: -Part 2](http:virtuallycreative.ca/introduction-to-less-js-part-2/) here.
+Check out [Introduction To LESS.js: -Part 2](https:virtuallycreative.ca/introduction-to-less-js-part-2/) here.
