@@ -74,7 +74,8 @@ So if you're like me and other developers/designers and want your fancy CSS 3 sh
 /* Compiled CSS in browser */
 
 #header { 
-    border-radius: 5px; /* This is 5px because that's the default @radius value we set */ -webkit-border-radius: 5px; /* This is 5px because that's the default @radius value we set */ -moz-border-radius: 5px; /* This is 5px because that's the default @radius value we set */ } 
+    border-radius: 5px; /* This is 5px because that's the default @radius value we set */ -webkit-border-radius: 5px; /* This is 5px because that's the default @radius value we set */ -moz-border-radius: 5px; /* This is 5px because that's the default @radius value we set */ 
+    } 
 #footer { 
     background-color: #000000; border-radius: 10px; /* This is 10px because we passed a value of 10px */ -webkit-border-radius: 10px; /* This is 10px because we passed a value of 10px \*/ 
     -moz-border-radius: 10px; /* This is 10px because we passed a value of 10px \*/ 
