@@ -96,8 +96,8 @@ Wow lots going on here so let's break Example 3 down! The proper usage to make a
 
 So we want to set a border radius but only want to type out the code once. We can set a mixin to call all 3 at the same time by making one like a variable but rather than give it one value, we can assign multiple to a mixin:
 
-```css //LESS
-
+```css 
+/* LESS */
 
 .rounded-corners() { border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; }
 
