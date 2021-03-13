@@ -3,7 +3,7 @@ title: Ollie-UI
 subtitle: open-source | starter-kit
 date: '2020-05-08'
 thumb_image: images/Home-Ollie-UI-Starter-Kit-Documentation.png
-thumb_image_alt: Ollie-Ui Starter Kit
+thumb_image_alt: Ollie-Ui Starter Kit Homepage
 sections:
   - type: image_section
     image: images/work-poster-1.jpg
