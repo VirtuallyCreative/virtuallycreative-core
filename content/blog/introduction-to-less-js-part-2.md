@@ -67,7 +67,8 @@ So if you're like me and other developers/designers and want your fancy CSS 3 sh
 
 /* Create Mixin .rounded-corners and assign a @radius: variable to pass through */
 
-.rounded-corners (@radius: 5px) { border-radius: @radius; -webkit-border-radius: @radius; -moz-border-radius: @radius; }
+.rounded-corners (@radius: 5px) {
+     border-radius: @radius; -webkit-border-radius: @radius; -moz-border-radius: @radius; }
 
 #header { .rounded-corners; } #footer { background-color: @footcolor; .rounded-corners(10px); }
 
