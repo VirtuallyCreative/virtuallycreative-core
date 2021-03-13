@@ -31,7 +31,7 @@ sections:
       keep or hide them from screen-readers and other accessible devices.
   - type: image_section
     image: images/allegretto-A-fast-lively-CSS-framework (2).png
-    image_alt: Aimi 3
+    image_alt: Common Helpers
     width: wide
 seo:
   title: Aimi
