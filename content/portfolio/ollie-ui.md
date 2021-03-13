@@ -22,12 +22,6 @@ sections:
     image: images/ollie-ui-doc-site-homepage.jpg
   - type: text_section
     content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
-  - type: text_section
-    content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
       accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
       Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
