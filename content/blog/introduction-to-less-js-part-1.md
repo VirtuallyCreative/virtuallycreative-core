@@ -91,7 +91,7 @@ To acheive what we did with that _#header_ and _h2_ property above, a couple
 
 **Step 1:** Download the Less.js file and add it to your project! **You can get it here.** The most current version as of writing (1.0.41.min) is attached **[![Attached File](images/zip.gif.pagespeed.ce.oGdlqcpZFW.gif)](http://www.dreamincode.net/forums/index.php?app=core&module=attach&section=attach&attach_id=23177 "Download attachment") [less-1.0.41.min.zip](http://www.dreamincode.net/forums/index.php?app=core&module=attach&section=attach&attach_id=23177 "Download attachment") **(10.49K)**** along with the example files used. ****OR**** You can just link to it since it's hosted on googlecode like so:
 
-\[javascript\]<script src="http://lesscss.googlecode.com/files/less-1.0.41.min.js"></script>\[/javascript\]
+\[javascript\]<script src="https://lesscss.googlecode.com/files/less-1.0.41.min.js"></script>\[/javascript\]
 
 **Step 2:** Start a blank HTML document and either make your own markup or paste the markup below to follow along. We will not be building anything of signifigance HTML layout wise, more just basic elements to help display CSS concepts required for learning, but I do have an important note to make within the _<head>_ tags. This would be a document for your website if it was a real project. Since we are going to be using an external stylesheet for this tutorial you need to link to your css file within the _<head>_ of your HTML and load the LESS.js like any normal CSS stylesheet and Javascript file but their is a difference, can you spot it?:
 
