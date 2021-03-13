@@ -20,10 +20,6 @@ sections:
     caption: Ollie-Ui Documentation Site Homepage
     width: wide
     image: images/ollie-ui-doc-site-homepage.jpg
-  - type: image_section
-    image: images/work-poster-2.jpg
-    image_alt: Design Is One 2
-    width: wide
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
