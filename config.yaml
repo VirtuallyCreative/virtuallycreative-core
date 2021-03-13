@@ -6,7 +6,6 @@ params:
   base_font: system-sans
   header:
     title: Virtually(Creative)
-    logo: images/logo-dark.svg
     logo_alt: Virtually Creative Logo
     has_nav: true
     nav_links:
