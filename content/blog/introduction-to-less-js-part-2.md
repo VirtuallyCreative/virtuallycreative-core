@@ -90,7 +90,8 @@ So we want to set a border radius but only want to type out the code once. We ca
 
 .rounded-corners() { border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; }
 
-#header { .rounded corners; } \[/css\]
+#header { .rounded corners; }
+```
 
 So here we made our mixin and gave it something to output. And this would work for our Example 3 /\* Compiled CSS in Browser \*/ result for #header but we want more control over the border-radius and we don't want to make a different mixin for each different radius size so we can give the mixin an arguement to pass through to our styling:
 
