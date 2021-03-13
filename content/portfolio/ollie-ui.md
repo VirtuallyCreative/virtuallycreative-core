@@ -5,11 +5,6 @@ date: '2020-05-08'
 thumb_image: images/Home-Ollie-UI-Starter-Kit-Documentation.png
 thumb_image_alt: Ollie-Ui starter kit documentation site home page
 sections:
-  - type: image_section
-    image_alt: Ollie-Ui Documentation Site Homepage
-    caption: Ollie-Ui Documentation Site Homepage
-    width: wide
-    image: images/ollie-ui-doc-site-homepage.jpg
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
@@ -20,6 +15,11 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
+  - type: image_section
+    image_alt: Ollie-Ui Documentation Site Homepage
+    caption: Ollie-Ui Documentation Site Homepage
+    width: wide
+    image: images/ollie-ui-doc-site-homepage.jpg
   - type: image_section
     image: images/work-poster-2.jpg
     image_alt: Design Is One 2
