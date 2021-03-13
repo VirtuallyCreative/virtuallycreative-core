@@ -34,7 +34,6 @@ sections:
       platform.
     width: wide
     type: image_section
-    image: images/wolfden-discourse-fullpage.png
 seo:
   title: Nature Mockup Magazine
   description: This is the sample project description
