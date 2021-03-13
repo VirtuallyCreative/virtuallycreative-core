@@ -32,7 +32,7 @@ params:
         url: /contact/
         style: button
       - label: Hosting
-        url: lorem-ipsum
+        url: 'https://hosting.virtuallycreative.ca/login'
         style: link
         icon: dribbble
         new_window: false
