@@ -7,11 +7,6 @@ thumb_image_alt: >-
   Bacon, captain of the Direwolves Airsoft peeking above the threshold of a
   staircase with rifle at the ready.
 sections:
-  - type: image_section
-    image_alt: Direwolves Homepage - Full Length
-    caption: Full Length Homepage
-    width: wide
-    image: images/homepage-direwolves-fulllength.jpg
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
@@ -22,6 +17,11 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
+  - type: image_section
+    image_alt: Direwolves Homepage - Full Length
+    caption: Full Length Homepage
+    width: wide
+    image: images/homepage-direwolves-fulllength.jpg
   - type: image_section
     image: images/work-book-2.jpg
     image_alt: Nature Mockup Magazine 2
