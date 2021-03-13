@@ -18,11 +18,16 @@ sections:
     width: wide
     caption: Screenshot showing Grid CSS code examples.
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      At the core of Allegretto, is a simple flex-box-based Row & Column system
+      similar to Bulma's style of  .col elements inside .row containers and it
+      does the rest. Add simple divisions of 12 ( .col-4 .col-8 , for example)
+      to quickly and easily build responsive layouts.
+
+
+      Building on this concept are some additional **Helpers **built into
+      Allegretto to help quickly show/hide elements while wireframing but also
+      keep or hide them from screen-readers and other accessible devices.
   - type: image_section
     image: images/allegretto-A-fast-lively-CSS-framework (2).png
     image_alt: Aimi 3
