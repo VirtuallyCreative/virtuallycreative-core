@@ -131,10 +131,12 @@ For our purpose, variables allow you to specify widely used values in a single p
 
 Inside our style.less we can define a variable by using the @ symbol before the desired variable name and then give it any value we want. Then we call the variable inside the CSS property #header:
 
-\[css\] @color: #FFFFFF;
+```CSS
+@color: #FFFFFF;
+
 
 #header { color: @color; } \[/css\]
-
+```
 Here we made a new variable @color: and it's value set to #FFFFFF. To use this new variable we made, we are going to assign it to color: by replacing the spot the color hex number (#FFFFFF) normally would of gone. If you save and refresh the page in a browser and view your CSS (I love Firebug for Firefox, or Inspect Element in Safari/Chrome) you should see:
 
 \[css\] #header { color: #FFFFFF; } \[/css\]
