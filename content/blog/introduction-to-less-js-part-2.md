@@ -95,4 +95,4 @@ So here we made our mixin and gave it something to output. And this would work f
 
 Now we have a Parametric Mixin! This would output the #footer result from Example 3 /\* Compiled CSS in Browser \*/ above. By passing the 10px as the mixin's arguement you can effectivly alter the created variable to your liking! You will use Mixins often if you choose to use LESS so this concept is particularly important. Try it out and play around with them to learn how they work.
 
-Continue on to [Introduction to LESS.js -Part 3](http:virtuallycreative.ca/introduction-to-less-js-part-3/) here.
+Continue on to [Introduction to LESS.js -Part 3](/introduction-to-less-js-part-3/) here.
