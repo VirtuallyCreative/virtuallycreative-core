@@ -100,7 +100,8 @@ So we want to set a border radius but only want to type out the code once. We ca
 /* LESS */
 
 .rounded-corners() { 
-    border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; }
+    border-radius: 5px; 
+    -webkit-border-radius: 5px; -moz-border-radius: 5px; }
 
 #header { .rounded corners; }
 ```
