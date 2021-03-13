@@ -26,7 +26,7 @@ sections:
     caption: Full Length Homepage - Ghost CMS
     width: wide
     image: images/homepage-direwolves-fulllength.jpg
-  - image_alt: lorem-ipsum
+  - image_alt: The Wolfden - DIrewolve's online community powered by Discource
     caption: lorem-ipsum
     width: regular
     type: image_section
