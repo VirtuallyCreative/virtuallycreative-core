@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>    
-
+        <script src="{{ "js/init.js" | relURL }}"></script>
         <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Title }}{{ end }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
