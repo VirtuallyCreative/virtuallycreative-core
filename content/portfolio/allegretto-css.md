@@ -14,7 +14,7 @@ sections:
     content: "## Features\n\n*   Fast and lively. With Unpkg CDN goodness.\n\n*   [Normalize CSS](http://nicolasgallagher.com/about-normalize-css/)\_reset baked in.\n\n*   [PostCSS \"pre-processing\"](https://css-tricks.com/the-trouble-with-preprocessing-based-on-future-specs/)\_support for\_[bleeding-edge CSS](https://preset-env.cssdb.org/).\n\n*   Build with Accessability in mind; A.O.D.A / W.C.A.G.\n\n*   Great for quick wireframing/prototyping.\n\n*   A simple 12-Col\_[grid](https://allegretto.herokuapp.com/#grid)\_using flexbox.\n\n*   Easy to\_[extend](https://allegretto.herokuapp.com/#customizing)\_with your own CSS variables.\n\n*   Comes with a handful of\_[components](https://allegretto.herokuapp.com/#components)\_&\_[utils.](https://allegretto.herokuapp.com/#utilities)\n\n*   Expects proper HTML5 semantic markup.\n\n## Getting Started\n\nAll you need is 1 CSS file,\_retto.min.css\_to be linked to your webpage. We recommend using\_[https://unpkg.com](https://unpkg.com/allegretto).\n"
   - type: image_section
     image: images/allegretto-A-fast-lively-CSS-framework (1).png
-    image_alt: Aimi 2
+    image_alt: 'Allegretto CSS '
     width: wide
   - type: text_section
     content: >-
