@@ -67,7 +67,7 @@ I know what you're thinking now.. "Wait a minute! You can't add variables and al
 
 Well you're correct! Natively Cascading Style Sheets doesn't support this style of scripting but when we add a very clever Javascript libary called LESS.js we can expand CSS beyond just its normal capabilities. Check this out:
 
-```less
+```CSS
 @color: #FFFFFF; #header { background-color: #000000; } h2 { color: @color; } /\* Compiled CSS in browser \*/ #header { background-color: #000000; } h2 { color: #FFFFFF; }
 ```
 
