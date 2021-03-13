@@ -7,12 +7,14 @@ thumb_image_alt: Ollie-Ui starter kit documentation site home page
 sections:
   - type: text_section
     content: >
-      Ollie-UI is a culmination of ~50 front-end developer decisions typically
-      made when starting a new project, so to never repeat myself going forward
+      [Ollie-UI](https://ollie-ui.dev) is a culmination of ~50 front-end
+      developer decisions typically made when starting a new project, so to
+      never repeat myself going forward
       ([DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)) I've
       bundled these decisions together into this starter-kit and thought I'd
-      open-source these decisions to help others, receive feedback and we can
-      all improve together!
+      [open-source these
+      decisions](https://github.com/VirtuallyCreative/ollie-ui) to help others,
+      receive feedback and we can all improve together!
   - type: image_section
     image_alt: Ollie-Ui Documentation Site Homepage
     caption: Ollie-Ui Documentation Site Homepage
