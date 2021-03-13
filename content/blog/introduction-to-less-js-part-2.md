@@ -71,7 +71,7 @@ So if you're like me and other developers/designers and want your fancy CSS 3 sh
      border-radius: @radius; 
      -webkit-border-radius: @radius; 
      -moz-border-radius: @radius; 
-     }
+}
 
 #header { 
     .rounded-corners; 
