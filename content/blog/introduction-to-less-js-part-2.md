@@ -51,7 +51,8 @@ This is something I love using when marking up CSS with LESS. Rather than constr
 
 Ok nothing new here. If you wanted to target children, you have to declare the parent first, then each child element till you arrive at the one you want to style. Boring!! With Nested Rules you can write Example 2 like this:
 
-\[css\] // LESS
+```css
+// LESS
 
 #header { h2 { font-size: 26px; font-weight: bold; } //Close h2 p { font-size: 12px; color: @color; a { text-decoration: none; &amp;:hover { border-width: 1px } //Close :hover } //Close a } //Close p } //Close #header \[/css\]
 
