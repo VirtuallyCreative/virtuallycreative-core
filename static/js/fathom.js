@@ -11,5 +11,3 @@
 })(document, window, '//analytics.virtuallycreative.ca/tracker.js', 'fathom');
 fathom('set', 'siteId', 'KMMXN');
 fathom('trackPageview');
-</script>
-<!-- / Fathom -->
