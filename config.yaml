@@ -35,7 +35,7 @@ params:
         url: 'https://hosting.virtuallycreative.ca/login'
         style: button
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     logo: images/Logo-Big.png
