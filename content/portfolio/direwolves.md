@@ -8,7 +8,7 @@ thumb_image_alt: >-
   staircase with rifle at the ready.
 sections:
   - type: image_section
-    image_alt: Nature Mockup Magazine 1
+    image_alt: Direwolves Homepage - Full Length
     caption: This is the caption of the image
     width: wide
     image: images/homepage-direwolves-fulllength.jpg
