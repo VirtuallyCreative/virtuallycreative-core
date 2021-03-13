@@ -29,7 +29,9 @@ sections:
   - image_alt: >-
       The Wolfden - DIrewolve's online community powered by Discourse discussion
       platform.
-    caption: lorem-ipsum
+    caption: >-
+      The Wolfden - DIrewolve's online community powered by Discourse discussion
+      platform.
     width: regular
     type: image_section
 seo:
