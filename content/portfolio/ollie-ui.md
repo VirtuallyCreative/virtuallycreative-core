@@ -21,15 +21,7 @@ sections:
     width: wide
     image: images/ollie-ui-doc-site-homepage.jpg
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "## Why Ollie\n\nLots of decisions can go into a boilerplate - so after making these decisions over and over they're now baked into this JavaScript Stater Kit.\n\nSome of the things out of the box are,\n\n*   **Webpack Devel­op­ment / Pro­duc­tion**\_ —  Sep­a­rate dev and prod con­figs & builds. Local devel­op­ment means fast builds via the in-mem­o­ry web­pack-dev-serv­er, and for pro­duc­tion builds every pos­si­ble opti­miza­tion needs to be utilized, making for slower builds at the gain of better optimizations.\n\n*   **Hot Mod­ule Replace­ment**\_ —  as changes are made to JavaScript, CSS, or tem­plates, the web­page seam­less­ly refreshes.\n\n*   **Dynam­ic Code Split­ting**  —  Webpack sorts out how to chunk JavaScript in a con­fig file, auto-magically.\n\n*   **Async Dynam­ic Mod­ule Load­ing**\_- Load only the code/​resources need­ed, when they are need­ed, with­out ren­der blocking.\n\n*   **Mod­ern to Lega­cy JS Bun­dles**\_—  Deploy mod­ern ES2019+ JavaScript mod­ules while grace­ful­ly pro­vid­ing a fall­back lega­cy bun­dle for lega­cy browsers (with all of the tran­spiled code and polyfills).\n\n*   **Cache Bust­ing via manifest.json**\_- Sets long expiry data for our sta­t­ic assets, while also ensur­ing that they are auto­mat­i­cal­ly cache bust­ed if they change.\n\n*   **Crit­i­cal CSS**\_ —  This is some­thing that makes ini­tial page loads sig­nif­i­cant­ly faster by only delivering the styles needed first.\n\n*   **Work­box Ser­vice Work­er**\_ —  Lever­age Google’s Work­box project to gen­er­ate a Ser­vice Work­er for us that will know about all of our project’s assets.\n\n*   **PostC­SS**\_—  The ​“Babel of CSS”, lets you SASS like a boss.\n\n*   **Image Opti­miza­tion**\_ —  Opti­mize them via auto­mat­ed tools like mozjpeg, optipng, svgo, etc for next step...\n\n*   **Auto­mat­ic .webp Cre­ation**\_ —  Chrome, Edge, and Fire­fox all are sup­port­ing .webp, and can signifigantly boost performance.\n"
 seo:
   title: Design Is One
   description: This is the sample project description
