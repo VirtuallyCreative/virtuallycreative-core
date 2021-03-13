@@ -71,7 +71,8 @@ Well you're correct! Natively Cascading Style Sheets doesn't support this style 
 @color: #FFFFFF; 
 #header { background-color: #000000; } 
 h2 { color: @color; } 
-\* Compiled CSS in browser \*/ #header { background-color: #000000; } h2 { color: #FFFFFF; }
+\* Compiled CSS in browser \*
+#header { background-color: #000000; } h2 { color: #FFFFFF; }
 ```
 
 That is LESS in action with CSS. Don't worry if this looks confusing, all will be explained by reading this shortly. If you already grasp the concept outlined above then you're well on your way to seeing how powerful LESS is and will help in day-to-day CSS coding.
