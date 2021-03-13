@@ -31,7 +31,7 @@ params:
       - label: Contact
         url: /contact/
         style: button
-    logo: images/logo-dark.svg
+    logo: images/Logo-Big.png
   footer:
     content: >-
       &copy; Virtually(Creative) v6.0 - <a
