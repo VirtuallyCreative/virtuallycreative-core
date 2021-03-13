@@ -95,7 +95,7 @@ So we want to set a border radius but only want to type out the code once. We ca
 
 So here we made our mixin and gave it something to output. And this would work for our Example 3 /\* Compiled CSS in Browser \*/ result for #header but we want more control over the border-radius and we don't want to make a different mixin for each different radius size so we can give the mixin an arguement to pass through to our styling:
 
-\[css\] //LESS
+```css //LESS
 
 .rounded-corners(@radius: 5px;) { // 1) We create our new variable inside the Mixin border-radius: @radius; // 2) We then Add the Variable where it needs to appear to affect the styling -webkit-border-radius: @radius; -moz-border-raidus: @radius; }
 
