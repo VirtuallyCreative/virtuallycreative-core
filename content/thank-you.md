@@ -3,9 +3,10 @@ title: Thank You!
 hide_title: false
 sections:
   - type: hero_section
-    content: >
-      Virtually(Creative) is a solo freelance operation that appreciates your
-      business!
+    content: >+
+      Virtually(Creative) is a solo freelance operation and appreciates your
+      business
+
     actions:
       - label: Back to Main
         url: /
