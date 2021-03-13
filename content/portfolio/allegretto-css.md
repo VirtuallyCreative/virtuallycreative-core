@@ -20,12 +20,13 @@ sections:
   - type: text_section
     content: >
       At the core of Allegretto, is a simple flex-box-based Row & Column system
-      similar to Bulma's style of  .col elements inside .row containers and it
-      does the rest. Add simple divisions of 12 ( .col-4 .col-8 , for example)
-      to quickly and easily build responsive layouts.
+      similar to Bulma's style of columns inside row containers and it
+      automatically calculates the widths between them using Flex. Add simple
+      divisions of 12 ( .col-4 .col-8 , for example) to quickly and easily build
+      responsive layouts.
 
 
-      Building on this concept are some additional **Helpers **built into
+      Building on this concept is some additional **Helpers** built into
       Allegretto to help quickly show/hide elements while wireframing but also
       keep or hide them from screen-readers and other accessible devices.
   - type: image_section
