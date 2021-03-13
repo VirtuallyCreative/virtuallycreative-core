@@ -11,6 +11,7 @@ sections:
     image_alt: Nature Mockup Magazine 1
     caption: This is the caption of the image
     width: wide
+    image: images/homepage-direwolves-fulllength.jpg
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
