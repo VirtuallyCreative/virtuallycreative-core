@@ -45,7 +45,9 @@ layout: post
 
 This is something I love using when marking up CSS with LESS. Rather than constructing long selector names to specify inheritance, in LESS you can simply nest selectors inside other selectors. This makes inheritance from parents much easier to visualize on a page, at least in my opinion. Check this out, this is how you should normally go about styling the paragraph in our header HTML markup:
 
-\[css\] #header h2 { font-size: 26px; font-weight: bold; } #header p { font-size: 12px; color: #FFFFFF; } #header p a { text-decoration: none; } #header p a:hover { border-width: 1px; } \[/css\]
+```css
+#header h2 { font-size: 26px; font-weight: bold; } #header p { font-size: 12px; color: #FFFFFF; } #header p a { text-decoration: none; } #header p a:hover { border-width: 1px; }
+```
 
 Ok nothing new here. If you wanted to target children, you have to declare the parent first, then each child element till you arrive at the one you want to style. Boring!! With Nested Rules you can write Example 2 like this:
 
