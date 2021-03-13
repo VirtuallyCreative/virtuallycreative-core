@@ -81,7 +81,7 @@ If you already use LESS in your CSS projects then please let us know how you use
 
 #### LESS Info:
 
-LESS was developed by [Alexis Sellier](http://cloudhead.io/ "Alexis Sellier"), more commonly known as [cloudhead](http://cloudhead.io/ "cloudhead"). I am in no way or part taking credit for LESS obviously, just showing you some really cool ways to use it in your CSS coding. You can read more information, see some of the tutorial examples and learn more about LESS.js on the [official page](http://lesscss.org/ "External link").
+LESS was developed by [Alexis Sellier](https://cloudhead.io/ "Alexis Sellier"), more commonly known as [cloudhead](https://cloudhead.io/ "cloudhead"). I am in no way or part taking credit for LESS obviously, just showing you some really cool ways to use it in your CSS coding. You can read more information, see some of the tutorial examples and learn more about LESS.js on the [official page](http://lesscss.org/ "External link").
 
 **\*\*\*NOTE:**In order to use LESS you will need to make sure your browser has Javascript turned on as your website now requires Javascript to display all styling. If you plan to use LESS for mobile development you might run into some issues with Javascript running in some browsers. We will cover a "hack" to solve this issue. But Remember that it requires Javascript to run (LESS, not the "hack")! **END NOTE\*\*\***
 
