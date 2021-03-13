@@ -33,6 +33,7 @@ sections:
     image: images/allegretto-A-fast-lively-CSS-framework (2).png
     image_alt: Common Helpers
     width: wide
+    caption: 'Allegretto-specific CSS helpers for handling '
 seo:
   title: Aimi
   description: This is the sample project description
