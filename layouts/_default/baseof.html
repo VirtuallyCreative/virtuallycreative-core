@@ -36,21 +36,7 @@
         {{ if .Site.Params.favicon }}
         <link rel="icon" href="{{ $.Site.Params.favicon | relURL }}">
         {{ end }}
-        <!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
-<script>
-(function(f, a, t, h, o, m){
-	a[h]=a[h]||function(){
-		(a[h].q=a[h].q||[]).push(arguments)
-	};
-	o=f.createElement('script'),
-	m=f.getElementsByTagName('script')[0];
-	o.async=1; o.src=t; o.id='fathom-script';
-	m.parentNode.insertBefore(o,m)
-})(document, window, '//analytics.virtuallycreative.ca/tracker.js', 'fathom');
-fathom('set', 'siteId', 'KMMXN');
-fathom('trackPageview');
-</script>
-<!-- / Fathom -->
+
     </head>
     <body class="font-{{ .Site.Params.base_font }} palette-{{ .Site.Params.color_scheme }} accent-{{ .Site.Params.accent_color }}">
         
