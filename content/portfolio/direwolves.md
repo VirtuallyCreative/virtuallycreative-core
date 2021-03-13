@@ -8,15 +8,19 @@ thumb_image_alt: >-
   staircase with rifle at the ready.
 sections:
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      The Direwolves airsoft team uses two platforms, Ghost CMS & Discourse in
+      tandem to create their online presence for their airsoft team members,
+      hosted on DigitalOcean for a robust architecture that scales as needed.
+
+
+      The solution uses a webhook between Ghost and Discourse to create an SSO
+      connection so users of the Ghost platform that are subscribed also can log
+      in to Discourse to continue the discussion. Ghost's comments on each post
+      are also powered by Discourse and appear on both sites, synced.
+
+
+      ![](/images/direwolves-tech-stack.svg)
   - type: image_section
     image_alt: Direwolves Homepage - Full Length
     caption: Full Length Homepage
