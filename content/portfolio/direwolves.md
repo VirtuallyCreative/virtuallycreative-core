@@ -34,6 +34,7 @@ sections:
       platform.
     width: wide
     type: image_section
+    image: images/terrific-strawberry.png
 seo:
   title: Nature Mockup Magazine
   description: This is the sample project description
