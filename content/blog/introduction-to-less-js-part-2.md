@@ -75,7 +75,7 @@ So if you're like me and other developers/designers and want your fancy CSS 3 sh
 
 #header { 
     .rounded-corners; 
-    } 
+} 
 #footer { 
     background-color: @footcolor; 
     .rounded-corners(10px); 
