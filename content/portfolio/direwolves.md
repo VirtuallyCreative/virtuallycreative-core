@@ -24,7 +24,7 @@ sections:
   - type: image_section
     image_alt: Direwolves Homepage - Full Length
     caption: Full Length Homepage - Ghost CMS
-    width: wide
+    width: regular
     image: images/homepage-direwolves-fulllength.jpg
   - image_alt: >-
       The Wolfden - DIrewolve's online community powered by Discourse discussion
