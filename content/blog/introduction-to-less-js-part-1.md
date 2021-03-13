@@ -99,7 +99,6 @@ To acheive what we did with that _#header_ and _h2_ property above, a couple
 **Step 2:** Start a blank HTML document and either make your own markup or paste the markup below to follow along. We will not be building anything of signifigance HTML layout wise, more just basic elements to help display CSS concepts required for learning, but I do have an important note to make within the _<head>_ tags. This would be a document for your website if it was a real project. Since we are going to be using an external stylesheet for this tutorial you need to link to your css file within the _<head>_ of your HTML and load the LESS.js like any normal CSS stylesheet and Javascript file but their is a difference, can you spot it?:
 
 ```HTML
-
 <meta charset="UTF-8"> <title>LESS.js Tutorial</title> <!-- LESS Stylesheet --> <link rel="stylesheet/less" type="text/css" href="css/style.less">
 
 <!-- LESS Javascript --> <script src="http://lesscss.googlecode.com/files/less-1.0.41.min.js"></script> <div id="header"> <h2>A Headline</h2> This is some text with an <a href="#">anchor</a> present.
