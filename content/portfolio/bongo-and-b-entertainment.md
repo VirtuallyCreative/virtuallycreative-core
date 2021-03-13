@@ -3,7 +3,19 @@ title: Bongo and B Entertainment
 subtitle: WordPress | Shopapreneur
 date: '2021-03-13'
 thumb_image_alt: Bongo and B Custom Revolution Slider Hero
-sections: []
+sections:
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: text_section
 seo:
   title: ''
   description: ''
