@@ -28,7 +28,9 @@ sections:
 
       Building on this concept is some additional **Helpers** built into
       Allegretto to help quickly show/hide elements while wireframing but also
-      keep or hide them from screen-readers and other accessible devices.
+      keep or hide them from screen-readers and other accessible devices as well
+      as provide an accessible fall-back when using SVG images for interactive
+      elements.
   - type: image_section
     image: images/allegretto-A-fast-lively-CSS-framework (2).png
     image_alt: Common Helpers
