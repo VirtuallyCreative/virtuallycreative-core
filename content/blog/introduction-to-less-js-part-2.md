@@ -99,7 +99,8 @@ So here we made our mixin and gave it something to output. And this would work f
 
 .rounded-corners(@radius: 5px;) { // 1) We create our new variable inside the Mixin border-radius: @radius; // 2) We then Add the Variable where it needs to appear to affect the styling -webkit-border-radius: @radius; -moz-border-raidus: @radius; }
 
-#footer { background-color: @footcolor; .rounded-corners(10px); } \[/css\]
+#footer { background-color: @footcolor; .rounded-corners(10px); }
+```
 
 Now we have a Parametric Mixin! This would output the #footer result from Example 3 /\* Compiled CSS in Browser \*/ above. By passing the 10px as the mixin's arguement you can effectivly alter the created variable to your liking! You will use Mixins often if you choose to use LESS so this concept is particularly important. Try it out and play around with them to learn how they work.
 
