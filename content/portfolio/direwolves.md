@@ -23,7 +23,7 @@ sections:
       ![](/images/direwolves-tech-stack.svg)
   - type: image_section
     image_alt: Direwolves Homepage - Full Length
-    caption: Full Length Homepage
+    caption: Full Length Homepage - Ghost CMS
     width: wide
     image: images/homepage-direwolves-fulllength.jpg
 seo:
