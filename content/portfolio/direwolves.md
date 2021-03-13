@@ -9,7 +9,7 @@ thumb_image_alt: >-
 sections:
   - type: image_section
     image_alt: Direwolves Homepage - Full Length
-    caption: This is the caption of the image
+    caption: Full Length Homepage
     width: wide
     image: images/homepage-direwolves-fulllength.jpg
   - type: text_section
