@@ -1,6 +1,6 @@
 ---
 title: Bongo and B Entertainment
-subtitle: Bongo and B Entertainment
+subtitle: WordPress | Shopapreneur
 date: '2021-03-13'
 thumb_image_alt: lorem-ipsum
 sections: []
