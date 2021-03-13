@@ -3,7 +3,9 @@ title: direwolves.ca
 subtitle: Ghost CMS | Bespokepreneur
 date: '2020-05-15'
 thumb_image: images/Bacon_Stairs_PeekaBoo-5.jpg
-thumb_image_alt: Nature Mockup Magazine preview
+thumb_image_alt: >-
+  Bacon, captain of the Direwolves Airsoft peeking above the threshold of a
+  staircase with rifle at the ready.
 sections:
   - type: image_section
     image: images/work-book-1.jpg
