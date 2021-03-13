@@ -16,6 +16,7 @@ sections:
     image: images/allegretto-A-fast-lively-CSS-framework (1).png
     image_alt: Screenshot showing Grid CSS code examples.
     width: wide
+    caption: Screenshot showing Grid CSS code examples.
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
