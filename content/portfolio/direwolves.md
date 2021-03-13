@@ -26,6 +26,10 @@ sections:
     caption: Full Length Homepage - Ghost CMS
     width: wide
     image: images/homepage-direwolves-fulllength.jpg
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   title: Nature Mockup Magazine
   description: This is the sample project description
