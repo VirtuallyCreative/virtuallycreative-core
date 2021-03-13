@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Bongo and B Entertainment
 subtitle: lorem-ipsum
 date: '2021-03-13'
 thumb_image_alt: lorem-ipsum
