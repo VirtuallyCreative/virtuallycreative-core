@@ -31,7 +31,7 @@ params:
       - label: Contact
         url: /contact/
         style: button
-      - label: lorem-ipsum
+      - label: Hosting
         url: lorem-ipsum
         style: link
         icon: dribbble
