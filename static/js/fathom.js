@@ -1,5 +1,3 @@
-        <!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
-<script>
 (function(f, a, t, h, o, m){
 	a[h]=a[h]||function(){
 		(a[h].q=a[h].q||[]).push(arguments)
