@@ -7,7 +7,7 @@ thumb_image_alt: Allegretto CSS Open Source Framework Home Page Hero
 sections:
   - type: image_section
     image: images/snapshot.png
-    image_alt: Allegretto CSS micro-framework logo
+    image_alt: Allegretto CSS micro-framework hero area
     width: wide
     caption: Allegretto CSS micro-framework logo
   - type: text_section
