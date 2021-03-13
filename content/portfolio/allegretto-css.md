@@ -9,6 +9,7 @@ sections:
     image: images/snapshot.png
     image_alt: Allegretto CSS micro-framework logo
     width: wide
+    caption: Allegretto CSS micro-framework logo
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
