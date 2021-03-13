@@ -7,7 +7,7 @@ thumb_image_alt: Ollie-Ui starter kit documentation site home page
 sections:
   - type: image_section
     image_alt: Ollie-Ui Documentation Site Homepage
-    caption: This is the caption of the image
+    caption: Ollie-Ui Documentation Site Homepage
     width: wide
     image: images/ollie-ui-doc-site-homepage.jpg
   - type: text_section
