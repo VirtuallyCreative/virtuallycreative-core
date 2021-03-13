@@ -6,7 +6,6 @@ thumb_image: images/Home-Ollie-UI-Starter-Kit-Documentation.png
 thumb_image_alt: Ollie-Ui starter kit documentation site home page
 sections:
   - type: image_section
-    image: images/work-poster-1.jpg
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
