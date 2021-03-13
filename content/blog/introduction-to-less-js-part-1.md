@@ -111,7 +111,8 @@ To acheive what we did with that _#header_ and _h2_ property above, a couple
     <h2>A Headline</h2> 
     This is some text with an <a href="#">anchor</a> present.
 
-</div> <!-- /header --> <div id="footer"> <a href="#">Link Name</a></div> <!-- /footer -->
+</div> <!-- /header --> 
+<div id="footer"> <a href="#">Link Name</a></div> <!-- /footer -->
 ```
 
 If you noticed, the _rel="stylesheet/less"_ and the _href="styles.less"_ are different than the normal _"stylesheet/css"_ and _styles.css_ respectively. In our case LESS uses a special stylesheet ending (.less) which it parses and then outputs a live stylesheet for the browser. Nifty huh! So that means our default stylesheet has a .less ending hence the _"stylesheet/less"_ relationship. After that, we need to import the logic for LESS locally **(Option 1)**, or by calling it with the URL version posted in Step 1 **(Option 2)**. **DO NOT USE BOTH OPTIONS!**
