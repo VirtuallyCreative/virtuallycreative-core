@@ -33,7 +33,9 @@ sections:
     image: images/allegretto-A-fast-lively-CSS-framework (2).png
     image_alt: Common Helpers
     width: wide
-    caption: 'Allegretto-specific CSS helpers for handling '
+    caption: >-
+      Allegretto-specific CSS helpers for handling failing to load SVGs and
+      show/hide elements from screen-readers.
 seo:
   title: Aimi
   description: This is the sample project description
