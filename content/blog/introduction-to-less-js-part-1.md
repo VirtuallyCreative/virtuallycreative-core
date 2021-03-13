@@ -135,7 +135,7 @@ Inside our style.less we can define a variable by using the @ symbol before the 
 @color: #FFFFFF;
 
 
-#header { color: @color; } \[/css\]
+#header { color: @color; }
 ```
 Here we made a new variable @color: and it's value set to #FFFFFF. To use this new variable we made, we are going to assign it to color: by replacing the spot the color hex number (#FFFFFF) normally would of gone. If you save and refresh the page in a browser and view your CSS (I love Firebug for Firefox, or Inspect Element in Safari/Chrome) you should see:
 
