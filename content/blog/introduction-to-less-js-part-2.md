@@ -52,7 +52,7 @@ This is something I love using when marking up CSS with LESS. Rather than constr
 Ok nothing new here. If you wanted to target children, you have to declare the parent first, then each child element till you arrive at the one you want to style. Boring!! With Nested Rules you can write Example 2 like this:
 
 ```css
-#header { h2 { font-size: 26px; font-weight: bold; } //Close h2 p { font-size: 12px; color: @color; a { text-decoration: none; &amp;:hover { border-width: 1px } //Close :hover } //Close a } //Close p } //Close header \[/css\]
+#header { h2 { font-size: 26px; font-weight: bold; } //Close h2 p { font-size: 12px; color: @color; a { text-decoration: none; &amp;:hover { border-width: 1px } //Close :hover } //Close a } //Close p } //Close  header \[/css\]
 
 Now, when you "nest" a child element inside its parent, it takes all the styling of the parent and applies it to the children for you! Notice the & combinator. It is used when you want a nested selector to be concatenated (joined) to its parent selector, instead of acting as a descendent. This is especially important for pseudo-classes like :hover and :focus. I'll wait a second while you calm yourself from the realization of how much time you could of saved yourself on past projects using this method. Are you ok to continue now? Your sure? Okay, awesome!
 
