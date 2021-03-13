@@ -61,7 +61,7 @@ Now, when you "nest" a child element inside its parent, it takes all the styling
 
 So if you're like me and other developers/designers and want your fancy CSS 3 shadows, rounded borders etc... working on all browers you know the pain of typing out all the versions for each runtime (moz, webkit, standard) so this is where Mix-In's come into play. **Mixins allow you to embed all the properties of a class into another class by simply including the class name as one of its properties!** Yes, I realize that sounds like a mouthful, but think of it like a variable, but for whole CSS classes. **Mixins can also behave like functions too and take arguments as well**, as seen below in Example 3:
 
-\[css\] // LESS
+```css // LESS
 
 @footcolor: #000000;
 
