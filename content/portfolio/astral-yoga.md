@@ -13,6 +13,9 @@ sections:
       ## Faye - Ghost CMS Theme
 
 
+      ![](/images/Ghost-Logo.svg)
+
+
       Faye is a minimalist theme built on the default Ghost CMS theme, Casper.
       Using sensible defaults for typography, spacing and visual accent Faye
       means bringing focus to content.
