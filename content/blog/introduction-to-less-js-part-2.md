@@ -78,7 +78,8 @@ So if you're like me and other developers/designers and want your fancy CSS 3 sh
     } 
 #footer { 
     background-color: @footcolor; 
-    .rounded-corners(10px); }
+    .rounded-corners(10px); 
+}
 
 /* Compiled CSS in browser */
 
