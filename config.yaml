@@ -33,7 +33,7 @@ params:
         style: button
       - label: Hosting
         url: 'https://hosting.virtuallycreative.ca/login'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
