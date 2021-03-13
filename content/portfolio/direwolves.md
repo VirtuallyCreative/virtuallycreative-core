@@ -32,7 +32,7 @@ sections:
     caption: >-
       The Wolfden - DIrewolve's online community powered by Discourse discussion
       platform.
-    width: regular
+    width: wide
     type: image_section
     image: images/wolfden-discourse-fullpage.png
 seo:
