@@ -12,8 +12,7 @@ image_alt: White concrete building wall
 seo:
   title: Introduction to LESS.js -Part 2
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore
+    Learning more about LESS with nested rules, mixins and more.
   extra:
     - name: 'og:type'
       value: article
