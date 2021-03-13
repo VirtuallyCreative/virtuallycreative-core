@@ -22,10 +22,6 @@ sections:
     caption: Full Length Homepage
     width: wide
     image: images/homepage-direwolves-fulllength.jpg
-  - type: image_section
-    image: images/work-book-2.jpg
-    image_alt: Nature Mockup Magazine 2
-    width: wide
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
