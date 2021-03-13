@@ -22,8 +22,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore
+       Learning more about LESS with nested rules, mixins and more.
       keyName: property
     - name: 'og:image'
       value: images/lessLgImg.png
@@ -35,8 +34,7 @@ seo:
       value: Introduction to LESS.js -Part 2
     - name: 'twitter:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore
+        Learning more about LESS with nested rules, mixins and more.
     - name: 'twitter:image'
       value: images/lessLgImg.png
       relativeUrl: true
